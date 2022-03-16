@@ -1,0 +1,2147 @@
+FPModel{dep_time=5140, arr_time=5270, lon1=19.9119085, lon2=20.965229094999998, lat1=39.601779, lat2=52.16622913, icao24='1868_441_SP-ENZ', lat_c=0.0, lon_c=0.0, unix_time=1643294286, true_track=null, dep_apt='LGKR', arr_apt='EPWA'}
+FPModel{dep_time=5140, arr_time=5270, lon1=19.9119085, lon2=20.965229094999998, lat1=39.601779, lat2=52.16622913, icao24='1868_441_SP-ENZ', lat_c=0.0, lon_c=0.0, unix_time=1643294286, true_track=null, dep_apt='LGKR', arr_apt='EPWA'}
+FPModel{dep_time=5200, arr_time=5430, lon1=25.285796089999998, lon2=-1.063043, lat1=54.634166495, lat2=41.6718335, icao24='1869_441_SP-ESC', lat_c=0.0, lon_c=0.0, unix_time=1643294286, true_track=null, dep_apt='EYVI', arr_apt='LEZG'}
+FPModel{dep_time=5255, arr_time=5445, lon1=17.977624165, lon2=30.792668, lat1=53.096851715, lat2=36.9003125, icao24='1876_442_SP-ESA', lat_c=0.0, lon_c=0.0, unix_time=1643294286, true_track=null, dep_apt='EPBY', arr_apt='LTAI'}
+FPModel{dep_time=5255, arr_time=5445, lon1=17.977624165, lon2=30.792668, lat1=53.096851715, lat2=36.9003125, icao24='1876_442_SP-ESA', lat_c=0.0, lon_c=0.0, unix_time=1643294286, true_track=null, dep_apt='EPBY', arr_apt='LTAI'}
+FPModel{dep_time=5170, arr_time=5310, lon1=24.957730499999997, lon2=16.55450675, lat1=60.3209905, lat2=48.115931, icao24='2794_685_OH-LZB', lat_c=0.0, lon_c=0.0, unix_time=1643294286, true_track=null, dep_apt='EFHK', arr_apt='LOWW'}
+FPModel{dep_time=5200, arr_time=5330, lon1=23.971193, lon2=11.794361, lat1=56.9236625, lat2=48.364822000000004, icao24='2943_746_YL-CSN', lat_c=0.0, lon_c=0.0, unix_time=1643294286, true_track=null, dep_apt='EVRA', arr_apt='EDDM'}
+FPModel{dep_time=5200, arr_time=5330, lon1=23.971193, lon2=11.794361, lat1=56.9236625, lat2=48.364822000000004, icao24='2943_746_YL-CSN', lat_c=0.0, lon_c=0.0, unix_time=1643294286, true_track=null, dep_apt='EVRA', arr_apt='EDDM'}
+FPModel{dep_time=5205, arr_time=5370, lon1=13.505561, lon2=37.9248805, lat1=52.37256, lat2=55.4092845, icao24='3828_922_VP-BDG', lat_c=0.0, lon_c=0.0, unix_time=1643294286, true_track=null, dep_apt='EDDB', arr_apt='UUDD'}
+FPModel{dep_time=5155, arr_time=5360, lon1=6.76916523, lon2=37.9248805, lat1=51.287792010000004, lat2=55.4092845, icao24='3866_929_VP-BOG', lat_c=0.0, lon_c=0.0, unix_time=1643294286, true_track=null, dep_apt='EDDL', arr_apt='UUDD'}
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:07 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+timeDif: 227    total_time: 540    timePercentage: 0.4203703703703704    current_time: 315487
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.55735155639191   longitude: 20.914184816780157   altitude: 30000
+Speed = 0.0
+
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:07 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+timeDif: 227    total_time: 540    timePercentage: 0.4203703703703704    current_time: 315487
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.55735155639191   longitude: 20.914184816780157   altitude: 30000
+Speed = 0.0
+
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:07 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+timeDif: 227    total_time: 540    timePercentage: 0.4203703703703704    current_time: 315487
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.55735155639191   longitude: 20.914184816780157   altitude: 21000
+Speed = 0.0
+
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:07 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+timeDif: 227    total_time: 540    timePercentage: 0.4203703703703704    current_time: 315487
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.55735155639191   longitude: 20.914184816780157   altitude: 21000
+Speed = 0.0
+
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:12 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+timeDif: 232    total_time: 540    timePercentage: 0.42962962962962964    current_time: 315492
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.56707803520354   longitude: 20.915000220585586   altitude: 12000
+Speed = 197.17135279627144
+
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:12 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+timeDif: 232    total_time: 540    timePercentage: 0.42962962962962964    current_time: 315492
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.56707803520354   longitude: 20.915000220585586   altitude: 12000
+Speed = 197.17135279627144
+
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:17 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315497
+timeDif: 237    total_time: 540    timePercentage: 0.4388888888888889    current_time: 315497
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.576804514015166   longitude: 20.915815624391016   altitude: 12000
+Speed = 197.17028900299013
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:17 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315497
+timeDif: 237    total_time: 540    timePercentage: 0.4388888888888889    current_time: 315497
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.576804514015166   longitude: 20.915815624391016   altitude: 12000
+Speed = 197.17028900299013
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:22 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315502
+timeDif: 242    total_time: 540    timePercentage: 0.44814814814814813    current_time: 315502
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.5865309928268   longitude: 20.916631028196445   altitude: 12000
+Speed = 197.1692251702832
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:22 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315502
+timeDif: 242    total_time: 540    timePercentage: 0.44814814814814813    current_time: 315502
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.5865309928268   longitude: 20.916631028196445   altitude: 12000
+Speed = 197.1692251702832
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:27 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315507
+timeDif: 247    total_time: 540    timePercentage: 0.45740740740740743    current_time: 315507
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.59625747163843   longitude: 20.91744643200187   altitude: 12000
+Speed = 197.16816129771522
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:27 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315507
+timeDif: 247    total_time: 540    timePercentage: 0.45740740740740743    current_time: 315507
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.59625747163843   longitude: 20.91744643200187   altitude: 12000
+Speed = 197.16816129771522
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:32 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315512
+timeDif: 252    total_time: 540    timePercentage: 0.4666666666666667    current_time: 315512
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.60598395045006   longitude: 20.9182618358073   altitude: 12000
+Speed = 197.16709738573576
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:32 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315512
+timeDif: 252    total_time: 540    timePercentage: 0.4666666666666667    current_time: 315512
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.60598395045006   longitude: 20.9182618358073   altitude: 12000
+Speed = 197.16709738573576
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:37 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315517
+timeDif: 257    total_time: 540    timePercentage: 0.4759259259259259    current_time: 315517
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.61571042926169   longitude: 20.91907723961273   altitude: 12000
+Speed = 197.16603343418143
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:37 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315517
+timeDif: 257    total_time: 540    timePercentage: 0.4759259259259259    current_time: 315517
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.61571042926169   longitude: 20.91907723961273   altitude: 12000
+Speed = 197.16603343418143
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:42 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315522
+timeDif: 262    total_time: 540    timePercentage: 0.48518518518518516    current_time: 315522
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.625436908073326   longitude: 20.91989264341816   altitude: 12000
+Speed = 197.1649694432024
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:42 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315522
+timeDif: 262    total_time: 540    timePercentage: 0.48518518518518516    current_time: 315522
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.625436908073326   longitude: 20.91989264341816   altitude: 12000
+Speed = 197.1649694432024
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:47 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315527
+timeDif: 267    total_time: 540    timePercentage: 0.49444444444444446    current_time: 315527
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.635163386884955   longitude: 20.920708047223588   altitude: 12000
+Speed = 197.16390541237007
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:47 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315527
+timeDif: 267    total_time: 540    timePercentage: 0.49444444444444446    current_time: 315527
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.635163386884955   longitude: 20.920708047223588   altitude: 12000
+Speed = 197.16390541237007
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:52 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315532
+timeDif: 272    total_time: 540    timePercentage: 0.5037037037037037    current_time: 315532
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.644889865696584   longitude: 20.921523451029017   altitude: 12000
+Speed = 197.16284134211332
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:52 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315532
+timeDif: 272    total_time: 540    timePercentage: 0.5037037037037037    current_time: 315532
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.644889865696584   longitude: 20.921523451029017   altitude: 12000
+Speed = 197.16284134211332
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:57 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315537
+timeDif: 277    total_time: 540    timePercentage: 0.512962962962963    current_time: 315537
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.65461634450821   longitude: 20.922338854834443   altitude: 12000
+Speed = 197.16177723228267
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:38:57 CET 2022   Mon Jan 24 00:00:00 CET 2022   5258
+Aircraft is descending
+arr_time: 316200 current_time: 315537
+timeDif: 277    total_time: 540    timePercentage: 0.512962962962963    current_time: 315537
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.65461634450821   longitude: 20.922338854834443   altitude: 12000
+Speed = 197.16177723228267
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:02 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315542
+timeDif: 282    total_time: 540    timePercentage: 0.5222222222222223    current_time: 315542
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.66434282331985   longitude: 20.923154258639872   altitude: 12000
+Speed = 197.1607130830419
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:02 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315542
+timeDif: 282    total_time: 540    timePercentage: 0.5222222222222223    current_time: 315542
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.66434282331985   longitude: 20.923154258639872   altitude: 12000
+Speed = 197.1607130830419
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:07 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315547
+timeDif: 287    total_time: 540    timePercentage: 0.5314814814814814    current_time: 315547
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.67406930213148   longitude: 20.9239696624453   altitude: 12000
+Speed = 197.15964889394184
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:07 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315547
+timeDif: 287    total_time: 540    timePercentage: 0.5314814814814814    current_time: 315547
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.67406930213148   longitude: 20.9239696624453   altitude: 12000
+Speed = 197.15964889394184
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:12 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315552
+timeDif: 292    total_time: 540    timePercentage: 0.5407407407407407    current_time: 315552
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.68379578094311   longitude: 20.92478506625073   altitude: 12000
+Speed = 197.15858466541832
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:12 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315552
+timeDif: 292    total_time: 540    timePercentage: 0.5407407407407407    current_time: 315552
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.68379578094311   longitude: 20.92478506625073   altitude: 12000
+Speed = 197.15858466541832
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:17 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315557
+timeDif: 297    total_time: 540    timePercentage: 0.55    current_time: 315557
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.69352225975474   longitude: 20.92560047005616   altitude: 12000
+Speed = 197.1575203973286
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:17 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315557
+timeDif: 297    total_time: 540    timePercentage: 0.55    current_time: 315557
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.69352225975474   longitude: 20.92560047005616   altitude: 12000
+Speed = 197.1575203973286
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:22 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315562
+timeDif: 302    total_time: 540    timePercentage: 0.5592592592592592    current_time: 315562
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.70324873856637   longitude: 20.92641587386159   altitude: 12000
+Speed = 197.1564560898159
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:22 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315562
+timeDif: 302    total_time: 540    timePercentage: 0.5592592592592592    current_time: 315562
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.70324873856637   longitude: 20.92641587386159   altitude: 12000
+Speed = 197.1564560898159
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:27 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315567
+timeDif: 307    total_time: 540    timePercentage: 0.5685185185185185    current_time: 315567
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.712975217378   longitude: 20.92723127766702   altitude: 12000
+Speed = 197.15539174245166
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:27 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315567
+timeDif: 307    total_time: 540    timePercentage: 0.5685185185185185    current_time: 315567
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.712975217378   longitude: 20.92723127766702   altitude: 12000
+Speed = 197.15539174245166
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:32 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315572
+timeDif: 312    total_time: 540    timePercentage: 0.5777777777777777    current_time: 315572
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.72270169618963   longitude: 20.928046681472445   altitude: 12000
+Speed = 197.154327355658
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:32 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315572
+timeDif: 312    total_time: 540    timePercentage: 0.5777777777777777    current_time: 315572
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.72270169618963   longitude: 20.928046681472445   altitude: 12000
+Speed = 197.154327355658
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:37 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315577
+timeDif: 317    total_time: 540    timePercentage: 0.587037037037037    current_time: 315577
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.73242817500126   longitude: 20.928862085277874   altitude: 12000
+Speed = 197.15326292931277
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:37 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315577
+timeDif: 317    total_time: 540    timePercentage: 0.587037037037037    current_time: 315577
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.73242817500126   longitude: 20.928862085277874   altitude: 12000
+Speed = 197.15326292931277
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:42 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315582
+timeDif: 322    total_time: 540    timePercentage: 0.5962962962962963    current_time: 315582
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.7421546538129   longitude: 20.929677489083303   altitude: 12000
+Speed = 197.1521984635385
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:42 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315582
+timeDif: 322    total_time: 540    timePercentage: 0.5962962962962963    current_time: 315582
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.7421546538129   longitude: 20.929677489083303   altitude: 12000
+Speed = 197.1521984635385
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:47 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315587
+timeDif: 327    total_time: 540    timePercentage: 0.6055555555555555    current_time: 315587
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.751881132624526   longitude: 20.930492892888733   altitude: 12000
+Speed = 197.15113395791371
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:47 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315587
+timeDif: 327    total_time: 540    timePercentage: 0.6055555555555555    current_time: 315587
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.751881132624526   longitude: 20.930492892888733   altitude: 12000
+Speed = 197.15113395791371
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:52 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315592
+timeDif: 332    total_time: 540    timePercentage: 0.6148148148148148    current_time: 315592
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.761607611436155   longitude: 20.931308296694162   altitude: 12000
+Speed = 197.15006941286714
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:52 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315592
+timeDif: 332    total_time: 540    timePercentage: 0.6148148148148148    current_time: 315592
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.761607611436155   longitude: 20.931308296694162   altitude: 12000
+Speed = 197.15006941286714
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:57 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315597
+timeDif: 337    total_time: 540    timePercentage: 0.6240740740740741    current_time: 315597
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.771334090247784   longitude: 20.93212370049959   altitude: 12000
+Speed = 197.14900482825624
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:39:57 CET 2022   Mon Jan 24 00:00:00 CET 2022   5259
+Aircraft is descending
+arr_time: 316200 current_time: 315597
+timeDif: 337    total_time: 540    timePercentage: 0.6240740740740741    current_time: 315597
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.771334090247784   longitude: 20.93212370049959   altitude: 12000
+Speed = 197.14900482825624
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:02 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315602
+timeDif: 342    total_time: 540    timePercentage: 0.6333333333333333    current_time: 315602
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.78106056905941   longitude: 20.932939104305017   altitude: 12000
+Speed = 197.14794020407427
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:02 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315602
+timeDif: 342    total_time: 540    timePercentage: 0.6333333333333333    current_time: 315602
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.78106056905941   longitude: 20.932939104305017   altitude: 12000
+Speed = 197.14794020407427
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:07 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315607
+timeDif: 347    total_time: 540    timePercentage: 0.6425925925925926    current_time: 315607
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.79078704787105   longitude: 20.933754508110447   altitude: 12000
+Speed = 197.14687554048507
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:07 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315607
+timeDif: 347    total_time: 540    timePercentage: 0.6425925925925926    current_time: 315607
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.79078704787105   longitude: 20.933754508110447   altitude: 12000
+Speed = 197.14687554048507
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:12 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315612
+timeDif: 352    total_time: 540    timePercentage: 0.6518518518518519    current_time: 315612
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.80051352668268   longitude: 20.934569911915876   altitude: 12000
+Speed = 197.14581083703945
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:12 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315612
+timeDif: 352    total_time: 540    timePercentage: 0.6518518518518519    current_time: 315612
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.80051352668268   longitude: 20.934569911915876   altitude: 12000
+Speed = 197.14581083703945
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:17 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315617
+timeDif: 357    total_time: 540    timePercentage: 0.6611111111111111    current_time: 315617
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.81024000549431   longitude: 20.935385315721305   altitude: 12000
+Speed = 197.1447460941732
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:17 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315617
+timeDif: 357    total_time: 540    timePercentage: 0.6611111111111111    current_time: 315617
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.81024000549431   longitude: 20.935385315721305   altitude: 12000
+Speed = 197.1447460941732
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:22 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315622
+timeDif: 362    total_time: 540    timePercentage: 0.6703703703703704    current_time: 315622
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.81996648430594   longitude: 20.936200719526735   altitude: 12000
+Speed = 197.14368131174373
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:22 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315622
+timeDif: 362    total_time: 540    timePercentage: 0.6703703703703704    current_time: 315622
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.81996648430594   longitude: 20.936200719526735   altitude: 12000
+Speed = 197.14368131174373
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:27 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315627
+timeDif: 367    total_time: 540    timePercentage: 0.6796296296296296    current_time: 315627
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.82969296311757   longitude: 20.937016123332164   altitude: 12000
+Speed = 197.14261648989404
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:27 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315627
+timeDif: 367    total_time: 540    timePercentage: 0.6796296296296296    current_time: 315627
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.82969296311757   longitude: 20.937016123332164   altitude: 12000
+Speed = 197.14261648989404
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:32 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315632
+timeDif: 372    total_time: 540    timePercentage: 0.6888888888888889    current_time: 315632
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.8394194419292   longitude: 20.93783152713759   altitude: 12000
+Speed = 197.14155162818892
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:32 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315632
+timeDif: 372    total_time: 540    timePercentage: 0.6888888888888889    current_time: 315632
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.8394194419292   longitude: 20.93783152713759   altitude: 12000
+Speed = 197.14155162818892
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:37 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315637
+timeDif: 377    total_time: 540    timePercentage: 0.6981481481481482    current_time: 315637
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.84914592074083   longitude: 20.93864693094302   altitude: 12000
+Speed = 197.1404867270778
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:37 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315637
+timeDif: 377    total_time: 540    timePercentage: 0.6981481481481482    current_time: 315637
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.84914592074083   longitude: 20.93864693094302   altitude: 12000
+Speed = 197.1404867270778
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:42 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315642
+timeDif: 382    total_time: 540    timePercentage: 0.7074074074074074    current_time: 315642
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.85887239955246   longitude: 20.93946233474845   altitude: 12000
+Speed = 197.13942178639752
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:42 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315642
+timeDif: 382    total_time: 540    timePercentage: 0.7074074074074074    current_time: 315642
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.85887239955246   longitude: 20.93946233474845   altitude: 12000
+Speed = 197.13942178639752
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:47 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315647
+timeDif: 387    total_time: 540    timePercentage: 0.7166666666666667    current_time: 315647
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.8685988783641   longitude: 20.940277738553878   altitude: 12000
+Speed = 197.13835680629785
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:47 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315647
+timeDif: 387    total_time: 540    timePercentage: 0.7166666666666667    current_time: 315647
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.8685988783641   longitude: 20.940277738553878   altitude: 12000
+Speed = 197.13835680629785
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:52 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315652
+timeDif: 392    total_time: 540    timePercentage: 0.725925925925926    current_time: 315652
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.878325357175726   longitude: 20.941093142359307   altitude: 12000
+Speed = 197.1372917863505
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:52 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315652
+timeDif: 392    total_time: 540    timePercentage: 0.725925925925926    current_time: 315652
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.878325357175726   longitude: 20.941093142359307   altitude: 12000
+Speed = 197.1372917863505
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:57 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315657
+timeDif: 397    total_time: 540    timePercentage: 0.7351851851851852    current_time: 315657
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.888051835987355   longitude: 20.941908546164736   altitude: 12000
+Speed = 197.13622672698423
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:40:57 CET 2022   Mon Jan 24 00:00:00 CET 2022   5260
+Aircraft is descending
+arr_time: 316200 current_time: 315657
+timeDif: 397    total_time: 540    timePercentage: 0.7351851851851852    current_time: 315657
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.888051835987355   longitude: 20.941908546164736   altitude: 12000
+Speed = 197.13622672698423
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:02 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315662
+timeDif: 402    total_time: 540    timePercentage: 0.7444444444444445    current_time: 315662
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.897778314798984   longitude: 20.942723949970166   altitude: 12000
+Speed = 197.1351616280566
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:02 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315662
+timeDif: 402    total_time: 540    timePercentage: 0.7444444444444445    current_time: 315662
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.897778314798984   longitude: 20.942723949970166   altitude: 12000
+Speed = 197.1351616280566
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:07 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315667
+timeDif: 407    total_time: 540    timePercentage: 0.7537037037037037    current_time: 315667
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.90750479361062   longitude: 20.94353935377559   altitude: 12000
+Speed = 197.1340964897036
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:07 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315667
+timeDif: 407    total_time: 540    timePercentage: 0.7537037037037037    current_time: 315667
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.90750479361062   longitude: 20.94353935377559   altitude: 12000
+Speed = 197.1340964897036
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:12 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315672
+timeDif: 412    total_time: 540    timePercentage: 0.762962962962963    current_time: 315672
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.91723127242225   longitude: 20.94435475758102   altitude: 12000
+Speed = 197.1330313115176
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:12 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315672
+timeDif: 412    total_time: 540    timePercentage: 0.762962962962963    current_time: 315672
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.91723127242225   longitude: 20.94435475758102   altitude: 12000
+Speed = 197.1330313115176
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:17 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315677
+timeDif: 417    total_time: 540    timePercentage: 0.7722222222222223    current_time: 315677
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.92695775123388   longitude: 20.94517016138645   altitude: 12000
+Speed = 197.13196609390675
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:17 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315677
+timeDif: 417    total_time: 540    timePercentage: 0.7722222222222223    current_time: 315677
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.92695775123388   longitude: 20.94517016138645   altitude: 12000
+Speed = 197.13196609390675
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315683
+timeDif: 423    total_time: 540    timePercentage: 0.7833333333333333    current_time: 315683
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.93862952580783   longitude: 20.946148645952963   altitude: 12000
+Speed = 236.55695315350826
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315683
+timeDif: 423    total_time: 540    timePercentage: 0.7833333333333333    current_time: 315683
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.93862952580783   longitude: 20.946148645952963   altitude: 12000
+Speed = 236.55695315350826
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315688
+timeDif: 428    total_time: 540    timePercentage: 0.7925925925925926    current_time: 315688
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.94835600461947   longitude: 20.946964049758392   altitude: 12000
+Speed = 197.1296224760527
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315688
+timeDif: 428    total_time: 540    timePercentage: 0.7925925925925926    current_time: 315688
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.94835600461947   longitude: 20.946964049758392   altitude: 12000
+Speed = 197.1296224760527
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315693
+timeDif: 433    total_time: 540    timePercentage: 0.8018518518518518    current_time: 315693
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.9580824834311   longitude: 20.94777945356382   altitude: 12000
+Speed = 197.12855713170578
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315693
+timeDif: 433    total_time: 540    timePercentage: 0.8018518518518518    current_time: 315693
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.9580824834311   longitude: 20.94777945356382   altitude: 12000
+Speed = 197.12855713170578
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315698
+timeDif: 438    total_time: 540    timePercentage: 0.8111111111111111    current_time: 315698
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.96780896224273   longitude: 20.94859485736925   altitude: 12000
+Speed = 197.12749174794186
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315698
+timeDif: 438    total_time: 540    timePercentage: 0.8111111111111111    current_time: 315698
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.96780896224273   longitude: 20.94859485736925   altitude: 12000
+Speed = 197.12749174794186
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315703
+timeDif: 443    total_time: 540    timePercentage: 0.8203703703703704    current_time: 315703
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.97753544105436   longitude: 20.94941026117468   altitude: 12000
+Speed = 197.1264263246182
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315703
+timeDif: 443    total_time: 540    timePercentage: 0.8203703703703704    current_time: 315703
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.97753544105436   longitude: 20.94941026117468   altitude: 12000
+Speed = 197.1264263246182
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315708
+timeDif: 448    total_time: 540    timePercentage: 0.8296296296296296    current_time: 315708
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.98726191986599   longitude: 20.95022566498011   altitude: 12000
+Speed = 197.12536086187805
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315708
+timeDif: 448    total_time: 540    timePercentage: 0.8296296296296296    current_time: 315708
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.98726191986599   longitude: 20.95022566498011   altitude: 12000
+Speed = 197.12536086187805
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315713
+timeDif: 453    total_time: 540    timePercentage: 0.8388888888888889    current_time: 315713
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.99698839867762   longitude: 20.95104106878554   altitude: 12000
+Speed = 197.12429535929283
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315713
+timeDif: 453    total_time: 540    timePercentage: 0.8388888888888889    current_time: 315713
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 51.99698839867762   longitude: 20.95104106878554   altitude: 12000
+Speed = 197.12429535929283
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:58 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315718
+timeDif: 458    total_time: 540    timePercentage: 0.8481481481481481    current_time: 315718
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.00671487748925   longitude: 20.951856472590965   altitude: 12000
+Speed = 197.12322981728468
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:41:58 CET 2022   Mon Jan 24 00:00:00 CET 2022   5261
+Aircraft is descending
+arr_time: 316200 current_time: 315718
+timeDif: 458    total_time: 540    timePercentage: 0.8481481481481481    current_time: 315718
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.00671487748925   longitude: 20.951856472590965   altitude: 12000
+Speed = 197.12322981728468
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:03 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315723
+timeDif: 463    total_time: 540    timePercentage: 0.8574074074074074    current_time: 315723
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.01644135630088   longitude: 20.952671876396394   altitude: 10500
+Speed = 197.12216423573145
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:03 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315723
+timeDif: 463    total_time: 540    timePercentage: 0.8574074074074074    current_time: 315723
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.01644135630088   longitude: 20.952671876396394   altitude: 10500
+Speed = 197.12216423573145
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:08 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315728
+timeDif: 468    total_time: 540    timePercentage: 0.8666666666666667    current_time: 315728
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.02616783511252   longitude: 20.953487280201823   altitude: 10500
+Speed = 197.1210986147556
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:08 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315728
+timeDif: 468    total_time: 540    timePercentage: 0.8666666666666667    current_time: 315728
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.02616783511252   longitude: 20.953487280201823   altitude: 10500
+Speed = 197.1210986147556
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:13 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315733
+timeDif: 473    total_time: 540    timePercentage: 0.8759259259259259    current_time: 315733
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.035894313924146   longitude: 20.954302684007253   altitude: 10500
+Speed = 197.1200329539357
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:13 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315733
+timeDif: 473    total_time: 540    timePercentage: 0.8759259259259259    current_time: 315733
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.035894313924146   longitude: 20.954302684007253   altitude: 10500
+Speed = 197.1200329539357
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:18 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315738
+timeDif: 478    total_time: 540    timePercentage: 0.8851851851851852    current_time: 315738
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.045620792735775   longitude: 20.955118087812682   altitude: 10500
+Speed = 197.11896725370056
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:18 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315738
+timeDif: 478    total_time: 540    timePercentage: 0.8851851851851852    current_time: 315738
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.045620792735775   longitude: 20.955118087812682   altitude: 10500
+Speed = 197.11896725370056
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315743
+timeDif: 483    total_time: 540    timePercentage: 0.8944444444444445    current_time: 315743
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.055347271547404   longitude: 20.95593349161811   altitude: 10500
+Speed = 197.11790151390747
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315743
+timeDif: 483    total_time: 540    timePercentage: 0.8944444444444445    current_time: 315743
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.055347271547404   longitude: 20.95593349161811   altitude: 10500
+Speed = 197.11790151390747
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315748
+timeDif: 488    total_time: 540    timePercentage: 0.9037037037037037    current_time: 315748
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.06507375035903   longitude: 20.956748895423537   altitude: 10500
+Speed = 197.11683573454985
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315748
+timeDif: 488    total_time: 540    timePercentage: 0.9037037037037037    current_time: 315748
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.06507375035903   longitude: 20.956748895423537   altitude: 10500
+Speed = 197.11683573454985
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315753
+timeDif: 493    total_time: 540    timePercentage: 0.912962962962963    current_time: 315753
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.07480022917067   longitude: 20.957564299228967   altitude: 10500
+Speed = 197.11576991579136
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315753
+timeDif: 493    total_time: 540    timePercentage: 0.912962962962963    current_time: 315753
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.07480022917067   longitude: 20.957564299228967   altitude: 10500
+Speed = 197.11576991579136
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315758
+timeDif: 498    total_time: 540    timePercentage: 0.9222222222222223    current_time: 315758
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.0845267079823   longitude: 20.958379703034396   altitude: 10500
+Speed = 197.11470405718293
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315758
+timeDif: 498    total_time: 540    timePercentage: 0.9222222222222223    current_time: 315758
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.0845267079823   longitude: 20.958379703034396   altitude: 10500
+Speed = 197.11470405718293
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315763
+timeDif: 503    total_time: 540    timePercentage: 0.9314814814814815    current_time: 315763
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.09425318679393   longitude: 20.959195106839825   altitude: 10500
+Speed = 197.11363815916044
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315763
+timeDif: 503    total_time: 540    timePercentage: 0.9314814814814815    current_time: 315763
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.09425318679393   longitude: 20.959195106839825   altitude: 10500
+Speed = 197.11363815916044
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315768
+timeDif: 508    total_time: 540    timePercentage: 0.9407407407407408    current_time: 315768
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.10397966560556   longitude: 20.960010510645255   altitude: 10500
+Speed = 197.11257222158122
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315768
+timeDif: 508    total_time: 540    timePercentage: 0.9407407407407408    current_time: 315768
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.10397966560556   longitude: 20.960010510645255   altitude: 10500
+Speed = 197.11257222158122
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315773
+timeDif: 513    total_time: 540    timePercentage: 0.95    current_time: 315773
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.11370614441719   longitude: 20.960825914450684   altitude: 10500
+Speed = 197.11150624458824
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315773
+timeDif: 513    total_time: 540    timePercentage: 0.95    current_time: 315773
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.11370614441719   longitude: 20.960825914450684   altitude: 10500
+Speed = 197.11150624458824
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:58 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315778
+timeDif: 518    total_time: 540    timePercentage: 0.9592592592592593    current_time: 315778
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.12343262322882   longitude: 20.96164131825611   altitude: 10500
+Speed = 197.11044022774627
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:42:58 CET 2022   Mon Jan 24 00:00:00 CET 2022   5262
+Aircraft is descending
+arr_time: 316200 current_time: 315778
+timeDif: 518    total_time: 540    timePercentage: 0.9592592592592593    current_time: 315778
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.12343262322882   longitude: 20.96164131825611   altitude: 10500
+Speed = 197.11044022774627
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:03 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315783
+timeDif: 523    total_time: 540    timePercentage: 0.9685185185185186    current_time: 315783
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.13315910204045   longitude: 20.96245672206154   altitude: 9000
+Speed = 197.10937417150484
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:03 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315783
+timeDif: 523    total_time: 540    timePercentage: 0.9685185185185186    current_time: 315783
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.13315910204045   longitude: 20.96245672206154   altitude: 9000
+Speed = 197.10937417150484
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:08 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315788
+timeDif: 528    total_time: 540    timePercentage: 0.9777777777777777    current_time: 315788
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.14288558085208   longitude: 20.96327212586697   altitude: 9000
+Speed = 197.10830807570053
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:08 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315788
+timeDif: 528    total_time: 540    timePercentage: 0.9777777777777777    current_time: 315788
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.14288558085208   longitude: 20.96327212586697   altitude: 9000
+Speed = 197.10830807570053
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:13 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315793
+timeDif: 533    total_time: 540    timePercentage: 0.987037037037037    current_time: 315793
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.15261205966372   longitude: 20.964087529672398   altitude: 9000
+Speed = 197.10724194048348
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:13 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315793
+timeDif: 533    total_time: 540    timePercentage: 0.987037037037037    current_time: 315793
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.15261205966372   longitude: 20.964087529672398   altitude: 9000
+Speed = 197.10724194048348
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:18 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315798
+timeDif: 538    total_time: 540    timePercentage: 0.9962962962962963    current_time: 315798
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.162338538475346   longitude: 20.964902933477827   altitude: 9000
+Speed = 197.10617576542518
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:18 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315798
+timeDif: 538    total_time: 540    timePercentage: 0.9962962962962963    current_time: 315798
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.162338538475346   longitude: 20.964902933477827   altitude: 9000
+Speed = 197.10617576542518
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315803
+timeDif: 543    total_time: 540    timePercentage: 1.0055555555555555    current_time: 315803
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.172065017286975   longitude: 20.965718337283256   altitude: 9000
+Speed = 197.10510955095452
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315803
+timeDif: 543    total_time: 540    timePercentage: 1.0055555555555555    current_time: 315803
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.172065017286975   longitude: 20.965718337283256   altitude: 9000
+Speed = 197.10510955095452
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315808
+timeDif: 548    total_time: 540    timePercentage: 1.0148148148148148    current_time: 315808
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.181791496098604   longitude: 20.966533741088686   altitude: 9000
+Speed = 197.10404329692886
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315808
+timeDif: 548    total_time: 540    timePercentage: 1.0148148148148148    current_time: 315808
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.181791496098604   longitude: 20.966533741088686   altitude: 9000
+Speed = 197.10404329692886
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315813
+timeDif: 553    total_time: 540    timePercentage: 1.0240740740740741    current_time: 315813
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.19151797491024   longitude: 20.96734914489411   altitude: 9000
+Speed = 197.1029770034844
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315813
+timeDif: 553    total_time: 540    timePercentage: 1.0240740740740741    current_time: 315813
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.19151797491024   longitude: 20.96734914489411   altitude: 9000
+Speed = 197.1029770034844
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315818
+timeDif: 558    total_time: 540    timePercentage: 1.0333333333333334    current_time: 315818
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.20124445372187   longitude: 20.96816454869954   altitude: 9000
+Speed = 197.10191067021327
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315818
+timeDif: 558    total_time: 540    timePercentage: 1.0333333333333334    current_time: 315818
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.20124445372187   longitude: 20.96816454869954   altitude: 9000
+Speed = 197.10191067021327
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315823
+timeDif: 563    total_time: 540    timePercentage: 1.0425925925925925    current_time: 315823
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.2109709325335   longitude: 20.96897995250497   altitude: 9000
+Speed = 197.10084429752385
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315823
+timeDif: 563    total_time: 540    timePercentage: 1.0425925925925925    current_time: 315823
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.2109709325335   longitude: 20.96897995250497   altitude: 9000
+Speed = 197.10084429752385
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315828
+timeDif: 568    total_time: 540    timePercentage: 1.0518518518518518    current_time: 315828
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.22069741134513   longitude: 20.9697953563104   altitude: 9000
+Speed = 197.0997778852803
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315828
+timeDif: 568    total_time: 540    timePercentage: 1.0518518518518518    current_time: 315828
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.22069741134513   longitude: 20.9697953563104   altitude: 9000
+Speed = 197.0997778852803
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315833
+timeDif: 573    total_time: 540    timePercentage: 1.0611111111111111    current_time: 315833
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.230423890156764   longitude: 20.97061076011583   altitude: 9000
+Speed = 197.09871143362577
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315833
+timeDif: 573    total_time: 540    timePercentage: 1.0611111111111111    current_time: 315833
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.230423890156764   longitude: 20.97061076011583   altitude: 9000
+Speed = 197.09871143362577
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:58 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315838
+timeDif: 578    total_time: 540    timePercentage: 1.0703703703703704    current_time: 315838
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.24015036896839   longitude: 20.971426163921258   altitude: 9000
+Speed = 197.09764494213172
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:43:58 CET 2022   Mon Jan 24 00:00:00 CET 2022   5263
+Aircraft is descending
+arr_time: 316200 current_time: 315838
+timeDif: 578    total_time: 540    timePercentage: 1.0703703703703704    current_time: 315838
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.24015036896839   longitude: 20.971426163921258   altitude: 9000
+Speed = 197.09764494213172
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:03 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315843
+timeDif: 583    total_time: 540    timePercentage: 1.0796296296296297    current_time: 315843
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.24987684778002   longitude: 20.972241567726684   altitude: 7500
+Speed = 197.09657841122024
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:03 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315843
+timeDif: 583    total_time: 540    timePercentage: 1.0796296296296297    current_time: 315843
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.24987684778002   longitude: 20.972241567726684   altitude: 7500
+Speed = 197.09657841122024
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:08 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315848
+timeDif: 588    total_time: 540    timePercentage: 1.0888888888888888    current_time: 315848
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.25960332659165   longitude: 20.973056971532113   altitude: 7500
+Speed = 197.09551184076918
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:08 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315848
+timeDif: 588    total_time: 540    timePercentage: 1.0888888888888888    current_time: 315848
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.25960332659165   longitude: 20.973056971532113   altitude: 7500
+Speed = 197.09551184076918
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:13 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315853
+timeDif: 593    total_time: 540    timePercentage: 1.098148148148148    current_time: 315853
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.26932980540329   longitude: 20.973872375337542   altitude: 7500
+Speed = 197.09444523090113
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:13 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315853
+timeDif: 593    total_time: 540    timePercentage: 1.098148148148148    current_time: 315853
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.26932980540329   longitude: 20.973872375337542   altitude: 7500
+Speed = 197.09444523090113
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:18 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315858
+timeDif: 598    total_time: 540    timePercentage: 1.1074074074074074    current_time: 315858
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.27905628421492   longitude: 20.974687779142972   altitude: 7500
+Speed = 197.09337858119457
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:18 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315858
+timeDif: 598    total_time: 540    timePercentage: 1.1074074074074074    current_time: 315858
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.27905628421492   longitude: 20.974687779142972   altitude: 7500
+Speed = 197.09337858119457
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315863
+timeDif: 603    total_time: 540    timePercentage: 1.1166666666666667    current_time: 315863
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.288782763026546   longitude: 20.9755031829484   altitude: 7500
+Speed = 197.0923118920783
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315863
+timeDif: 603    total_time: 540    timePercentage: 1.1166666666666667    current_time: 315863
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.288782763026546   longitude: 20.9755031829484   altitude: 7500
+Speed = 197.0923118920783
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315868
+timeDif: 608    total_time: 540    timePercentage: 1.125925925925926    current_time: 315868
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.298509241838175   longitude: 20.97631858675383   altitude: 7500
+Speed = 197.09124516340967
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315868
+timeDif: 608    total_time: 540    timePercentage: 1.125925925925926    current_time: 315868
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.298509241838175   longitude: 20.97631858675383   altitude: 7500
+Speed = 197.09124516340967
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315873
+timeDif: 613    total_time: 540    timePercentage: 1.135185185185185    current_time: 315873
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.308235720649805   longitude: 20.97713399055926   altitude: 7500
+Speed = 197.09017839518887
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315873
+timeDif: 613    total_time: 540    timePercentage: 1.135185185185185    current_time: 315873
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.308235720649805   longitude: 20.97713399055926   altitude: 7500
+Speed = 197.09017839518887
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315878
+timeDif: 618    total_time: 540    timePercentage: 1.1444444444444444    current_time: 315878
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.31796219946144   longitude: 20.977949394364686   altitude: 7500
+Speed = 197.08911158755214
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315878
+timeDif: 618    total_time: 540    timePercentage: 1.1444444444444444    current_time: 315878
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.31796219946144   longitude: 20.977949394364686   altitude: 7500
+Speed = 197.08911158755214
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315883
+timeDif: 623    total_time: 540    timePercentage: 1.1537037037037037    current_time: 315883
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.32768867827307   longitude: 20.978764798170115   altitude: 7500
+Speed = 197.08804474009176
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315883
+timeDif: 623    total_time: 540    timePercentage: 1.1537037037037037    current_time: 315883
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.32768867827307   longitude: 20.978764798170115   altitude: 7500
+Speed = 197.08804474009176
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315888
+timeDif: 628    total_time: 540    timePercentage: 1.162962962962963    current_time: 315888
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.3374151570847   longitude: 20.979580201975544   altitude: 7500
+Speed = 197.0869778532159
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315888
+timeDif: 628    total_time: 540    timePercentage: 1.162962962962963    current_time: 315888
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.3374151570847   longitude: 20.979580201975544   altitude: 7500
+Speed = 197.0869778532159
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315893
+timeDif: 633    total_time: 540    timePercentage: 1.1722222222222223    current_time: 315893
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.347141635896335   longitude: 20.980395605780974   altitude: 7500
+Speed = 197.08591092693158
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315893
+timeDif: 633    total_time: 540    timePercentage: 1.1722222222222223    current_time: 315893
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.347141635896335   longitude: 20.980395605780974   altitude: 7500
+Speed = 197.08591092693158
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:58 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315898
+timeDif: 638    total_time: 540    timePercentage: 1.1814814814814816    current_time: 315898
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.356868114707964   longitude: 20.981211009586403   altitude: 7500
+Speed = 197.08484396081064
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:44:58 CET 2022   Mon Jan 24 00:00:00 CET 2022   5264
+Aircraft is descending
+arr_time: 316200 current_time: 315898
+timeDif: 638    total_time: 540    timePercentage: 1.1814814814814816    current_time: 315898
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.356868114707964   longitude: 20.981211009586403   altitude: 7500
+Speed = 197.08484396081064
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:03 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315903
+timeDif: 643    total_time: 540    timePercentage: 1.1907407407407407    current_time: 315903
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.366594593519594   longitude: 20.982026413391832   altitude: 6000
+Speed = 197.0837769552817
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:03 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315903
+timeDif: 643    total_time: 540    timePercentage: 1.1907407407407407    current_time: 315903
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.366594593519594   longitude: 20.982026413391832   altitude: 6000
+Speed = 197.0837769552817
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:08 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315908
+timeDif: 648    total_time: 540    timePercentage: 1.2    current_time: 315908
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.37632107233122   longitude: 20.982841817197258   altitude: 6000
+Speed = 197.08270991019532
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:08 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315908
+timeDif: 648    total_time: 540    timePercentage: 1.2    current_time: 315908
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.37632107233122   longitude: 20.982841817197258   altitude: 6000
+Speed = 197.08270991019532
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:13 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315913
+timeDif: 653    total_time: 540    timePercentage: 1.2092592592592593    current_time: 315913
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.38604755114285   longitude: 20.983657221002687   altitude: 6000
+Speed = 197.0816428255722
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:13 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315913
+timeDif: 653    total_time: 540    timePercentage: 1.2092592592592593    current_time: 315913
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.38604755114285   longitude: 20.983657221002687   altitude: 6000
+Speed = 197.0816428255722
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:18 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315918
+timeDif: 658    total_time: 540    timePercentage: 1.2185185185185186    current_time: 315918
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.39577402995449   longitude: 20.984472624808117   altitude: 6000
+Speed = 197.080575701535
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:18 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315918
+timeDif: 658    total_time: 540    timePercentage: 1.2185185185185186    current_time: 315918
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.39577402995449   longitude: 20.984472624808117   altitude: 6000
+Speed = 197.080575701535
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315923
+timeDif: 663    total_time: 540    timePercentage: 1.2277777777777779    current_time: 315923
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.40550050876612   longitude: 20.985288028613546   altitude: 6000
+Speed = 197.07950853766226
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315923
+timeDif: 663    total_time: 540    timePercentage: 1.2277777777777779    current_time: 315923
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.40550050876612   longitude: 20.985288028613546   altitude: 6000
+Speed = 197.07950853766226
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315928
+timeDif: 668    total_time: 540    timePercentage: 1.237037037037037    current_time: 315928
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.415226987577746   longitude: 20.986103432418975   altitude: 6000
+Speed = 197.0784413343826
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315928
+timeDif: 668    total_time: 540    timePercentage: 1.237037037037037    current_time: 315928
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.415226987577746   longitude: 20.986103432418975   altitude: 6000
+Speed = 197.0784413343826
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315933
+timeDif: 673    total_time: 540    timePercentage: 1.2462962962962962    current_time: 315933
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.424953466389375   longitude: 20.986918836224405   altitude: 6000
+Speed = 197.07737409155345
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315933
+timeDif: 673    total_time: 540    timePercentage: 1.2462962962962962    current_time: 315933
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.424953466389375   longitude: 20.986918836224405   altitude: 6000
+Speed = 197.07737409155345
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315938
+timeDif: 678    total_time: 540    timePercentage: 1.2555555555555555    current_time: 315938
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.43467994520101   longitude: 20.98773424002983   altitude: 6000
+Speed = 197.07630680931106
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315938
+timeDif: 678    total_time: 540    timePercentage: 1.2555555555555555    current_time: 315938
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.43467994520101   longitude: 20.98773424002983   altitude: 6000
+Speed = 197.07630680931106
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315943
+timeDif: 683    total_time: 540    timePercentage: 1.2648148148148148    current_time: 315943
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.44440642401264   longitude: 20.98854964383526   altitude: 6000
+Speed = 197.07523948724773
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315943
+timeDif: 683    total_time: 540    timePercentage: 1.2648148148148148    current_time: 315943
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.44440642401264   longitude: 20.98854964383526   altitude: 6000
+Speed = 197.07523948724773
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315948
+timeDif: 688    total_time: 540    timePercentage: 1.2740740740740741    current_time: 315948
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.45413290282427   longitude: 20.98936504764069   altitude: 6000
+Speed = 197.0741721257715
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315948
+timeDif: 688    total_time: 540    timePercentage: 1.2740740740740741    current_time: 315948
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.45413290282427   longitude: 20.98936504764069   altitude: 6000
+Speed = 197.0741721257715
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315953
+timeDif: 693    total_time: 540    timePercentage: 1.2833333333333334    current_time: 315953
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.4638593816359   longitude: 20.99018045144612   altitude: 6000
+Speed = 197.07310472474674
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315953
+timeDif: 693    total_time: 540    timePercentage: 1.2833333333333334    current_time: 315953
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.4638593816359   longitude: 20.99018045144612   altitude: 6000
+Speed = 197.07310472474674
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:58 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315958
+timeDif: 698    total_time: 540    timePercentage: 1.2925925925925925    current_time: 315958
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.473585860447535   longitude: 20.990995855251548   altitude: 6000
+Speed = 197.07203728431637
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:45:58 CET 2022   Mon Jan 24 00:00:00 CET 2022   5265
+Aircraft is descending
+arr_time: 316200 current_time: 315958
+timeDif: 698    total_time: 540    timePercentage: 1.2925925925925925    current_time: 315958
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.473585860447535   longitude: 20.990995855251548   altitude: 6000
+Speed = 197.07203728431637
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:03 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315963
+timeDif: 703    total_time: 540    timePercentage: 1.3018518518518518    current_time: 315963
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.483312339259165   longitude: 20.991811259056977   altitude: 4500
+Speed = 197.07096980405225
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:03 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315963
+timeDif: 703    total_time: 540    timePercentage: 1.3018518518518518    current_time: 315963
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.483312339259165   longitude: 20.991811259056977   altitude: 4500
+Speed = 197.07096980405225
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:08 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315968
+timeDif: 708    total_time: 540    timePercentage: 1.3111111111111111    current_time: 315968
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.493038818070794   longitude: 20.992626662862406   altitude: 4500
+Speed = 197.069902284383
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:08 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315968
+timeDif: 708    total_time: 540    timePercentage: 1.3111111111111111    current_time: 315968
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.493038818070794   longitude: 20.992626662862406   altitude: 4500
+Speed = 197.069902284383
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:13 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315973
+timeDif: 713    total_time: 540    timePercentage: 1.3203703703703704    current_time: 315973
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.50276529688242   longitude: 20.993442066667832   altitude: 4500
+Speed = 197.06883472515923
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:13 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315973
+timeDif: 713    total_time: 540    timePercentage: 1.3203703703703704    current_time: 315973
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.50276529688242   longitude: 20.993442066667832   altitude: 4500
+Speed = 197.06883472515923
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:18 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315978
+timeDif: 718    total_time: 540    timePercentage: 1.3296296296296297    current_time: 315978
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.51249177569406   longitude: 20.99425747047326   altitude: 4500
+Speed = 197.0677671265446
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:18 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315978
+timeDif: 718    total_time: 540    timePercentage: 1.3296296296296297    current_time: 315978
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.51249177569406   longitude: 20.99425747047326   altitude: 4500
+Speed = 197.0677671265446
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315983
+timeDif: 723    total_time: 540    timePercentage: 1.3388888888888888    current_time: 315983
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.52221825450569   longitude: 20.99507287427869   altitude: 4500
+Speed = 197.06669948809014
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:23 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315983
+timeDif: 723    total_time: 540    timePercentage: 1.3388888888888888    current_time: 315983
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.52221825450569   longitude: 20.99507287427869   altitude: 4500
+Speed = 197.06669948809014
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315988
+timeDif: 728    total_time: 540    timePercentage: 1.348148148148148    current_time: 315988
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.53194473331732   longitude: 20.99588827808412   altitude: 4500
+Speed = 197.06563181023142
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:28 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315988
+timeDif: 728    total_time: 540    timePercentage: 1.348148148148148    current_time: 315988
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.53194473331732   longitude: 20.99588827808412   altitude: 4500
+Speed = 197.06563181023142
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315993
+timeDif: 733    total_time: 540    timePercentage: 1.3574074074074074    current_time: 315993
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.541671212128946   longitude: 20.99670368188955   altitude: 4500
+Speed = 197.06456409282595
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:33 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315993
+timeDif: 733    total_time: 540    timePercentage: 1.3574074074074074    current_time: 315993
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.541671212128946   longitude: 20.99670368188955   altitude: 4500
+Speed = 197.06456409282595
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315998
+timeDif: 738    total_time: 540    timePercentage: 1.3666666666666667    current_time: 315998
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.55139769094058   longitude: 20.99751908569498   altitude: 4500
+Speed = 197.06349633601673
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:38 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 315998
+timeDif: 738    total_time: 540    timePercentage: 1.3666666666666667    current_time: 315998
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.55139769094058   longitude: 20.99751908569498   altitude: 4500
+Speed = 197.06349633601673
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 316003
+timeDif: 743    total_time: 540    timePercentage: 1.375925925925926    current_time: 316003
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.56112416975221   longitude: 20.998334489500404   altitude: 4500
+Speed = 197.06242853936854
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:43 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 316003
+timeDif: 743    total_time: 540    timePercentage: 1.375925925925926    current_time: 316003
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.56112416975221   longitude: 20.998334489500404   altitude: 4500
+Speed = 197.06242853936854
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 316008
+timeDif: 748    total_time: 540    timePercentage: 1.385185185185185    current_time: 316008
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.57085064856384   longitude: 20.999149893305834   altitude: 4500
+Speed = 197.0613607033309
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:48 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 316008
+timeDif: 748    total_time: 540    timePercentage: 1.385185185185185    current_time: 316008
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.57085064856384   longitude: 20.999149893305834   altitude: 4500
+Speed = 197.0613607033309
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 316013
+timeDif: 753    total_time: 540    timePercentage: 1.3944444444444444    current_time: 316013
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.58057712737547   longitude: 20.999965297111263   altitude: 4500
+Speed = 197.06029282774043
+--
+1868_441_SP-ENZ   dep(s):308400   arr(s):316200   TOC_time(s):309960   TOD_time(s):315260
+Thu Jan 27 15:46:53 CET 2022   Mon Jan 24 00:00:00 CET 2022   5266
+Aircraft is descending
+arr_time: 316200 current_time: 316013
+timeDif: 753    total_time: 540    timePercentage: 1.3944444444444444    current_time: 316013
+lat1: 39.601779 lon1: 19.9119085 lat2: 52.16622913 lon2: 20.965229094999998
+TOClat: 42.51969346405282 TOClon: 20.156527195417212 TODlat: 51.11576941834387 TODlon: 20.87716548401369
+latitude: 52.58057712737547   longitude: 20.999965297111263   altitude: 4500
+Speed = 197.06029282774043

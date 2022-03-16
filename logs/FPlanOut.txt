@@ -1,0 +1,748 @@
+Airport_fs: MSFS2020
+
+
+
+AIGRoute -> AIGFP_Direct_ZSNJ-ZYCC_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZYCC-ZSNJ_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZGGG-ZSNJ_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSNJ-ZYCC_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZYCC-ZSNJ_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSNJ-ZYCC_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZYCC-ZSNJ_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZSNJ-ZGGG_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-ZSNJ_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSNJ-ZGGG_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZHCC-ZYTX_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZYTX-ZSWX_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZSWX-ZUGY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZUGY-VTSP_IFR_FL400
+AIGRoute -> AIGFP_Direct_VTSP-ZUGY_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZUGY-ZSWZ_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSWZ-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZUGY-ZSAM_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSAM-ZUGY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZUGY-ZSWX_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSWX-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZUGY-ZGGG_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZGGG-ZUGY_IFR_FL340
+AIGRoute -> AIGFP_Direct_ZUGY-ZSNJ_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSNJ-ZGNN_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSNJ-ZUGY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZUGY-ZJSY_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZJSY-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZUGY-ZSNJ_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSNJ-ZGNN_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZJSY_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZJSY-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZGGG_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZGGG-ZJHK_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZJHK-ZSNJ_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSNJ-ZYHB_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZYHB-ZSWZ_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZSWZ-ZGGG_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-ZHCC_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZLXY-AVA_IFR_FL400
+AIGRoute -> AIGFP_Direct_AVA-ZJHK_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZJHK-AVA_IFR_FL380
+AIGRoute -> AIGFP_Direct_AVA-ZLXY_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZLXY-ZGGG_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZUGY-ZHCC_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZHCC-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZUGY-ZBTJ_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZBTJ-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZSWZ-ZUGY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZUGY-ZSAM_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZUGY-ZSWZ_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSAM-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_VTSP-ZUGY_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZGGG-ZWWW_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZWWW-ZWYN_IFR_FL260
+AIGRoute -> AIGFP_Direct_ZWYN-ZWWW_IFR_FL310
+AIGRoute -> AIGFP_Direct_ZWWW-ZGGG_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZGGG-ZSCN_IFR_FL310
+AIGRoute -> AIGFP_Direct_ZSCN-ZBYN_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZBYN-ZSWZ_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSWZ-ZBYN_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZBYN-ZSCN_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSCN-ZGGG_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZGGG-ZLXY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZLLL-ZHHH_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZHHH-ZSWZ_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSWZ-ZHHH_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZHHH-ZLLL_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZLLL-ZGGG_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZGGG-ZBTJ_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZBTJ-ZGGG_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZHCC-ZGGG_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZWWW-ZGGG_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZGGG-ZSOF_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSOF-ZGGG_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-VYMD_IFR_FL360
+AIGRoute -> AIGFP_Direct_VYMD-ZGGG_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZGGG-ZJSY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZJSY-ZGGG_IFR_FL330
+AIGRoute -> AIGFP_Direct_ZGGG-ZBTJ_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZBTJ-ZGGG_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-ZHCC_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZHCC-ZGGG_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-ZSWZ_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSWZ-ZYHB_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZYHB-ZSNJ_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZJHK-ZGGG_IFR_FL330
+AIGRoute -> AIGFP_Direct_ZGGG-ZLXY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZLXY-JIQ_IFR_FL330
+AIGRoute -> AIGFP_Direct_JIQ-ZJHK_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZJHK-JIQ_IFR_FL360
+AIGRoute -> AIGFP_Direct_JIQ-ZLXY_IFR_FL280
+AIGRoute -> AIGFP_Direct_ZLXY-ZGGG_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZGGG-ZLLL_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZGSY-ZJHK_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZJHK-ZGSY_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZGSY-ZGHA_IFR_FL190
+AIGRoute -> AIGFP_Direct_ZGHA-ZGSY_IFR_FL180
+AIGRoute -> AIGFP_Direct_ZGSY-ZJHK_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZJHK-ZGSY_IFR_FL330
+AIGRoute -> AIGFP_Direct_ZGSY-ZGHA_IFR_FL270
+AIGRoute -> AIGFP_Direct_ZGHA-ZGSY_IFR_FL200
+AIGRoute -> AIGFP_Direct_ZJHK-ZGSY_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZGSY-ZGHA_IFR_FL230
+AIGRoute -> AIGFP_Direct_ZGHA-ZSWZ_IFR_FL330
+AIGRoute -> AIGFP_Direct_ZSWZ-ZGHA_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZGHA-VYMD_IFR_FL360
+AIGRoute -> AIGFP_Direct_VYMD-ZGHA_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZGHA-ZGSY_IFR_FL220
+AIGRoute -> AIGFP_Direct_ZGHA-ZSWZ_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSWZ-ZGHA_IFR_FL340
+AIGRoute -> AIGFP_Direct_ZJHK-ZGSY_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZGHA-ZSWZ_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSWZ-ZGHA_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGHA-ZGSY_IFR_FL260
+AIGRoute -> AIGFP_Direct_ZGHA-ZSWZ_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSWZ-ZGHA_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZGHA-VYMD_IFR_FL400
+AIGRoute -> AIGFP_Direct_VYMD-ZGHA_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZJHK-ZGGG_IFR_FL270
+AIGRoute -> AIGFP_Direct_ZGGG-ZSWZ_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSNJ-ZJHK_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZYHB-ZSNJ_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZJHK-ZGGG_IFR_FL290
+AIGRoute -> AIGFP_Direct_ZGGG-ZSWX_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSWX-ZYTL_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZYTL-ZSWX_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZSWX-ZGGG_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZGGG-ZSNB_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSNB-ZGGG_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZYTX-ZSWX_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZSJA_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSJA-ZSWX_IFR_FL330
+AIGRoute -> AIGFP_Direct_ZSWX-ZSJA_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZSJA-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZSCN_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSCN-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZSWX-ZYTX_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZYTX-ZHCC_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZGGG-ZSWZ_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZWWW-ZWYN_IFR_FL280
+AIGRoute -> AIGFP_Direct_ZGGG-ZSOF_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSOF-ZGGG_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZGGG-ZJSY_IFR_FL320
+AIGRoute -> AIGFP_Direct_ZJSY-ZGGG_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZGGG-ZJHK_IFR_FL300
+AIGRoute -> AIGFP_Direct_ZJHK-ZSNJ_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSNJ-ZYHB_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZYHB-ZSWZ_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZSWZ-ZGGG_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZSWZ-ZGGG_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZGGG-ZJHK_IFR_FL280
+AIGRoute -> AIGFP_Direct_ZGGG-ZSOF_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSOF-ZGGG_IFR_FL380
+AIGRoute -> AIGFP_Direct_VYMD-ZGGG_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZJSY-ZGGG_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZGGG-ZBTJ_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZBTJ-ZGGG_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZGGG-ZHCC_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZGGG-ZWWW_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-ZLLL_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZLLL-ZHHH_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSWZ-ZHHH_IFR_FL340
+AIGRoute -> AIGFP_Direct_ZHHH-ZLLL_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZLLL-ZGGG_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZHCC-ZYTX_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZYTX-ZSWX_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZSWX-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZJSY_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZWWW-ZWYN_IFR_FL320
+AIGRoute -> AIGFP_Direct_ZWYN-ZWWW_IFR_FL270
+AIGRoute -> AIGFP_Direct_ZLXY-AVA_IFR_FL360
+AIGRoute -> AIGFP_Direct_AVA-ZJHK_IFR_FL350
+AIGRoute -> AIGFP_Direct_AVA-ZLXY_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZWWW-ZGGG_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSWX-ZYTL_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZYTL-ZSWX_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZSWX-ZGGG_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZGGG-ZSNB_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSNB-ZGGG_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZSWX-ZYTL_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSNB-ZGGG_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZGGG-VYYY_IFR_FL380
+AIGRoute -> AIGFP_Direct_VYYY-ZGGG_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZGGG-ZJSY_IFR_FL340
+AIGRoute -> AIGFP_Direct_ZYHB-ZSNJ_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZJHK-ZGGG_IFR_FL310
+AIGRoute -> AIGFP_Direct_ZGGG-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZHCC_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZHCC-ZUGY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZUGY-ZBTJ_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZBTJ-ZUGY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZUGY-ZSWX_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZGGG-VYMD_IFR_FL380
+AIGRoute -> AIGFP_Direct_VYMD-ZGGG_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZJSY-ZGGG_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZGGG-ZJHK_IFR_FL340
+AIGRoute -> AIGFP_Direct_ZSNJ-ZYHB_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZYHB-ZSWZ_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-ZUGY_IFR_FL320
+AIGRoute -> AIGFP_Direct_ZSNJ-ZGNN_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZSNJ-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZBTJ_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZUGY-VYMD_IFR_FL360
+AIGRoute -> AIGFP_Direct_VYMD-ZUGY_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSWX-ZYTX_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZYTX-ZHCC_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-ZSWX_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSWZ-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZSNJ-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZHHH-ZSWZ_IFR_FL390
+AIGRoute -> AIGFP_Direct_JIQ-ZJHK_IFR_FL350
+AIGRoute -> AIGFP_Direct_JIQ-ZLXY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZJSY-ZUGY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZGNN-ZSNJ_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZHCC-ZGGG_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZGGG-ZLXY_IFR_FL380
+AIGRoute -> AIGFP_Direct_AVA-ZJHK_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZLXY-ZGGG_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZLXY-JIQ_IFR_FL270
+AIGRoute -> AIGFP_Direct_JIQ-ZJHK_IFR_FL370
+AIGRoute -> AIGFP_Direct_JIQ-ZLXY_IFR_FL320
+AIGRoute -> AIGFP_Direct_ZSCN-ZBYN_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZBYN-ZUCK_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZUCK-ZBYN_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZBYN-ZSCN_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSCN-ZGGG_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZHCC-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZSOF_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSOF-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZUGY-VTSP_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZSWZ_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZUGY-ZSAM_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSAM-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZSWX-ZSJA_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZSJA-ZUGY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZSCN-ZUGY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZUGY-ZSWX_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZGGG-ZLLL_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZSWZ-ZHHH_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZLLL-ZGGG_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZLLL-ZHHH_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSWZ-ZHHH_IFR_FL320
+AIGRoute -> AIGFP_Direct_ZUGY-ZHCC_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZUGY-ZSOF_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSOF-ZUGY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZUGY-ZSJA_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZBYN-ZUCK_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZUCK-ZBYN_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSCN-ZGGG_IFR_FL320
+AIGRoute -> AIGFP_Direct_ZGGG-ZWWW_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZWWW-ZWYN_IFR_FL340
+AIGRoute -> AIGFP_Direct_ZWYN-ZWWW_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZGGG-ZSCN_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZBYN-ZSWZ_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSWZ-ZBYN_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZBYN-ZSCN_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZWYN-ZWWW_IFR_FL250
+AIGRoute -> AIGFP_Direct_ZGGG-ZSWX_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZSWX-ZGGG_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-ZSNB_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZGGG-ZSCN_IFR_FL330
+AIGRoute -> AIGFP_Direct_ZUCK-ZBYN_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSCN-ZGGG_IFR_FL340
+AIGRoute -> AIGFP_Direct_ZGGG-VYYY_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-ZJSY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZGGG-ZSCN_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZUGY-ZSNJ_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZUGY-ZGGG_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZHCC-ZYTX_IFR_FL370
+AIGRoute -> AIGFP_Direct_ZSOF-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZSCN_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZJHK-ZGGG_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZBTJ-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZUGY-ZSJA_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZSWX-ZSJA_IFR_FL340
+AIGRoute -> AIGFP_Direct_ZSCN-ZUGY_IFR_FL380
+AIGRoute -> AIGFP_Direct_ZSCN-ZBYN_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZBYN-ZSWZ_IFR_FL350
+AIGRoute -> AIGFP_Direct_ZYTL-ZSWX_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZJHK-AVA_IFR_FL400
+AIGRoute -> AIGFP_Direct_ZGGG-VYYY_IFR_FL360
+AIGRoute -> AIGFP_Direct_ZJHK-ZSNJ_IFR_FL390
+AIGRoute -> AIGFP_Direct_ZHHH-ZLLL_IFR_FL360
+
+
+
+
+Aircraft -> Id: 10   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Burgundy
+
+Registration -> Id: B-206J   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZYCC_IFR_FL350', alt=35000, dep_apt='ZSNJ', arr_apt='ZYCC', dep_time=125, arr_time=290, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYCC-ZSNJ_IFR_FL360', alt=36000, dep_apt='ZYCC', arr_apt='ZSNJ', dep_time=670, arr_time=830, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZGGG', dep_time=895, arr_time=1040, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNJ_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZSNJ', dep_time=1365, arr_time=1505, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZYCC_IFR_FL370', alt=37000, dep_apt='ZSNJ', arr_apt='ZYCC', dep_time=1565, arr_time=1730, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYCC-ZSNJ_IFR_FL380', alt=38000, dep_apt='ZYCC', arr_apt='ZSNJ', dep_time=2110, arr_time=2270, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZGGG', dep_time=2335, arr_time=2480, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSNJ', dep_time=2805, arr_time=2945, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZYCC_IFR_FL370', alt=37000, dep_apt='ZSNJ', arr_apt='ZYCC', dep_time=3005, arr_time=3170, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYCC-ZSNJ_IFR_FL380', alt=38000, dep_apt='ZYCC', arr_apt='ZSNJ', dep_time=3550, arr_time=3710, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZGGG', dep_time=3775, arr_time=3920, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSNJ', dep_time=4245, arr_time=4385, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZYCC_IFR_FL390', alt=39000, dep_apt='ZSNJ', arr_apt='ZYCC', dep_time=4445, arr_time=4610, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYCC-ZSNJ_IFR_FL400', alt=40000, dep_apt='ZYCC', arr_apt='ZSNJ', dep_time=4990, arr_time=5150, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZGGG', dep_time=5215, arr_time=5360, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSNJ', dep_time=5685, arr_time=5825, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZYCC_IFR_FL350', alt=35000, dep_apt='ZSNJ', arr_apt='ZYCC', dep_time=5885, arr_time=6050, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYCC-ZSNJ_IFR_FL360', alt=36000, dep_apt='ZYCC', arr_apt='ZSNJ', dep_time=6430, arr_time=6590, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZGGG', dep_time=6655, arr_time=6800, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSNJ', dep_time=7125, arr_time=7265, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZYCC_IFR_FL390', alt=39000, dep_apt='ZSNJ', arr_apt='ZYCC', dep_time=7325, arr_time=7490, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYCC-ZSNJ_IFR_FL400', alt=40000, dep_apt='ZYCC', arr_apt='ZSNJ', dep_time=7870, arr_time=8030, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGGG_IFR_FL400', alt=40000, dep_apt='ZSNJ', arr_apt='ZGGG', dep_time=8095, arr_time=8240, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNJ_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZSNJ', dep_time=8565, arr_time=8705, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZYCC_IFR_FL390', alt=39000, dep_apt='ZSNJ', arr_apt='ZYCC', dep_time=8765, arr_time=8930, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYCC-ZSNJ_IFR_FL380', alt=38000, dep_apt='ZYCC', arr_apt='ZSNJ', dep_time=9310, arr_time=9470, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGGG_IFR_FL360', alt=36000, dep_apt='ZSNJ', arr_apt='ZGGG', dep_time=9535, arr_time=9680, callsign='', flightnumber=1034, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSNJ', dep_time=10005, arr_time=65, callsign='', flightnumber=1033, flightrule='IFR', tng='False'}
+
+Aircraft -> Id: 20   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Blue
+
+Registration -> Id: B-1592   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZHCC-ZYTX_IFR_FL390', alt=39000, dep_apt='ZHCC', arr_apt='ZYTX', dep_time=95, arr_time=230, callsign='', flightnumber=1049, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZSWX_IFR_FL400', alt=40000, dep_apt='ZYTX', arr_apt='ZSWX', dep_time=280, arr_time=450, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSWX', arr_apt='ZUGY', dep_time=500, arr_time=665, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-VTSP_IFR_FL400', alt=40000, dep_apt='ZUGY', arr_apt='VTSP', dep_time=845, arr_time=1110, callsign='', flightnumber=1201, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_VTSP-ZUGY_IFR_FL390', alt=39000, dep_apt='VTSP', arr_apt='ZUGY', dep_time=1170, arr_time=1375, callsign='', flightnumber=1202, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSWZ_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZSWZ', dep_time=1435, arr_time=1570, callsign='', flightnumber=1091, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZUGY_IFR_FL400', alt=40000, dep_apt='ZSWZ', arr_apt='ZUGY', dep_time=1620, arr_time=1790, callsign='', flightnumber=1092, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSAM_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSAM', dep_time=1840, arr_time=1960, callsign='', flightnumber=1095, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSAM-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSAM', arr_apt='ZUGY', dep_time=2020, arr_time=2170, callsign='', flightnumber=1096, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSWX_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZSWX', dep_time=2855, arr_time=3005, callsign='', flightnumber=1089, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZUGY_IFR_FL400', alt=40000, dep_apt='ZSWX', arr_apt='ZUGY', dep_time=3160, arr_time=3340, callsign='', flightnumber=1090, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZGGG_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZGGG', dep_time=3825, arr_time=3930, callsign='', flightnumber=1028, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZUGY_IFR_FL340', alt=34000, dep_apt='ZGGG', arr_apt='ZUGY', dep_time=4205, arr_time=4305, callsign='', flightnumber=1027, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSNJ_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZSNJ', dep_time=4355, arr_time=4490, callsign='', flightnumber=1069, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGNN_IFR_FL360', alt=36000, dep_apt='ZSNJ', arr_apt='ZGNN', dep_time=4550, arr_time=4725, callsign='', flightnumber=1119, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZGNN', arr_apt='ZSNJ', dep_time=4775, arr_time=4915, callsign='', flightnumber=1120, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSNJ', arr_apt='ZUGY', dep_time=5005, arr_time=5170, callsign='', flightnumber=1070, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=5285, arr_time=5405, callsign='', flightnumber=1079, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL400', alt=40000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=5630, arr_time=5750, callsign='', flightnumber=1080, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSNJ_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSNJ', dep_time=5795, arr_time=5930, callsign='', flightnumber=1069, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGNN_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZGNN', dep_time=5990, arr_time=6165, callsign='', flightnumber=1119, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZGNN', arr_apt='ZSNJ', dep_time=6215, arr_time=6355, callsign='', flightnumber=1120, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSNJ', arr_apt='ZUGY', dep_time=6445, arr_time=6610, callsign='', flightnumber=1070, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=6725, arr_time=6845, callsign='', flightnumber=1079, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL380', alt=38000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=7070, arr_time=7190, callsign='', flightnumber=1080, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSNJ_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSNJ', dep_time=7235, arr_time=7370, callsign='', flightnumber=1069, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGNN_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZGNN', dep_time=7430, arr_time=7605, callsign='', flightnumber=1119, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZGNN', arr_apt='ZSNJ', dep_time=7655, arr_time=7795, callsign='', flightnumber=1120, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSNJ', arr_apt='ZUGY', dep_time=7885, arr_time=8050, callsign='', flightnumber=1070, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZGGG_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZGGG', dep_time=8145, arr_time=8250, callsign='', flightnumber=1028, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZJHK_IFR_FL360', alt=36000, dep_apt='ZGGG', arr_apt='ZJHK', dep_time=8505, arr_time=8595, callsign='', flightnumber=1025, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZSNJ_IFR_FL370', alt=37000, dep_apt='ZJHK', arr_apt='ZSNJ', dep_time=8840, arr_time=9005, callsign='', flightnumber=1039, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZYHB_IFR_FL350', alt=35000, dep_apt='ZSNJ', arr_apt='ZYHB', dep_time=9080, arr_time=9240, callsign='', flightnumber=1039, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYHB-ZSWZ_IFR_FL360', alt=36000, dep_apt='ZYHB', arr_apt='ZSWZ', dep_time=9305, arr_time=9520, callsign='', flightnumber=1022, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZGGG_IFR_FL400', alt=40000, dep_apt='ZSWZ', arr_apt='ZGGG', dep_time=9570, arr_time=9685, callsign='', flightnumber=1022, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=9935, arr_time=10070, callsign='', flightnumber=1171, flightrule='IFR', tng='False'}
+
+Aircraft -> Id: 21   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Burgundy
+
+Registration -> Id: B-1552   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZLLL-ZHHH_IFR_FL390', alt=39000, dep_apt='ZLLL', arr_apt='ZHHH', dep_time=165, arr_time=280, callsign='', flightnumber=1124, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZSWZ_IFR_FL350', alt=35000, dep_apt='ZHHH', arr_apt='ZSWZ', dep_time=340, arr_time=435, callsign='', flightnumber=1183, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZHHH_IFR_FL360', alt=36000, dep_apt='ZSWZ', arr_apt='ZHHH', dep_time=480, arr_time=580, callsign='', flightnumber=1184, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZLLL_IFR_FL380', alt=38000, dep_apt='ZHHH', arr_apt='ZLLL', dep_time=670, arr_time=805, callsign='', flightnumber=1123, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZGGG_IFR_FL390', alt=39000, dep_apt='ZLLL', arr_apt='ZGGG', dep_time=860, arr_time=1040, callsign='', flightnumber=1108, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZBTJ_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZBTJ', dep_time=1355, arr_time=1545, callsign='', flightnumber=1055, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZBTJ-ZGGG_IFR_FL360', alt=36000, dep_apt='ZBTJ', arr_apt='ZGGG', dep_time=1625, arr_time=1825, callsign='', flightnumber=1056, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=1920, arr_time=2075, callsign='', flightnumber=1029, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL360', alt=36000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=2390, arr_time=2530, callsign='', flightnumber=1172, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZWWW_IFR_FL380', alt=38000, dep_apt='ZGGG', arr_apt='ZWWW', dep_time=2780, arr_time=3130, callsign='', flightnumber=1051, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZWWW-ZGGG_IFR_FL370', alt=37000, dep_apt='ZWWW', arr_apt='ZGGG', dep_time=3615, arr_time=3930, callsign='', flightnumber=1052, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSOF_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZSOF', dep_time=4215, arr_time=4340, callsign='', flightnumber=1165, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSOF-ZGGG_IFR_FL400', alt=40000, dep_apt='ZSOF', arr_apt='ZGGG', dep_time=4430, arr_time=4570, callsign='', flightnumber=1166, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-VYMD_IFR_FL360', alt=36000, dep_apt='ZGGG', arr_apt='VYMD', dep_time=4725, arr_time=5035, callsign='', flightnumber=1001, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_VYMD-ZGGG_IFR_FL390', alt=39000, dep_apt='VYMD', arr_apt='ZGGG', dep_time=5100, arr_time=5180, callsign='', flightnumber=1002, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZJSY_IFR_FL380', alt=38000, dep_apt='ZGGG', arr_apt='ZJSY', dep_time=5340, arr_time=5435, callsign='', flightnumber=1111, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZGGG_IFR_FL330', alt=33000, dep_apt='ZJSY', arr_apt='ZGGG', dep_time=5485, arr_time=5575, callsign='', flightnumber=1112, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZBTJ_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZBTJ', dep_time=5675, arr_time=5865, callsign='', flightnumber=1055, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZBTJ-ZGGG_IFR_FL400', alt=40000, dep_apt='ZBTJ', arr_apt='ZGGG', dep_time=5945, arr_time=6145, callsign='', flightnumber=1056, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=6240, arr_time=6395, callsign='', flightnumber=1029, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL400', alt=40000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=6660, arr_time=6805, callsign='', flightnumber=1030, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWZ_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZSWZ', dep_time=7115, arr_time=7220, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZYHB_IFR_FL390', alt=39000, dep_apt='ZSWZ', arr_apt='ZYHB', dep_time=7270, arr_time=7480, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYHB-ZSNJ_IFR_FL380', alt=38000, dep_apt='ZYHB', arr_apt='ZSNJ', dep_time=7550, arr_time=7745, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZJHK', dep_time=7820, arr_time=8005, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGGG_IFR_FL330', alt=33000, dep_apt='ZJHK', arr_apt='ZGGG', dep_time=8210, arr_time=8295, callsign='', flightnumber=1026, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZLXY_IFR_FL360', alt=36000, dep_apt='ZGGG', arr_apt='ZLXY', dep_time=8540, arr_time=8690, callsign='', flightnumber=1105, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLXY-JIQ_IFR_FL330', alt=33000, dep_apt='ZLXY', arr_apt='JIQ', dep_time=8750, arr_time=8855, callsign='', flightnumber=1156, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_JIQ-ZJHK_IFR_FL390', alt=39000, dep_apt='JIQ', arr_apt='ZJHK', dep_time=8920, arr_time=9060, callsign='', flightnumber=1156, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-JIQ_IFR_FL360', alt=36000, dep_apt='ZJHK', arr_apt='JIQ', dep_time=9200, arr_time=9330, callsign='', flightnumber=1155, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_JIQ-ZLXY_IFR_FL280', alt=28000, dep_apt='JIQ', arr_apt='ZLXY', dep_time=9385, arr_time=9475, callsign='', flightnumber=1155, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLXY-ZGGG_IFR_FL350', alt=35000, dep_apt='ZLXY', arr_apt='ZGGG', dep_time=9540, arr_time=9710, callsign='', flightnumber=1106, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZLLL_IFR_FL360', alt=36000, dep_apt='ZGGG', arr_apt='ZLLL', dep_time=10000, arr_time=110, callsign='', flightnumber=1107, flightrule='IFR', tng='False'}
+
+Aircraft -> Id: 22   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Dark Green
+
+Registration -> Id: B-6992   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZGSY-ZJHK_IFR_FL360', alt=36000, dep_apt='ZGSY', arr_apt='ZJHK', dep_time=70, arr_time=175, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGSY_IFR_FL390', alt=39000, dep_apt='ZJHK', arr_apt='ZGSY', dep_time=250, arr_time=350, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZGHA_IFR_FL190', alt=19000, dep_apt='ZGSY', arr_apt='ZGHA', dep_time=410, arr_time=470, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZGSY_IFR_FL180', alt=18000, dep_apt='ZGHA', arr_apt='ZGSY', dep_time=1395, arr_time=1460, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZJHK_IFR_FL380', alt=38000, dep_apt='ZGSY', arr_apt='ZJHK', dep_time=1510, arr_time=1610, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGSY_IFR_FL330', alt=33000, dep_apt='ZJHK', arr_apt='ZGSY', dep_time=1740, arr_time=1840, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZGHA_IFR_FL270', alt=27000, dep_apt='ZGSY', arr_apt='ZGHA', dep_time=1890, arr_time=1955, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZGSY_IFR_FL200', alt=20000, dep_apt='ZGHA', arr_apt='ZGSY', dep_time=2835, arr_time=2900, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZJHK_IFR_FL380', alt=38000, dep_apt='ZGSY', arr_apt='ZJHK', dep_time=2950, arr_time=3055, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGSY_IFR_FL350', alt=35000, dep_apt='ZJHK', arr_apt='ZGSY', dep_time=3135, arr_time=3235, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZGHA_IFR_FL230', alt=23000, dep_apt='ZGSY', arr_apt='ZGHA', dep_time=3300, arr_time=3365, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZSWZ_IFR_FL330', alt=33000, dep_apt='ZGHA', arr_apt='ZSWZ', dep_time=3480, arr_time=3565, callsign='', flightnumber=1147, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZGHA_IFR_FL360', alt=36000, dep_apt='ZSWZ', arr_apt='ZGHA', dep_time=3610, arr_time=3710, callsign='', flightnumber=1148, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-VYMD_IFR_FL360', alt=36000, dep_apt='ZGHA', arr_apt='VYMD', dep_time=3780, arr_time=4055, callsign='', flightnumber=1211, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_VYMD-ZGHA_IFR_FL370', alt=37000, dep_apt='VYMD', arr_apt='ZGHA', dep_time=4115, arr_time=4195, callsign='', flightnumber=1212, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZGSY_IFR_FL220', alt=22000, dep_apt='ZGHA', arr_apt='ZGSY', dep_time=4275, arr_time=4340, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZJHK_IFR_FL360', alt=36000, dep_apt='ZGSY', arr_apt='ZJHK', dep_time=4390, arr_time=4490, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGSY_IFR_FL330', alt=33000, dep_apt='ZJHK', arr_apt='ZGSY', dep_time=4570, arr_time=4670, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZGHA_IFR_FL190', alt=19000, dep_apt='ZGSY', arr_apt='ZGHA', dep_time=4730, arr_time=4790, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZSWZ_IFR_FL390', alt=39000, dep_apt='ZGHA', arr_apt='ZSWZ', dep_time=5075, arr_time=5165, callsign='', flightnumber=1147, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZGHA_IFR_FL340', alt=34000, dep_apt='ZSWZ', arr_apt='ZGHA', dep_time=5210, arr_time=5320, callsign='', flightnumber=1148, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZGSY_IFR_FL200', alt=20000, dep_apt='ZGHA', arr_apt='ZGSY', dep_time=5715, arr_time=5780, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZJHK_IFR_FL380', alt=38000, dep_apt='ZGSY', arr_apt='ZJHK', dep_time=5830, arr_time=5935, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGSY_IFR_FL370', alt=37000, dep_apt='ZJHK', arr_apt='ZGSY', dep_time=6010, arr_time=6110, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZGHA_IFR_FL190', alt=19000, dep_apt='ZGSY', arr_apt='ZGHA', dep_time=6180, arr_time=6245, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZSWZ_IFR_FL370', alt=37000, dep_apt='ZGHA', arr_apt='ZSWZ', dep_time=6360, arr_time=6445, callsign='', flightnumber=1147, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZGHA_IFR_FL400', alt=40000, dep_apt='ZSWZ', arr_apt='ZGHA', dep_time=6490, arr_time=6590, callsign='', flightnumber=1148, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZGSY_IFR_FL200', alt=20000, dep_apt='ZGHA', arr_apt='ZGSY', dep_time=7155, arr_time=7220, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZJHK_IFR_FL380', alt=38000, dep_apt='ZGSY', arr_apt='ZJHK', dep_time=7270, arr_time=7375, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGSY_IFR_FL350', alt=35000, dep_apt='ZJHK', arr_apt='ZGSY', dep_time=7665, arr_time=7775, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZGHA_IFR_FL230', alt=23000, dep_apt='ZGSY', arr_apt='ZGHA', dep_time=7920, arr_time=7980, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZSWZ_IFR_FL370', alt=37000, dep_apt='ZGHA', arr_apt='ZSWZ', dep_time=8040, arr_time=8125, callsign='', flightnumber=1267, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZGHA_IFR_FL400', alt=40000, dep_apt='ZSWZ', arr_apt='ZGHA', dep_time=8175, arr_time=8275, callsign='', flightnumber=1268, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZGSY_IFR_FL260', alt=26000, dep_apt='ZGHA', arr_apt='ZGSY', dep_time=8595, arr_time=8660, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZJHK_IFR_FL380', alt=38000, dep_apt='ZGSY', arr_apt='ZJHK', dep_time=8710, arr_time=8815, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGSY_IFR_FL390', alt=39000, dep_apt='ZJHK', arr_apt='ZGSY', dep_time=8890, arr_time=8990, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGSY-ZGHA_IFR_FL190', alt=19000, dep_apt='ZGSY', arr_apt='ZGHA', dep_time=9060, arr_time=9125, callsign='', flightnumber=1118, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZSWZ_IFR_FL350', alt=35000, dep_apt='ZGHA', arr_apt='ZSWZ', dep_time=9240, arr_time=9325, callsign='', flightnumber=1147, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZGHA_IFR_FL380', alt=38000, dep_apt='ZSWZ', arr_apt='ZGHA', dep_time=9370, arr_time=9470, callsign='', flightnumber=1148, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-VYMD_IFR_FL400', alt=40000, dep_apt='ZGHA', arr_apt='VYMD', dep_time=9540, arr_time=9815, callsign='', flightnumber=1211, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_VYMD-ZGHA_IFR_FL350', alt=35000, dep_apt='VYMD', arr_apt='ZGHA', dep_time=9875, arr_time=9955, callsign='', flightnumber=1212, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGHA-ZGSY_IFR_FL200', alt=20000, dep_apt='ZGHA', arr_apt='ZGSY', dep_time=10035, arr_time=20, callsign='', flightnumber=1117, flightrule='IFR', tng='False'}
+
+Aircraft -> Id: 23   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Green
+
+Registration -> Id: B-1472   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370', alt=37000, dep_apt='ZSWZ', arr_apt='ZYHB', dep_time=70, arr_time=280, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYHB-ZSNJ_IFR_FL380', alt=38000, dep_apt='ZYHB', arr_apt='ZSNJ', dep_time=350, arr_time=545, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZJHK', dep_time=620, arr_time=805, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGGG_IFR_FL270', alt=27000, dep_apt='ZJHK', arr_apt='ZGGG', dep_time=1010, arr_time=1095, callsign='', flightnumber=1026, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWZ_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZSWZ', dep_time=1355, arr_time=1460, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370', alt=37000, dep_apt='ZSWZ', arr_apt='ZYHB', dep_time=1510, arr_time=1720, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYHB-ZSNJ_IFR_FL380', alt=38000, dep_apt='ZYHB', arr_apt='ZSNJ', dep_time=1790, arr_time=1985, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZJHK_IFR_FL400', alt=40000, dep_apt='ZSNJ', arr_apt='ZJHK', dep_time=2060, arr_time=2245, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGGG_IFR_FL330', alt=33000, dep_apt='ZJHK', arr_apt='ZGGG', dep_time=2450, arr_time=2535, callsign='', flightnumber=1026, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWZ_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZSWZ', dep_time=2795, arr_time=2900, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370', alt=37000, dep_apt='ZSWZ', arr_apt='ZYHB', dep_time=2950, arr_time=3160, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYHB-ZSNJ_IFR_FL360', alt=36000, dep_apt='ZYHB', arr_apt='ZSNJ', dep_time=3230, arr_time=3425, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZJHK', dep_time=3500, arr_time=3685, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGGG_IFR_FL290', alt=29000, dep_apt='ZJHK', arr_apt='ZGGG', dep_time=3890, arr_time=3975, callsign='', flightnumber=1026, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWX_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSWX', dep_time=4210, arr_time=4345, callsign='', flightnumber=1023, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZYTL_IFR_FL390', alt=39000, dep_apt='ZSWX', arr_apt='ZYTL', dep_time=4395, arr_time=4495, callsign='', flightnumber=1045, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTL-ZSWX_IFR_FL380', alt=38000, dep_apt='ZYTL', arr_apt='ZSWX', dep_time=4570, arr_time=4690, callsign='', flightnumber=1046, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZGGG_IFR_FL360', alt=36000, dep_apt='ZSWX', arr_apt='ZGGG', dep_time=4740, arr_time=4890, callsign='', flightnumber=1024, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNB_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZSNB', dep_time=5000, arr_time=5120, callsign='', flightnumber=1059, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNB-ZGGG_IFR_FL380', alt=38000, dep_apt='ZSNB', arr_apt='ZGGG', dep_time=5205, arr_time=5355, callsign='', flightnumber=1060, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=5615, arr_time=5750, callsign='', flightnumber=1171, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZYTX_IFR_FL390', alt=39000, dep_apt='ZHCC', arr_apt='ZYTX', dep_time=5855, arr_time=5990, callsign='', flightnumber=1049, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZSWX_IFR_FL380', alt=38000, dep_apt='ZYTX', arr_apt='ZSWX', dep_time=6040, arr_time=6210, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSWX', arr_apt='ZUGY', dep_time=6260, arr_time=6425, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSJA_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSJA', dep_time=7175, arr_time=7275, callsign='', flightnumber=1065, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSJA-ZSWX_IFR_FL330', alt=33000, dep_apt='ZSJA', arr_apt='ZSWX', dep_time=7360, arr_time=7480, callsign='', flightnumber=1065, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZSJA_IFR_FL360', alt=36000, dep_apt='ZSWX', arr_apt='ZSJA', dep_time=7530, arr_time=7640, callsign='', flightnumber=1066, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSJA-ZUGY_IFR_FL380', alt=38000, dep_apt='ZSJA', arr_apt='ZUGY', dep_time=7695, arr_time=7805, callsign='', flightnumber=1066, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSCN_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZSCN', dep_time=7855, arr_time=7955, callsign='', flightnumber=1083, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSCN-ZUGY_IFR_FL400', alt=40000, dep_apt='ZSCN', arr_apt='ZUGY', dep_time=8010, arr_time=8130, callsign='', flightnumber=1084, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=8585, arr_time=8700, callsign='', flightnumber=1061, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL380', alt=38000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=8755, arr_time=8875, callsign='', flightnumber=1062, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSWX_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZSWX', dep_time=8940, arr_time=9085, callsign='', flightnumber=1071, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZYTX_IFR_FL390', alt=39000, dep_apt='ZSWX', arr_apt='ZYTX', dep_time=9135, arr_time=9275, callsign='', flightnumber=1071, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZHCC_IFR_FL360', alt=36000, dep_apt='ZYTX', arr_apt='ZHCC', dep_time=9340, arr_time=9490, callsign='', flightnumber=1050, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL400', alt=40000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=9590, arr_time=9730, callsign='', flightnumber=1172, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWZ_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSWZ', dep_time=9995, arr_time=20, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+
+Aircraft -> Id: 24   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Light Blue WiFi Dome
+
+Registration -> Id: B-1551   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZBTJ-ZGGG_IFR_FL400', alt=40000, dep_apt='ZBTJ', arr_apt='ZGGG', dep_time=185, arr_time=385, callsign='', flightnumber=1056, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=480, arr_time=635, callsign='', flightnumber=1029, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL400', alt=40000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=950, arr_time=1090, callsign='', flightnumber=1172, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZLLL_IFR_FL400', alt=40000, dep_apt='ZGGG', arr_apt='ZLLL', dep_time=1360, arr_time=1550, callsign='', flightnumber=1107, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZHHH_IFR_FL350', alt=35000, dep_apt='ZLLL', arr_apt='ZHHH', dep_time=1605, arr_time=1720, callsign='', flightnumber=1124, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZSWZ_IFR_FL350', alt=35000, dep_apt='ZHHH', arr_apt='ZSWZ', dep_time=1780, arr_time=1875, callsign='', flightnumber=1183, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZHHH_IFR_FL340', alt=34000, dep_apt='ZSWZ', arr_apt='ZHHH', dep_time=1920, arr_time=2020, callsign='', flightnumber=1184, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZLLL_IFR_FL400', alt=40000, dep_apt='ZHHH', arr_apt='ZLLL', dep_time=2110, arr_time=2245, callsign='', flightnumber=1123, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZGGG_IFR_FL350', alt=35000, dep_apt='ZLLL', arr_apt='ZGGG', dep_time=2300, arr_time=2480, callsign='', flightnumber=1108, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=2735, arr_time=2870, callsign='', flightnumber=1171, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZYTX_IFR_FL350', alt=35000, dep_apt='ZHCC', arr_apt='ZYTX', dep_time=2975, arr_time=3110, callsign='', flightnumber=1049, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZSWX_IFR_FL360', alt=36000, dep_apt='ZYTX', arr_apt='ZSWX', dep_time=3160, arr_time=3330, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZUGY_IFR_FL380', alt=38000, dep_apt='ZSWX', arr_apt='ZUGY', dep_time=3380, arr_time=3545, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=4265, arr_time=4380, callsign='', flightnumber=1061, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL380', alt=38000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=4435, arr_time=4555, callsign='', flightnumber=1062, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSWX_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZSWX', dep_time=4620, arr_time=4765, callsign='', flightnumber=1071, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZYTX_IFR_FL390', alt=39000, dep_apt='ZSWX', arr_apt='ZYTX', dep_time=4815, arr_time=4955, callsign='', flightnumber=1071, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZHCC_IFR_FL360', alt=36000, dep_apt='ZYTX', arr_apt='ZHCC', dep_time=5020, arr_time=5170, callsign='', flightnumber=1050, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL400', alt=40000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=5220, arr_time=5365, callsign='', flightnumber=1030, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZWWW_IFR_FL400', alt=40000, dep_apt='ZGGG', arr_apt='ZWWW', dep_time=5660, arr_time=6010, callsign='', flightnumber=1051, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZWWW-ZWYN_IFR_FL320', alt=32000, dep_apt='ZWWW', arr_apt='ZWYN', dep_time=6100, arr_time=6190, callsign='', flightnumber=1093, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZWYN-ZWWW_IFR_FL270', alt=27000, dep_apt='ZWYN', arr_apt='ZWWW', dep_time=6330, arr_time=6415, callsign='', flightnumber=1094, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZWWW-ZGGG_IFR_FL370', alt=37000, dep_apt='ZWWW', arr_apt='ZGGG', dep_time=6495, arr_time=6810, callsign='', flightnumber=1052, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZLXY_IFR_FL400', alt=40000, dep_apt='ZGGG', arr_apt='ZLXY', dep_time=7100, arr_time=7250, callsign='', flightnumber=1105, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLXY-AVA_IFR_FL360', alt=36000, dep_apt='ZLXY', arr_apt='AVA', dep_time=7310, arr_time=7445, callsign='', flightnumber=1158, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_AVA-ZJHK_IFR_FL350', alt=35000, dep_apt='AVA', arr_apt='ZJHK', dep_time=7510, arr_time=7620, callsign='', flightnumber=1158, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-AVA_IFR_FL380', alt=38000, dep_apt='ZJHK', arr_apt='AVA', dep_time=7760, arr_time=7875, callsign='', flightnumber=1157, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_AVA-ZLXY_IFR_FL390', alt=39000, dep_apt='AVA', arr_apt='ZLXY', dep_time=7920, arr_time=8035, callsign='', flightnumber=1157, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLXY-ZGGG_IFR_FL350', alt=35000, dep_apt='ZLXY', arr_apt='ZGGG', dep_time=8100, arr_time=8270, callsign='', flightnumber=1106, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZWWW_IFR_FL400', alt=40000, dep_apt='ZGGG', arr_apt='ZWWW', dep_time=8570, arr_time=8900, callsign='', flightnumber=1051, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZWWW-ZGGG_IFR_FL390', alt=39000, dep_apt='ZWWW', arr_apt='ZGGG', dep_time=9375, arr_time=9690, callsign='', flightnumber=1052, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZBTJ_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZBTJ', dep_time=9995, arr_time=105, callsign='', flightnumber=1055, flightrule='IFR', tng='False'}
+
+Aircraft -> Id: 25   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Magenta
+
+Registration -> Id: B-1172   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZSWX-ZYTL_IFR_FL350', alt=35000, dep_apt='ZSWX', arr_apt='ZYTL', dep_time=75, arr_time=175, callsign='', flightnumber=1045, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTL-ZSWX_IFR_FL360', alt=36000, dep_apt='ZYTL', arr_apt='ZSWX', dep_time=250, arr_time=370, callsign='', flightnumber=1046, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZGGG_IFR_FL380', alt=38000, dep_apt='ZSWX', arr_apt='ZGGG', dep_time=420, arr_time=570, callsign='', flightnumber=1024, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNB_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZSNB', dep_time=680, arr_time=800, callsign='', flightnumber=1059, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNB-ZGGG_IFR_FL400', alt=40000, dep_apt='ZSNB', arr_apt='ZGGG', dep_time=885, arr_time=1035, callsign='', flightnumber=1060, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWX_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSWX', dep_time=1330, arr_time=1465, callsign='', flightnumber=1023, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZYTL_IFR_FL370', alt=37000, dep_apt='ZSWX', arr_apt='ZYTL', dep_time=1515, arr_time=1615, callsign='', flightnumber=1045, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTL-ZSWX_IFR_FL360', alt=36000, dep_apt='ZYTL', arr_apt='ZSWX', dep_time=1690, arr_time=1810, callsign='', flightnumber=1046, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZGGG_IFR_FL360', alt=36000, dep_apt='ZSWX', arr_apt='ZGGG', dep_time=1860, arr_time=2010, callsign='', flightnumber=1024, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNB_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZSNB', dep_time=2120, arr_time=2240, callsign='', flightnumber=1059, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNB-ZGGG_IFR_FL360', alt=36000, dep_apt='ZSNB', arr_apt='ZGGG', dep_time=2325, arr_time=2475, callsign='', flightnumber=1060, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSOF_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZSOF', dep_time=2775, arr_time=2900, callsign='', flightnumber=1165, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSOF-ZGGG_IFR_FL380', alt=38000, dep_apt='ZSOF', arr_apt='ZGGG', dep_time=2990, arr_time=3130, callsign='', flightnumber=1166, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-VYYY_IFR_FL380', alt=38000, dep_apt='ZGGG', arr_apt='VYYY', dep_time=3285, arr_time=3585, callsign='', flightnumber=1003, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_VYYY-ZGGG_IFR_FL390', alt=39000, dep_apt='VYYY', arr_apt='ZGGG', dep_time=3650, arr_time=3740, callsign='', flightnumber=1004, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZJSY_IFR_FL340', alt=34000, dep_apt='ZGGG', arr_apt='ZJSY', dep_time=3900, arr_time=3995, callsign='', flightnumber=1111, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZGGG_IFR_FL330', alt=33000, dep_apt='ZJSY', arr_apt='ZGGG', dep_time=4045, arr_time=4135, callsign='', flightnumber=1112, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWZ_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSWZ', dep_time=4235, arr_time=4340, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370', alt=37000, dep_apt='ZSWZ', arr_apt='ZYHB', dep_time=4390, arr_time=4600, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYHB-ZSNJ_IFR_FL400', alt=40000, dep_apt='ZYHB', arr_apt='ZSNJ', dep_time=4670, arr_time=4865, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZJHK', dep_time=4940, arr_time=5125, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGGG_IFR_FL270', alt=27000, dep_apt='ZJHK', arr_apt='ZGGG', dep_time=5330, arr_time=5415, callsign='', flightnumber=1026, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWZ_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZSWZ', dep_time=5675, arr_time=5780, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370', alt=37000, dep_apt='ZSWZ', arr_apt='ZYHB', dep_time=5830, arr_time=6060, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYHB-ZSNJ_IFR_FL360', alt=36000, dep_apt='ZYHB', arr_apt='ZSNJ', dep_time=6120, arr_time=6305, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZJHK', dep_time=6380, arr_time=6565, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGGG_IFR_FL310', alt=31000, dep_apt='ZJHK', arr_apt='ZGGG', dep_time=6770, arr_time=6855, callsign='', flightnumber=1026, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZUGY_IFR_FL380', alt=38000, dep_apt='ZGGG', arr_apt='ZUGY', dep_time=7085, arr_time=7185, callsign='', flightnumber=1027, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZHCC_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZHCC', dep_time=7245, arr_time=7390, callsign='', flightnumber=1077, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZUGY_IFR_FL360', alt=36000, dep_apt='ZHCC', arr_apt='ZUGY', dep_time=7465, arr_time=7610, callsign='', flightnumber=1078, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZBTJ_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZBTJ', dep_time=7745, arr_time=7915, callsign='', flightnumber=1067, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZBTJ-ZUGY_IFR_FL360', alt=36000, dep_apt='ZBTJ', arr_apt='ZUGY', dep_time=7980, arr_time=8175, callsign='', flightnumber=1068, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSWX_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSWX', dep_time=8615, arr_time=8765, callsign='', flightnumber=1089, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSWX', arr_apt='ZUGY', dep_time=8920, arr_time=9100, callsign='', flightnumber=1090, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZGGG_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZGGG', dep_time=9585, arr_time=9690, callsign='', flightnumber=1028, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWX_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSWX', dep_time=9970, arr_time=25, callsign='', flightnumber=1023, flightrule='IFR', tng='False'}
+
+Aircraft -> Id: 26   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Orange
+
+Registration -> Id: B-1556   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZUGY_IFR_FL380', alt=38000, dep_apt='ZSWZ', arr_apt='ZUGY', dep_time=180, arr_time=350, callsign='', flightnumber=1092, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSAM_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSAM', dep_time=400, arr_time=520, callsign='', flightnumber=1095, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSAM-ZUGY_IFR_FL380', alt=38000, dep_apt='ZSAM', arr_apt='ZUGY', dep_time=580, arr_time=730, callsign='', flightnumber=1096, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=965, arr_time=1085, callsign='', flightnumber=1079, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL380', alt=38000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=1310, arr_time=1430, callsign='', flightnumber=1080, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSNJ_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSNJ', dep_time=1475, arr_time=1610, callsign='', flightnumber=1069, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGNN_IFR_FL400', alt=40000, dep_apt='ZSNJ', arr_apt='ZGNN', dep_time=1670, arr_time=1845, callsign='', flightnumber=1119, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZGNN', arr_apt='ZSNJ', dep_time=1895, arr_time=2035, callsign='', flightnumber=1120, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZUGY_IFR_FL400', alt=40000, dep_apt='ZSNJ', arr_apt='ZUGY', dep_time=2125, arr_time=2290, callsign='', flightnumber=1070, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZGGG_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZGGG', dep_time=2385, arr_time=2490, callsign='', flightnumber=1028, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZBTJ_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZBTJ', dep_time=2795, arr_time=2985, callsign='', flightnumber=1055, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZBTJ-ZGGG_IFR_FL380', alt=38000, dep_apt='ZBTJ', arr_apt='ZGGG', dep_time=3065, arr_time=3265, callsign='', flightnumber=1056, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=3360, arr_time=3515, callsign='', flightnumber=1029, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL400', alt=40000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=3780, arr_time=3925, callsign='', flightnumber=1030, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZLLL_IFR_FL360', alt=36000, dep_apt='ZGGG', arr_apt='ZLLL', dep_time=4240, arr_time=4430, callsign='', flightnumber=1107, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZHHH_IFR_FL390', alt=39000, dep_apt='ZLLL', arr_apt='ZHHH', dep_time=4485, arr_time=4600, callsign='', flightnumber=1124, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZSWZ_IFR_FL390', alt=39000, dep_apt='ZHHH', arr_apt='ZSWZ', dep_time=4660, arr_time=4755, callsign='', flightnumber=1183, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZHHH_IFR_FL340', alt=34000, dep_apt='ZSWZ', arr_apt='ZHHH', dep_time=4800, arr_time=4900, callsign='', flightnumber=1184, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZLLL_IFR_FL400', alt=40000, dep_apt='ZHHH', arr_apt='ZLLL', dep_time=4990, arr_time=5125, callsign='', flightnumber=1123, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZGGG_IFR_FL350', alt=35000, dep_apt='ZLLL', arr_apt='ZGGG', dep_time=5180, arr_time=5360, callsign='', flightnumber=1108, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZLXY_IFR_FL400', alt=40000, dep_apt='ZGGG', arr_apt='ZLXY', dep_time=5660, arr_time=5810, callsign='', flightnumber=1105, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLXY-JIQ_IFR_FL330', alt=33000, dep_apt='ZLXY', arr_apt='JIQ', dep_time=5870, arr_time=5975, callsign='', flightnumber=1156, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_JIQ-ZJHK_IFR_FL350', alt=35000, dep_apt='JIQ', arr_apt='ZJHK', dep_time=6040, arr_time=6180, callsign='', flightnumber=1156, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-JIQ_IFR_FL360', alt=36000, dep_apt='ZJHK', arr_apt='JIQ', dep_time=6320, arr_time=6450, callsign='', flightnumber=1155, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_JIQ-ZLXY_IFR_FL380', alt=38000, dep_apt='JIQ', arr_apt='ZLXY', dep_time=6505, arr_time=6595, callsign='', flightnumber=1155, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLXY-ZGGG_IFR_FL350', alt=35000, dep_apt='ZLXY', arr_apt='ZGGG', dep_time=6660, arr_time=6830, callsign='', flightnumber=1106, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=7055, arr_time=7190, callsign='', flightnumber=1171, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZYTX_IFR_FL390', alt=39000, dep_apt='ZHCC', arr_apt='ZYTX', dep_time=7295, arr_time=7430, callsign='', flightnumber=1049, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZSWX_IFR_FL400', alt=40000, dep_apt='ZYTX', arr_apt='ZSWX', dep_time=7480, arr_time=7650, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZUGY_IFR_FL380', alt=38000, dep_apt='ZSWX', arr_apt='ZUGY', dep_time=7700, arr_time=7865, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=8165, arr_time=8285, callsign='', flightnumber=1079, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL360', alt=36000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=8510, arr_time=8630, callsign='', flightnumber=1080, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSNJ_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSNJ', dep_time=8675, arr_time=8810, callsign='', flightnumber=1069, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGNN_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZGNN', dep_time=8870, arr_time=9045, callsign='', flightnumber=1119, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGNN-ZSNJ_IFR_FL370', alt=37000, dep_apt='ZGNN', arr_apt='ZSNJ', dep_time=9095, arr_time=9235, callsign='', flightnumber=1120, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSNJ', arr_apt='ZUGY', dep_time=9325, arr_time=9490, callsign='', flightnumber=1070, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSWZ_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSWZ', dep_time=10075, arr_time=130, callsign='', flightnumber=1091, flightrule='IFR', tng='False'}
+
+Aircraft -> Id: 27   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Purple
+
+Registration -> Id: B-1233   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZSJA-ZSWX_IFR_FL330', alt=33000, dep_apt='ZSJA', arr_apt='ZSWX', dep_time=160, arr_time=280, callsign='', flightnumber=1065, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZSJA_IFR_FL400', alt=40000, dep_apt='ZSWX', arr_apt='ZSJA', dep_time=330, arr_time=440, callsign='', flightnumber=1066, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSJA-ZUGY_IFR_FL400', alt=40000, dep_apt='ZSJA', arr_apt='ZUGY', dep_time=495, arr_time=605, callsign='', flightnumber=1066, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSCN_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZSCN', dep_time=655, arr_time=755, callsign='', flightnumber=1083, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSCN-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSCN', arr_apt='ZUGY', dep_time=810, arr_time=930, callsign='', flightnumber=1084, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=1385, arr_time=1500, callsign='', flightnumber=1061, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL400', alt=40000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=1555, arr_time=1675, callsign='', flightnumber=1062, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSWX_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZSWX', dep_time=1740, arr_time=1885, callsign='', flightnumber=1071, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZYTX_IFR_FL350', alt=35000, dep_apt='ZSWX', arr_apt='ZYTX', dep_time=1935, arr_time=2075, callsign='', flightnumber=1071, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZHCC_IFR_FL360', alt=36000, dep_apt='ZYTX', arr_apt='ZHCC', dep_time=2140, arr_time=2290, callsign='', flightnumber=1050, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL400', alt=40000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=2340, arr_time=2485, callsign='', flightnumber=1030, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZLLL_IFR_FL380', alt=38000, dep_apt='ZGGG', arr_apt='ZLLL', dep_time=2800, arr_time=2990, callsign='', flightnumber=1107, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZHHH_IFR_FL390', alt=39000, dep_apt='ZLLL', arr_apt='ZHHH', dep_time=3045, arr_time=3160, callsign='', flightnumber=1124, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZSWZ_IFR_FL390', alt=39000, dep_apt='ZHHH', arr_apt='ZSWZ', dep_time=3220, arr_time=3315, callsign='', flightnumber=1183, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZHHH_IFR_FL380', alt=38000, dep_apt='ZSWZ', arr_apt='ZHHH', dep_time=3360, arr_time=3460, callsign='', flightnumber=1184, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZLLL_IFR_FL400', alt=40000, dep_apt='ZHHH', arr_apt='ZLLL', dep_time=3550, arr_time=3685, callsign='', flightnumber=1123, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZGGG_IFR_FL370', alt=37000, dep_apt='ZLLL', arr_apt='ZGGG', dep_time=3740, arr_time=3920, callsign='', flightnumber=1108, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=4175, arr_time=4310, callsign='', flightnumber=1171, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZYTX_IFR_FL390', alt=39000, dep_apt='ZHCC', arr_apt='ZYTX', dep_time=4415, arr_time=4550, callsign='', flightnumber=1049, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZSWX_IFR_FL400', alt=40000, dep_apt='ZYTX', arr_apt='ZSWX', dep_time=4600, arr_time=4770, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSWX', arr_apt='ZUGY', dep_time=4820, arr_time=4985, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZGGG_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZGGG', dep_time=5265, arr_time=5370, callsign='', flightnumber=1028, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZLLL_IFR_FL380', alt=38000, dep_apt='ZGGG', arr_apt='ZLLL', dep_time=5680, arr_time=5870, callsign='', flightnumber=1107, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZHHH_IFR_FL370', alt=37000, dep_apt='ZLLL', arr_apt='ZHHH', dep_time=5925, arr_time=6040, callsign='', flightnumber=1124, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZSWZ_IFR_FL390', alt=39000, dep_apt='ZHHH', arr_apt='ZSWZ', dep_time=6100, arr_time=6195, callsign='', flightnumber=1183, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZHHH_IFR_FL320', alt=32000, dep_apt='ZSWZ', arr_apt='ZHHH', dep_time=6240, arr_time=6340, callsign='', flightnumber=1184, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZLLL_IFR_FL380', alt=38000, dep_apt='ZHHH', arr_apt='ZLLL', dep_time=6430, arr_time=6565, callsign='', flightnumber=1123, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZGGG_IFR_FL370', alt=37000, dep_apt='ZLLL', arr_apt='ZGGG', dep_time=6620, arr_time=6800, callsign='', flightnumber=1108, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZBTJ_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZBTJ', dep_time=7115, arr_time=7305, callsign='', flightnumber=1055, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZBTJ-ZGGG_IFR_FL360', alt=36000, dep_apt='ZBTJ', arr_apt='ZGGG', dep_time=7385, arr_time=7585, callsign='', flightnumber=1056, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=7680, arr_time=7835, callsign='', flightnumber=1029, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL400', alt=40000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=8100, arr_time=8245, callsign='', flightnumber=1030, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZUGY_IFR_FL380', alt=38000, dep_apt='ZGGG', arr_apt='ZUGY', dep_time=8525, arr_time=8625, callsign='', flightnumber=1027, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZHCC_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZHCC', dep_time=8685, arr_time=8830, callsign='', flightnumber=1077, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZUGY_IFR_FL360', alt=36000, dep_apt='ZHCC', arr_apt='ZUGY', dep_time=8905, arr_time=9050, callsign='', flightnumber=1078, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSOF_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSOF', dep_time=9100, arr_time=9210, callsign='', flightnumber=1085, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSOF-ZUGY_IFR_FL360', alt=36000, dep_apt='ZSOF', arr_apt='ZUGY', dep_time=9300, arr_time=9445, callsign='', flightnumber=1086, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSJA_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZSJA', dep_time=10055, arr_time=75, callsign='', flightnumber=1065, flightrule='IFR', tng='False'}
+
+Aircraft -> Id: 28   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Red
+
+Registration -> Id: B-1553   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZSNJ', dep_time=35, arr_time=170, callsign='', flightnumber=1069, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZGNN_IFR_FL360', alt=36000, dep_apt='ZSNJ', arr_apt='ZGNN', dep_time=230, arr_time=405, callsign='', flightnumber=1119, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390', alt=39000, dep_apt='ZGNN', arr_apt='ZSNJ', dep_time=455, arr_time=595, callsign='', flightnumber=1120, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZUGY_IFR_FL400', alt=40000, dep_apt='ZSNJ', arr_apt='ZUGY', dep_time=685, arr_time=850, callsign='', flightnumber=1070, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZGGG_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZGGG', dep_time=945, arr_time=1050, callsign='', flightnumber=1028, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=1295, arr_time=1430, callsign='', flightnumber=1171, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZYTX_IFR_FL370', alt=37000, dep_apt='ZHCC', arr_apt='ZYTX', dep_time=1535, arr_time=1670, callsign='', flightnumber=1049, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZSWX_IFR_FL400', alt=40000, dep_apt='ZYTX', arr_apt='ZSWX', dep_time=1720, arr_time=1890, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZUGY_IFR_FL400', alt=40000, dep_apt='ZSWX', arr_apt='ZUGY', dep_time=1940, arr_time=2105, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=2410, arr_time=2525, callsign='', flightnumber=1079, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL380', alt=38000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=2750, arr_time=2870, callsign='', flightnumber=1080, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZHCC_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZHCC', dep_time=2925, arr_time=3070, callsign='', flightnumber=1077, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZUGY_IFR_FL400', alt=40000, dep_apt='ZHCC', arr_apt='ZUGY', dep_time=3145, arr_time=3290, callsign='', flightnumber=1078, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSOF_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZSOF', dep_time=3340, arr_time=3450, callsign='', flightnumber=1085, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSOF-ZUGY_IFR_FL380', alt=38000, dep_apt='ZSOF', arr_apt='ZUGY', dep_time=3540, arr_time=3685, callsign='', flightnumber=1086, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSJA_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZSJA', dep_time=4295, arr_time=4395, callsign='', flightnumber=1065, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSJA-ZSWX_IFR_FL330', alt=33000, dep_apt='ZSJA', arr_apt='ZSWX', dep_time=4480, arr_time=4600, callsign='', flightnumber=1065, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZSJA_IFR_FL360', alt=36000, dep_apt='ZSWX', arr_apt='ZSJA', dep_time=4650, arr_time=4760, callsign='', flightnumber=1066, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSJA-ZUGY_IFR_FL400', alt=40000, dep_apt='ZSJA', arr_apt='ZUGY', dep_time=4815, arr_time=4925, callsign='', flightnumber=1066, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSCN_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZSCN', dep_time=4975, arr_time=5075, callsign='', flightnumber=1083, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSCN-ZUGY_IFR_FL400', alt=40000, dep_apt='ZSCN', arr_apt='ZUGY', dep_time=5130, arr_time=5250, callsign='', flightnumber=1084, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=5705, arr_time=5820, callsign='', flightnumber=1061, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL400', alt=40000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=5875, arr_time=5995, callsign='', flightnumber=1062, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSWX_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZSWX', dep_time=6060, arr_time=6205, callsign='', flightnumber=1071, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZYTX_IFR_FL390', alt=39000, dep_apt='ZSWX', arr_apt='ZYTX', dep_time=6255, arr_time=6395, callsign='', flightnumber=1071, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZHCC_IFR_FL360', alt=36000, dep_apt='ZYTX', arr_apt='ZHCC', dep_time=6460, arr_time=6610, callsign='', flightnumber=1050, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL400', alt=40000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=6710, arr_time=6850, callsign='', flightnumber=1172, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZLLL_IFR_FL360', alt=36000, dep_apt='ZGGG', arr_apt='ZLLL', dep_time=7120, arr_time=7310, callsign='', flightnumber=1107, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZHHH_IFR_FL370', alt=37000, dep_apt='ZLLL', arr_apt='ZHHH', dep_time=7365, arr_time=7480, callsign='', flightnumber=1124, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZSWZ_IFR_FL350', alt=35000, dep_apt='ZHHH', arr_apt='ZSWZ', dep_time=7540, arr_time=7635, callsign='', flightnumber=1183, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZHHH_IFR_FL340', alt=34000, dep_apt='ZSWZ', arr_apt='ZHHH', dep_time=7680, arr_time=7780, callsign='', flightnumber=1184, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHHH-ZLLL_IFR_FL400', alt=40000, dep_apt='ZHHH', arr_apt='ZLLL', dep_time=7870, arr_time=8005, callsign='', flightnumber=1123, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZLLL-ZGGG_IFR_FL370', alt=37000, dep_apt='ZLLL', arr_apt='ZGGG', dep_time=8060, arr_time=8240, callsign='', flightnumber=1108, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWZ_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZSWZ', dep_time=8555, arr_time=8660, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370', alt=37000, dep_apt='ZSWZ', arr_apt='ZYHB', dep_time=8710, arr_time=8920, callsign='', flightnumber=1021, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYHB-ZSNJ_IFR_FL400', alt=40000, dep_apt='ZYHB', arr_apt='ZSNJ', dep_time=8990, arr_time=9185, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380', alt=38000, dep_apt='ZSNJ', arr_apt='ZJHK', dep_time=9260, arr_time=9445, callsign='', flightnumber=1040, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJHK-ZGGG_IFR_FL350', alt=35000, dep_apt='ZJHK', arr_apt='ZGGG', dep_time=9650, arr_time=9735, callsign='', flightnumber=1026, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZUGY_IFR_FL380', alt=38000, dep_apt='ZGGG', arr_apt='ZUGY', dep_time=9965, arr_time=10065, callsign='', flightnumber=1027, flightrule='IFR', tng='False'}
+
+Aircraft -> Id: 29   Type: AIRPLANE   Title: AIGAIM_9 Air Boeing 737-800WL - SN Yellow
+
+Registration -> Id: B-1473   Rotation: 10080
+
+Leg{aigroute='AIGFP_Direct_ZUGY-ZHCC_IFR_FL370', alt=37000, dep_apt='ZUGY', arr_apt='ZHCC', dep_time=45, arr_time=190, callsign='', flightnumber=1077, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZUGY_IFR_FL380', alt=38000, dep_apt='ZHCC', arr_apt='ZUGY', dep_time=265, arr_time=410, callsign='', flightnumber=1078, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZBTJ_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZBTJ', dep_time=545, arr_time=715, callsign='', flightnumber=1067, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZBTJ-ZUGY_IFR_FL380', alt=38000, dep_apt='ZBTJ', arr_apt='ZUGY', dep_time=780, arr_time=975, callsign='', flightnumber=1068, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSJA_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZSJA', dep_time=1415, arr_time=1515, callsign='', flightnumber=1065, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSJA-ZSWX_IFR_FL330', alt=33000, dep_apt='ZSJA', arr_apt='ZSWX', dep_time=1600, arr_time=1720, callsign='', flightnumber=1065, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZSJA_IFR_FL340', alt=34000, dep_apt='ZSWX', arr_apt='ZSJA', dep_time=1770, arr_time=1880, callsign='', flightnumber=1066, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSJA-ZUGY_IFR_FL380', alt=38000, dep_apt='ZSJA', arr_apt='ZUGY', dep_time=1935, arr_time=2045, callsign='', flightnumber=1066, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSCN_IFR_FL390', alt=39000, dep_apt='ZUGY', arr_apt='ZSCN', dep_time=2095, arr_time=2195, callsign='', flightnumber=1083, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSCN-ZUGY_IFR_FL380', alt=38000, dep_apt='ZSCN', arr_apt='ZUGY', dep_time=2250, arr_time=2370, callsign='', flightnumber=1084, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=2825, arr_time=2940, callsign='', flightnumber=1061, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL360', alt=36000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=2995, arr_time=3115, callsign='', flightnumber=1062, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZSWX_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZSWX', dep_time=3180, arr_time=3325, callsign='', flightnumber=1071, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZYTX_IFR_FL390', alt=39000, dep_apt='ZSWX', arr_apt='ZYTX', dep_time=3375, arr_time=3515, callsign='', flightnumber=1071, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZHCC_IFR_FL400', alt=40000, dep_apt='ZYTX', arr_apt='ZHCC', dep_time=3600, arr_time=3750, callsign='', flightnumber=1050, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL360', alt=36000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=3830, arr_time=3970, callsign='', flightnumber=1172, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZBTJ_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZBTJ', dep_time=4235, arr_time=4425, callsign='', flightnumber=1055, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZBTJ-ZGGG_IFR_FL380', alt=38000, dep_apt='ZBTJ', arr_apt='ZGGG', dep_time=4505, arr_time=4705, callsign='', flightnumber=1056, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=4800, arr_time=4955, callsign='', flightnumber=1029, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZGGG_IFR_FL380', alt=38000, dep_apt='ZHCC', arr_apt='ZGGG', dep_time=5270, arr_time=5410, callsign='', flightnumber=1172, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSCN_IFR_FL330', alt=33000, dep_apt='ZGGG', arr_apt='ZSCN', dep_time=5670, arr_time=5765, callsign='', flightnumber=1053, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSCN-ZBYN_IFR_FL360', alt=36000, dep_apt='ZSCN', arr_apt='ZBYN', dep_time=5815, arr_time=5930, callsign='', flightnumber=1063, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZBYN-ZSWZ_IFR_FL350', alt=35000, dep_apt='ZBYN', arr_apt='ZSWZ', dep_time=6060, arr_time=6210, callsign='', flightnumber=1088, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWZ-ZBYN_IFR_FL400', alt=40000, dep_apt='ZSWZ', arr_apt='ZBYN', dep_time=6255, arr_time=6420, callsign='', flightnumber=1087, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZBYN-ZSCN_IFR_FL350', alt=35000, dep_apt='ZBYN', arr_apt='ZSCN', dep_time=6500, arr_time=6625, callsign='', flightnumber=1064, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSCN-ZGGG_IFR_FL360', alt=36000, dep_apt='ZSCN', arr_apt='ZGGG', dep_time=6680, arr_time=6795, callsign='', flightnumber=1054, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSWX_IFR_FL390', alt=39000, dep_apt='ZGGG', arr_apt='ZSWX', dep_time=7090, arr_time=7225, callsign='', flightnumber=1023, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZYTL_IFR_FL390', alt=39000, dep_apt='ZSWX', arr_apt='ZYTL', dep_time=7275, arr_time=7375, callsign='', flightnumber=1045, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTL-ZSWX_IFR_FL380', alt=38000, dep_apt='ZYTL', arr_apt='ZSWX', dep_time=7450, arr_time=7570, callsign='', flightnumber=1046, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZGGG_IFR_FL360', alt=36000, dep_apt='ZSWX', arr_apt='ZGGG', dep_time=7620, arr_time=7770, callsign='', flightnumber=1024, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZSNB_IFR_FL350', alt=35000, dep_apt='ZGGG', arr_apt='ZSNB', dep_time=7880, arr_time=8000, callsign='', flightnumber=1059, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSNB-ZGGG_IFR_FL360', alt=36000, dep_apt='ZSNB', arr_apt='ZGGG', dep_time=8085, arr_time=8235, callsign='', flightnumber=1060, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZGGG-ZHCC_IFR_FL370', alt=37000, dep_apt='ZGGG', arr_apt='ZHCC', dep_time=8495, arr_time=8630, callsign='', flightnumber=1171, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZHCC-ZYTX_IFR_FL350', alt=35000, dep_apt='ZHCC', arr_apt='ZYTX', dep_time=8735, arr_time=8870, callsign='', flightnumber=1049, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZYTX-ZSWX_IFR_FL380', alt=38000, dep_apt='ZYTX', arr_apt='ZSWX', dep_time=8920, arr_time=9090, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZSWX-ZUGY_IFR_FL400', alt=40000, dep_apt='ZSWX', arr_apt='ZUGY', dep_time=9140, arr_time=9305, callsign='', flightnumber=1072, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZUGY-ZJSY_IFR_FL350', alt=35000, dep_apt='ZUGY', arr_apt='ZJSY', dep_time=9605, arr_time=9725, callsign='', flightnumber=1079, flightrule='IFR', tng='False'}
+Leg{aigroute='AIGFP_Direct_ZJSY-ZUGY_IFR_FL380', alt=38000, dep_apt='ZJSY', arr_apt='ZUGY', dep_time=9950, arr_time=10070, callsign='', flightnumber=1080, flightrule='IFR', tng='False'}

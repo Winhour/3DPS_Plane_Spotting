@@ -1,0 +1,3 @@
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"SP-TST","Alt":30000.0,"GAlt":30000.0,"AltT":0,"Call":"LOT999","Lat":54.85701538461538,"Long":32.60153846153846,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":0.0,"Trak":null,"TrkH":false,"Type":"B738","Mdl":"Boeing 737-800","Man":"Boeing","From":"null","To":"null","OpIcao":"XXX","Op":"LOT Polish"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}

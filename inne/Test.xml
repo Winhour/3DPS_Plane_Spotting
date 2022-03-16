@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Flightplan version="1.0" airport_fs="MSFS2020">
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZYCC_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYCC-ZSNJ_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSNJ_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZYCC_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYCC-ZSNJ_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZYCC_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYCC-ZSNJ_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZGGG_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSNJ_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZGGG_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHCC-ZYTX_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYTX-ZSWX_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZUGY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-VTSP_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_VTSP-ZUGY_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSWZ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSAM_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSAM-ZUGY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSWX_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZGGG_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZUGY_IFR_FL340" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSNJ_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZGNN_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZUGY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZJSY_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJSY-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSNJ_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZGNN_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZJSY_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJSY-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZGGG_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZJHK_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZSNJ_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZYHB_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYHB-ZSWZ_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZGGG_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZHCC_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLXY-AVA_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_AVA-ZJHK_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-AVA_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_AVA-ZLXY_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLXY-ZGGG_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZHCC_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHCC-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZBTJ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBTJ-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZUGY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSAM_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSWZ_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSAM-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_VTSP-ZUGY_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZWWW_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWWW-ZWYN_IFR_FL260" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWYN-ZWWW_IFR_FL310" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWWW-ZGGG_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSCN_IFR_FL310" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSCN-ZBYN_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBYN-ZSWZ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZBYN_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBYN-ZSCN_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSCN-ZGGG_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZLXY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLLL-ZHHH_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHHH-ZSWZ_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHHH-ZLLL_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLLL-ZGGG_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZBTJ_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBTJ-ZGGG_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHCC-ZGGG_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWWW-ZGGG_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSOF_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSOF-ZGGG_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-VYMD_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_VYMD-ZGGG_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZJSY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJSY-ZGGG_IFR_FL330" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZBTJ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBTJ-ZGGG_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZHCC_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHCC-ZGGG_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSWZ_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZYHB_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYHB-ZSNJ_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZGGG_IFR_FL330" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZLXY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLXY-JIQ_IFR_FL330" source="0"/>
+  <AIGRoute title="AIGFP_Direct_JIQ-ZJHK_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-JIQ_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_JIQ-ZLXY_IFR_FL280" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLXY-ZGGG_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZLLL_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGSY-ZJHK_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZGSY_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGSY-ZGHA_IFR_FL190" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGHA-ZGSY_IFR_FL180" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGSY-ZJHK_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZGSY_IFR_FL330" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGSY-ZGHA_IFR_FL270" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGHA-ZGSY_IFR_FL200" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZGSY_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGSY-ZGHA_IFR_FL230" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGHA-ZSWZ_IFR_FL330" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZGHA_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGHA-VYMD_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_VYMD-ZGHA_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGHA-ZGSY_IFR_FL220" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGHA-ZSWZ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZGHA_IFR_FL340" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZGSY_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGHA-ZSWZ_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZGHA_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGHA-ZGSY_IFR_FL260" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGHA-ZSWZ_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZGHA_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGHA-VYMD_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_VYMD-ZGHA_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZGGG_IFR_FL270" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSWZ_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZJHK_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYHB-ZSNJ_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZGGG_IFR_FL290" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSWX_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZYTL_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYTL-ZSWX_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZGGG_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSNB_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNB-ZGGG_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYTX-ZSWX_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSJA_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSJA-ZSWX_IFR_FL330" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZSJA_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSJA-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSCN_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSCN-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZYTX_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYTX-ZHCC_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSWZ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWWW-ZWYN_IFR_FL280" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSOF_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSOF-ZGGG_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZJSY_IFR_FL320" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJSY-ZGGG_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZJHK_IFR_FL300" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZSNJ_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZYHB_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYHB-ZSWZ_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZGGG_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZGGG_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZJHK_IFR_FL280" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSOF_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSOF-ZGGG_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_VYMD-ZGGG_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJSY-ZGGG_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZBTJ_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBTJ-ZGGG_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZHCC_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZWWW_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZLLL_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLLL-ZHHH_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL340" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHHH-ZLLL_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLLL-ZGGG_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHCC-ZYTX_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYTX-ZSWX_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZJSY_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWWW-ZWYN_IFR_FL320" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWYN-ZWWW_IFR_FL270" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLXY-AVA_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_AVA-ZJHK_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_AVA-ZLXY_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWWW-ZGGG_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZYTL_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYTL-ZSWX_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZGGG_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSNB_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNB-ZGGG_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZYTL_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNB-ZGGG_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-VYYY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_VYYY-ZGGG_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZJSY_IFR_FL340" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYHB-ZSNJ_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZGGG_IFR_FL310" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZHCC_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHCC-ZUGY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZBTJ_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBTJ-ZUGY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSWX_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-VYMD_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_VYMD-ZGGG_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJSY-ZGGG_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZJHK_IFR_FL340" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZYHB_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYHB-ZSWZ_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZUGY_IFR_FL320" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZGNN_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZBTJ_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-VYMD_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_VYMD-ZUGY_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZYTX_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYTX-ZHCC_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSWX_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSNJ-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHHH-ZSWZ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_JIQ-ZJHK_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_JIQ-ZLXY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJSY-ZUGY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGNN-ZSNJ_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHCC-ZGGG_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZLXY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_AVA-ZJHK_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLXY-ZGGG_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLXY-JIQ_IFR_FL270" source="0"/>
+  <AIGRoute title="AIGFP_Direct_JIQ-ZJHK_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_JIQ-ZLXY_IFR_FL320" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSCN-ZBYN_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBYN-ZUCK_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUCK-ZBYN_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBYN-ZSCN_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSCN-ZGGG_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHCC-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSOF_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSOF-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-VTSP_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSWZ_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSAM_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSAM-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZSJA_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSJA-ZUGY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSCN-ZUGY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSWX_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZLLL_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLLL-ZGGG_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZLLL-ZHHH_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL320" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZHCC_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSOF_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSOF-ZUGY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSJA_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBYN-ZUCK_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUCK-ZBYN_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSCN-ZGGG_IFR_FL320" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZWWW_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWWW-ZWYN_IFR_FL340" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWYN-ZWWW_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSCN_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBYN-ZSWZ_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWZ-ZBYN_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBYN-ZSCN_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZWYN-ZWWW_IFR_FL250" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSWX_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZGGG_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSNB_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSCN_IFR_FL330" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUCK-ZBYN_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSCN-ZGGG_IFR_FL340" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-VYYY_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZJSY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-ZSCN_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSNJ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZGGG_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHCC-ZYTX_IFR_FL370" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSOF-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSCN_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZGGG_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBTJ-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZUGY-ZSJA_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSWX-ZSJA_IFR_FL340" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSCN-ZUGY_IFR_FL380" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZSCN-ZBYN_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZBYN-ZSWZ_IFR_FL350" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZYTL-ZSWX_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-AVA_IFR_FL400" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZGGG-VYYY_IFR_FL360" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZJHK-ZSNJ_IFR_FL390" source="0"/>
+  <AIGRoute title="AIGFP_Direct_ZHHH-ZLLL_IFR_FL360" source="0"/>
+  <Aircraft id="10" title="AIGAIM_9 Air Boeing 737-800WL - SN Burgundy" type="AIRPLANE">
+    <Registration id="B-206J" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYCC_IFR_FL350" alt="35000" dep-apt="ZSNJ" arr-apt="ZYCC" dep-time="125" arr-time="290" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYCC-ZSNJ_IFR_FL360" alt="36000" dep-apt="ZYCC" arr-apt="ZSNJ" dep-time="670" arr-time="830" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZGGG" dep-time="895" arr-time="1040" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNJ_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSNJ" dep-time="1365" arr-time="1505" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYCC_IFR_FL370" alt="37000" dep-apt="ZSNJ" arr-apt="ZYCC" dep-time="1565" arr-time="1730" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYCC-ZSNJ_IFR_FL380" alt="38000" dep-apt="ZYCC" arr-apt="ZSNJ" dep-time="2110" arr-time="2270" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZGGG" dep-time="2335" arr-time="2480" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSNJ" dep-time="2805" arr-time="2945" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYCC_IFR_FL370" alt="37000" dep-apt="ZSNJ" arr-apt="ZYCC" dep-time="3005" arr-time="3170" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYCC-ZSNJ_IFR_FL380" alt="38000" dep-apt="ZYCC" arr-apt="ZSNJ" dep-time="3550" arr-time="3710" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZGGG" dep-time="3775" arr-time="3920" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSNJ" dep-time="4245" arr-time="4385" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYCC_IFR_FL390" alt="39000" dep-apt="ZSNJ" arr-apt="ZYCC" dep-time="4445" arr-time="4610" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYCC-ZSNJ_IFR_FL400" alt="40000" dep-apt="ZYCC" arr-apt="ZSNJ" dep-time="4990" arr-time="5150" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZGGG" dep-time="5215" arr-time="5360" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSNJ" dep-time="5685" arr-time="5825" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYCC_IFR_FL350" alt="35000" dep-apt="ZSNJ" arr-apt="ZYCC" dep-time="5885" arr-time="6050" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYCC-ZSNJ_IFR_FL360" alt="36000" dep-apt="ZYCC" arr-apt="ZSNJ" dep-time="6430" arr-time="6590" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZGGG" dep-time="6655" arr-time="6800" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSNJ" dep-time="7125" arr-time="7265" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYCC_IFR_FL390" alt="39000" dep-apt="ZSNJ" arr-apt="ZYCC" dep-time="7325" arr-time="7490" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYCC-ZSNJ_IFR_FL400" alt="40000" dep-apt="ZYCC" arr-apt="ZSNJ" dep-time="7870" arr-time="8030" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGGG_IFR_FL400" alt="40000" dep-apt="ZSNJ" arr-apt="ZGGG" dep-time="8095" arr-time="8240" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNJ_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSNJ" dep-time="8565" arr-time="8705" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYCC_IFR_FL390" alt="39000" dep-apt="ZSNJ" arr-apt="ZYCC" dep-time="8765" arr-time="8930" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYCC-ZSNJ_IFR_FL380" alt="38000" dep-apt="ZYCC" arr-apt="ZSNJ" dep-time="9310" arr-time="9470" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSNJ" arr-apt="ZGGG" dep-time="9535" arr-time="9680" callsign="" flightnumber="1034" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSNJ" dep-time="10005" arr-time="65" callsign="" flightnumber="1033" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+  <Aircraft id="20" title="AIGAIM_9 Air Boeing 737-800WL - SN Blue" type="AIRPLANE">
+    <Registration id="B-1592" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZYTX_IFR_FL390" alt="39000" dep-apt="ZHCC" arr-apt="ZYTX" dep-time="95" arr-time="230" callsign="" flightnumber="1049" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZSWX_IFR_FL400" alt="40000" dep-apt="ZYTX" arr-apt="ZSWX" dep-time="280" arr-time="450" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZUGY" dep-time="500" arr-time="665" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-VTSP_IFR_FL400" alt="40000" dep-apt="ZUGY" arr-apt="VTSP" dep-time="845" arr-time="1110" callsign="" flightnumber="1201" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VTSP-ZUGY_IFR_FL390" alt="39000" dep-apt="VTSP" arr-apt="ZUGY" dep-time="1170" arr-time="1375" callsign="" flightnumber="1202" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWZ_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSWZ" dep-time="1435" arr-time="1570" callsign="" flightnumber="1091" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSWZ" arr-apt="ZUGY" dep-time="1620" arr-time="1790" callsign="" flightnumber="1092" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSAM_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSAM" dep-time="1840" arr-time="1960" callsign="" flightnumber="1095" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSAM-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSAM" arr-apt="ZUGY" dep-time="2020" arr-time="2170" callsign="" flightnumber="1096" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWX_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSWX" dep-time="2855" arr-time="3005" callsign="" flightnumber="1089" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSWX" arr-apt="ZUGY" dep-time="3160" arr-time="3340" callsign="" flightnumber="1090" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZGGG_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZGGG" dep-time="3825" arr-time="3930" callsign="" flightnumber="1028" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZUGY_IFR_FL340" alt="34000" dep-apt="ZGGG" arr-apt="ZUGY" dep-time="4205" arr-time="4305" callsign="" flightnumber="1027" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSNJ_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZSNJ" dep-time="4355" arr-time="4490" callsign="" flightnumber="1069" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGNN_IFR_FL360" alt="36000" dep-apt="ZSNJ" arr-apt="ZGNN" dep-time="4550" arr-time="4725" callsign="" flightnumber="1119" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGNN" arr-apt="ZSNJ" dep-time="4775" arr-time="4915" callsign="" flightnumber="1120" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSNJ" arr-apt="ZUGY" dep-time="5005" arr-time="5170" callsign="" flightnumber="1070" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="5285" arr-time="5405" callsign="" flightnumber="1079" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL400" alt="40000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="5630" arr-time="5750" callsign="" flightnumber="1080" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSNJ_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSNJ" dep-time="5795" arr-time="5930" callsign="" flightnumber="1069" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGNN_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZGNN" dep-time="5990" arr-time="6165" callsign="" flightnumber="1119" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGNN" arr-apt="ZSNJ" dep-time="6215" arr-time="6355" callsign="" flightnumber="1120" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSNJ" arr-apt="ZUGY" dep-time="6445" arr-time="6610" callsign="" flightnumber="1070" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="6725" arr-time="6845" callsign="" flightnumber="1079" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL380" alt="38000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="7070" arr-time="7190" callsign="" flightnumber="1080" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSNJ_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSNJ" dep-time="7235" arr-time="7370" callsign="" flightnumber="1069" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGNN_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZGNN" dep-time="7430" arr-time="7605" callsign="" flightnumber="1119" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGNN" arr-apt="ZSNJ" dep-time="7655" arr-time="7795" callsign="" flightnumber="1120" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSNJ" arr-apt="ZUGY" dep-time="7885" arr-time="8050" callsign="" flightnumber="1070" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZGGG_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZGGG" dep-time="8145" arr-time="8250" callsign="" flightnumber="1028" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJHK_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="ZJHK" dep-time="8505" arr-time="8595" callsign="" flightnumber="1025" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZSNJ_IFR_FL370" alt="37000" dep-apt="ZJHK" arr-apt="ZSNJ" dep-time="8840" arr-time="9005" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYHB_IFR_FL350" alt="35000" dep-apt="ZSNJ" arr-apt="ZYHB" dep-time="9080" arr-time="9240" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSWZ_IFR_FL360" alt="36000" dep-apt="ZYHB" arr-apt="ZSWZ" dep-time="9305" arr-time="9520" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGGG_IFR_FL400" alt="40000" dep-apt="ZSWZ" arr-apt="ZGGG" dep-time="9570" arr-time="9685" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="9935" arr-time="10070" callsign="" flightnumber="1171" flightrule="IFR" tng="False"/>
+    </Registration>
+    <Registration id="B-1719" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZLXY-AVA_IFR_FL400" alt="40000" dep-apt="ZLXY" arr-apt="AVA" dep-time="110" arr-time="245" callsign="" flightnumber="1158" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_AVA-ZJHK_IFR_FL390" alt="39000" dep-apt="AVA" arr-apt="ZJHK" dep-time="310" arr-time="420" callsign="" flightnumber="1158" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-AVA_IFR_FL380" alt="38000" dep-apt="ZJHK" arr-apt="AVA" dep-time="560" arr-time="675" callsign="" flightnumber="1157" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_AVA-ZLXY_IFR_FL370" alt="37000" dep-apt="AVA" arr-apt="ZLXY" dep-time="720" arr-time="835" callsign="" flightnumber="1157" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-ZGGG_IFR_FL370" alt="37000" dep-apt="ZLXY" arr-apt="ZGGG" dep-time="900" arr-time="1070" callsign="" flightnumber="1106" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZUGY_IFR_FL340" alt="34000" dep-apt="ZGGG" arr-apt="ZUGY" dep-time="1325" arr-time="1425" callsign="" flightnumber="1027" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZHCC_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZHCC" dep-time="1485" arr-time="1630" callsign="" flightnumber="1077" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZUGY_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZUGY" dep-time="1705" arr-time="1850" callsign="" flightnumber="1078" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZBTJ_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZBTJ" dep-time="1985" arr-time="2155" callsign="" flightnumber="1067" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZUGY_IFR_FL400" alt="40000" dep-apt="ZBTJ" arr-apt="ZUGY" dep-time="2220" arr-time="2415" callsign="" flightnumber="1068" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWZ_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSWZ" dep-time="2875" arr-time="3010" callsign="" flightnumber="1091" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSWZ" arr-apt="ZUGY" dep-time="3060" arr-time="3230" callsign="" flightnumber="1092" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSAM_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZSAM" dep-time="3280" arr-time="3400" callsign="" flightnumber="1095" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSAM-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSAM" arr-apt="ZUGY" dep-time="3460" arr-time="3610" callsign="" flightnumber="1096" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWZ_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSWZ" dep-time="4315" arr-time="4450" callsign="" flightnumber="1091" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSWZ" arr-apt="ZUGY" dep-time="4500" arr-time="4670" callsign="" flightnumber="1092" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSAM_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSAM" dep-time="4720" arr-time="4840" callsign="" flightnumber="1095" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSAM-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSAM" arr-apt="ZUGY" dep-time="4900" arr-time="5050" callsign="" flightnumber="1096" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-VTSP_IFR_FL400" alt="40000" dep-apt="ZUGY" arr-apt="VTSP" dep-time="5165" arr-time="5430" callsign="" flightnumber="1201" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VTSP-ZUGY_IFR_FL370" alt="37000" dep-apt="VTSP" arr-apt="ZUGY" dep-time="5490" arr-time="5695" callsign="" flightnumber="1202" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWZ_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSWZ" dep-time="5755" arr-time="5890" callsign="" flightnumber="1091" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSWZ" arr-apt="ZUGY" dep-time="5940" arr-time="6110" callsign="" flightnumber="1092" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSAM_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSAM" dep-time="6160" arr-time="6280" callsign="" flightnumber="1095" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSAM-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSAM" arr-apt="ZUGY" dep-time="6340" arr-time="6490" callsign="" flightnumber="1096" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZGGG_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZGGG" dep-time="6705" arr-time="6810" callsign="" flightnumber="1028" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZWWW_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="ZWWW" dep-time="7130" arr-time="7460" callsign="" flightnumber="1051" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZWYN_IFR_FL260" alt="26000" dep-apt="ZWWW" arr-apt="ZWYN" dep-time="7540" arr-time="7630" callsign="" flightnumber="1093" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWYN-ZWWW_IFR_FL310" alt="31000" dep-apt="ZWYN" arr-apt="ZWWW" dep-time="7795" arr-time="7870" callsign="" flightnumber="1094" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZGGG_IFR_FL350" alt="35000" dep-apt="ZWWW" arr-apt="ZGGG" dep-time="7935" arr-time="8250" callsign="" flightnumber="1052" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSCN_IFR_FL310" alt="31000" dep-apt="ZGGG" arr-apt="ZSCN" dep-time="8550" arr-time="8645" callsign="" flightnumber="1053" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZBYN_IFR_FL400" alt="40000" dep-apt="ZSCN" arr-apt="ZBYN" dep-time="8695" arr-time="8810" callsign="" flightnumber="1063" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZSWZ_IFR_FL390" alt="39000" dep-apt="ZBYN" arr-apt="ZSWZ" dep-time="8940" arr-time="9090" callsign="" flightnumber="1088" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZBYN_IFR_FL380" alt="38000" dep-apt="ZSWZ" arr-apt="ZBYN" dep-time="9135" arr-time="9300" callsign="" flightnumber="1087" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZSCN_IFR_FL350" alt="35000" dep-apt="ZBYN" arr-apt="ZSCN" dep-time="9430" arr-time="9540" callsign="" flightnumber="1064" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSCN" arr-apt="ZGGG" dep-time="9590" arr-time="9695" callsign="" flightnumber="1054" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLXY_IFR_FL400" alt="40000" dep-apt="ZGGG" arr-apt="ZLXY" dep-time="9980" arr-time="50" callsign="" flightnumber="1105" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+  <Aircraft id="21" title="AIGAIM_9 Air Boeing 737-800WL - SN Burgundy" type="AIRPLANE">
+    <Registration id="B-1552" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZHHH_IFR_FL390" alt="39000" dep-apt="ZLLL" arr-apt="ZHHH" dep-time="165" arr-time="280" callsign="" flightnumber="1124" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZSWZ_IFR_FL350" alt="35000" dep-apt="ZHHH" arr-apt="ZSWZ" dep-time="340" arr-time="435" callsign="" flightnumber="1183" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL360" alt="36000" dep-apt="ZSWZ" arr-apt="ZHHH" dep-time="480" arr-time="580" callsign="" flightnumber="1184" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZLLL_IFR_FL380" alt="38000" dep-apt="ZHHH" arr-apt="ZLLL" dep-time="670" arr-time="805" callsign="" flightnumber="1123" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZGGG_IFR_FL390" alt="39000" dep-apt="ZLLL" arr-apt="ZGGG" dep-time="860" arr-time="1040" callsign="" flightnumber="1108" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZBTJ_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZBTJ" dep-time="1355" arr-time="1545" callsign="" flightnumber="1055" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZGGG_IFR_FL360" alt="36000" dep-apt="ZBTJ" arr-apt="ZGGG" dep-time="1625" arr-time="1825" callsign="" flightnumber="1056" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="1920" arr-time="2075" callsign="" flightnumber="1029" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL360" alt="36000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="2390" arr-time="2530" callsign="" flightnumber="1172" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZWWW_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="ZWWW" dep-time="2780" arr-time="3130" callsign="" flightnumber="1051" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZGGG_IFR_FL370" alt="37000" dep-apt="ZWWW" arr-apt="ZGGG" dep-time="3615" arr-time="3930" callsign="" flightnumber="1052" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSOF_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSOF" dep-time="4215" arr-time="4340" callsign="" flightnumber="1165" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSOF-ZGGG_IFR_FL400" alt="40000" dep-apt="ZSOF" arr-apt="ZGGG" dep-time="4430" arr-time="4570" callsign="" flightnumber="1166" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-VYMD_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="VYMD" dep-time="4725" arr-time="5035" callsign="" flightnumber="1001" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VYMD-ZGGG_IFR_FL390" alt="39000" dep-apt="VYMD" arr-apt="ZGGG" dep-time="5100" arr-time="5180" callsign="" flightnumber="1002" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJSY_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="ZJSY" dep-time="5340" arr-time="5435" callsign="" flightnumber="1111" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZGGG_IFR_FL330" alt="33000" dep-apt="ZJSY" arr-apt="ZGGG" dep-time="5485" arr-time="5575" callsign="" flightnumber="1112" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZBTJ_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZBTJ" dep-time="5675" arr-time="5865" callsign="" flightnumber="1055" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZGGG_IFR_FL400" alt="40000" dep-apt="ZBTJ" arr-apt="ZGGG" dep-time="5945" arr-time="6145" callsign="" flightnumber="1056" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="6240" arr-time="6395" callsign="" flightnumber="1029" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="6660" arr-time="6805" callsign="" flightnumber="1030" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWZ_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSWZ" dep-time="7115" arr-time="7220" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZYHB_IFR_FL390" alt="39000" dep-apt="ZSWZ" arr-apt="ZYHB" dep-time="7270" arr-time="7480" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSNJ_IFR_FL380" alt="38000" dep-apt="ZYHB" arr-apt="ZSNJ" dep-time="7550" arr-time="7745" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZJHK" dep-time="7820" arr-time="8005" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGGG_IFR_FL330" alt="33000" dep-apt="ZJHK" arr-apt="ZGGG" dep-time="8210" arr-time="8295" callsign="" flightnumber="1026" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLXY_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="ZLXY" dep-time="8540" arr-time="8690" callsign="" flightnumber="1105" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-JIQ_IFR_FL330" alt="33000" dep-apt="ZLXY" arr-apt="JIQ" dep-time="8750" arr-time="8855" callsign="" flightnumber="1156" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_JIQ-ZJHK_IFR_FL390" alt="39000" dep-apt="JIQ" arr-apt="ZJHK" dep-time="8920" arr-time="9060" callsign="" flightnumber="1156" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-JIQ_IFR_FL360" alt="36000" dep-apt="ZJHK" arr-apt="JIQ" dep-time="9200" arr-time="9330" callsign="" flightnumber="1155" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_JIQ-ZLXY_IFR_FL280" alt="28000" dep-apt="JIQ" arr-apt="ZLXY" dep-time="9385" arr-time="9475" callsign="" flightnumber="1155" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-ZGGG_IFR_FL350" alt="35000" dep-apt="ZLXY" arr-apt="ZGGG" dep-time="9540" arr-time="9710" callsign="" flightnumber="1106" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLLL_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="ZLLL" dep-time="10000" arr-time="110" callsign="" flightnumber="1107" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+  <Aircraft id="22" title="AIGAIM_9 Air Boeing 737-800WL - SN Dark Green" type="AIRPLANE">
+    <Registration id="B-6992" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZJHK_IFR_FL360" alt="36000" dep-apt="ZGSY" arr-apt="ZJHK" dep-time="70" arr-time="175" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGSY_IFR_FL390" alt="39000" dep-apt="ZJHK" arr-apt="ZGSY" dep-time="250" arr-time="350" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZGHA_IFR_FL190" alt="19000" dep-apt="ZGSY" arr-apt="ZGHA" dep-time="410" arr-time="470" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZGSY_IFR_FL180" alt="18000" dep-apt="ZGHA" arr-apt="ZGSY" dep-time="1395" arr-time="1460" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZJHK_IFR_FL380" alt="38000" dep-apt="ZGSY" arr-apt="ZJHK" dep-time="1510" arr-time="1610" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGSY_IFR_FL330" alt="33000" dep-apt="ZJHK" arr-apt="ZGSY" dep-time="1740" arr-time="1840" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZGHA_IFR_FL270" alt="27000" dep-apt="ZGSY" arr-apt="ZGHA" dep-time="1890" arr-time="1955" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZGSY_IFR_FL200" alt="20000" dep-apt="ZGHA" arr-apt="ZGSY" dep-time="2835" arr-time="2900" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZJHK_IFR_FL380" alt="38000" dep-apt="ZGSY" arr-apt="ZJHK" dep-time="2950" arr-time="3055" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGSY_IFR_FL350" alt="35000" dep-apt="ZJHK" arr-apt="ZGSY" dep-time="3135" arr-time="3235" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZGHA_IFR_FL230" alt="23000" dep-apt="ZGSY" arr-apt="ZGHA" dep-time="3300" arr-time="3365" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZSWZ_IFR_FL330" alt="33000" dep-apt="ZGHA" arr-apt="ZSWZ" dep-time="3480" arr-time="3565" callsign="" flightnumber="1147" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGHA_IFR_FL360" alt="36000" dep-apt="ZSWZ" arr-apt="ZGHA" dep-time="3610" arr-time="3710" callsign="" flightnumber="1148" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-VYMD_IFR_FL360" alt="36000" dep-apt="ZGHA" arr-apt="VYMD" dep-time="3780" arr-time="4055" callsign="" flightnumber="1211" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VYMD-ZGHA_IFR_FL370" alt="37000" dep-apt="VYMD" arr-apt="ZGHA" dep-time="4115" arr-time="4195" callsign="" flightnumber="1212" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZGSY_IFR_FL220" alt="22000" dep-apt="ZGHA" arr-apt="ZGSY" dep-time="4275" arr-time="4340" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZJHK_IFR_FL360" alt="36000" dep-apt="ZGSY" arr-apt="ZJHK" dep-time="4390" arr-time="4490" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGSY_IFR_FL330" alt="33000" dep-apt="ZJHK" arr-apt="ZGSY" dep-time="4570" arr-time="4670" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZGHA_IFR_FL190" alt="19000" dep-apt="ZGSY" arr-apt="ZGHA" dep-time="4730" arr-time="4790" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZSWZ_IFR_FL390" alt="39000" dep-apt="ZGHA" arr-apt="ZSWZ" dep-time="5075" arr-time="5165" callsign="" flightnumber="1147" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGHA_IFR_FL340" alt="34000" dep-apt="ZSWZ" arr-apt="ZGHA" dep-time="5210" arr-time="5320" callsign="" flightnumber="1148" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZGSY_IFR_FL200" alt="20000" dep-apt="ZGHA" arr-apt="ZGSY" dep-time="5715" arr-time="5780" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZJHK_IFR_FL380" alt="38000" dep-apt="ZGSY" arr-apt="ZJHK" dep-time="5830" arr-time="5935" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGSY_IFR_FL370" alt="37000" dep-apt="ZJHK" arr-apt="ZGSY" dep-time="6010" arr-time="6110" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZGHA_IFR_FL190" alt="19000" dep-apt="ZGSY" arr-apt="ZGHA" dep-time="6180" arr-time="6245" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZSWZ_IFR_FL370" alt="37000" dep-apt="ZGHA" arr-apt="ZSWZ" dep-time="6360" arr-time="6445" callsign="" flightnumber="1147" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGHA_IFR_FL400" alt="40000" dep-apt="ZSWZ" arr-apt="ZGHA" dep-time="6490" arr-time="6590" callsign="" flightnumber="1148" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZGSY_IFR_FL200" alt="20000" dep-apt="ZGHA" arr-apt="ZGSY" dep-time="7155" arr-time="7220" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZJHK_IFR_FL380" alt="38000" dep-apt="ZGSY" arr-apt="ZJHK" dep-time="7270" arr-time="7375" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGSY_IFR_FL350" alt="35000" dep-apt="ZJHK" arr-apt="ZGSY" dep-time="7665" arr-time="7775" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZGHA_IFR_FL230" alt="23000" dep-apt="ZGSY" arr-apt="ZGHA" dep-time="7920" arr-time="7980" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZSWZ_IFR_FL370" alt="37000" dep-apt="ZGHA" arr-apt="ZSWZ" dep-time="8040" arr-time="8125" callsign="" flightnumber="1267" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGHA_IFR_FL400" alt="40000" dep-apt="ZSWZ" arr-apt="ZGHA" dep-time="8175" arr-time="8275" callsign="" flightnumber="1268" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZGSY_IFR_FL260" alt="26000" dep-apt="ZGHA" arr-apt="ZGSY" dep-time="8595" arr-time="8660" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZJHK_IFR_FL380" alt="38000" dep-apt="ZGSY" arr-apt="ZJHK" dep-time="8710" arr-time="8815" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGSY_IFR_FL390" alt="39000" dep-apt="ZJHK" arr-apt="ZGSY" dep-time="8890" arr-time="8990" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGSY-ZGHA_IFR_FL190" alt="19000" dep-apt="ZGSY" arr-apt="ZGHA" dep-time="9060" arr-time="9125" callsign="" flightnumber="1118" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZSWZ_IFR_FL350" alt="35000" dep-apt="ZGHA" arr-apt="ZSWZ" dep-time="9240" arr-time="9325" callsign="" flightnumber="1147" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGHA_IFR_FL380" alt="38000" dep-apt="ZSWZ" arr-apt="ZGHA" dep-time="9370" arr-time="9470" callsign="" flightnumber="1148" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-VYMD_IFR_FL400" alt="40000" dep-apt="ZGHA" arr-apt="VYMD" dep-time="9540" arr-time="9815" callsign="" flightnumber="1211" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VYMD-ZGHA_IFR_FL350" alt="35000" dep-apt="VYMD" arr-apt="ZGHA" dep-time="9875" arr-time="9955" callsign="" flightnumber="1212" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGHA-ZGSY_IFR_FL200" alt="20000" dep-apt="ZGHA" arr-apt="ZGSY" dep-time="10035" arr-time="20" callsign="" flightnumber="1117" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+  <Aircraft id="23" title="AIGAIM_9 Air Boeing 737-800WL - SN Green" type="AIRPLANE">
+    <Registration id="B-1472" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370" alt="37000" dep-apt="ZSWZ" arr-apt="ZYHB" dep-time="70" arr-time="280" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSNJ_IFR_FL380" alt="38000" dep-apt="ZYHB" arr-apt="ZSNJ" dep-time="350" arr-time="545" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZJHK" dep-time="620" arr-time="805" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGGG_IFR_FL270" alt="27000" dep-apt="ZJHK" arr-apt="ZGGG" dep-time="1010" arr-time="1095" callsign="" flightnumber="1026" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWZ_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSWZ" dep-time="1355" arr-time="1460" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370" alt="37000" dep-apt="ZSWZ" arr-apt="ZYHB" dep-time="1510" arr-time="1720" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSNJ_IFR_FL380" alt="38000" dep-apt="ZYHB" arr-apt="ZSNJ" dep-time="1790" arr-time="1985" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZJHK_IFR_FL400" alt="40000" dep-apt="ZSNJ" arr-apt="ZJHK" dep-time="2060" arr-time="2245" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGGG_IFR_FL330" alt="33000" dep-apt="ZJHK" arr-apt="ZGGG" dep-time="2450" arr-time="2535" callsign="" flightnumber="1026" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWZ_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSWZ" dep-time="2795" arr-time="2900" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370" alt="37000" dep-apt="ZSWZ" arr-apt="ZYHB" dep-time="2950" arr-time="3160" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSNJ_IFR_FL360" alt="36000" dep-apt="ZYHB" arr-apt="ZSNJ" dep-time="3230" arr-time="3425" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZJHK" dep-time="3500" arr-time="3685" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGGG_IFR_FL290" alt="29000" dep-apt="ZJHK" arr-apt="ZGGG" dep-time="3890" arr-time="3975" callsign="" flightnumber="1026" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWX_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSWX" dep-time="4210" arr-time="4345" callsign="" flightnumber="1023" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTL_IFR_FL390" alt="39000" dep-apt="ZSWX" arr-apt="ZYTL" dep-time="4395" arr-time="4495" callsign="" flightnumber="1045" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTL-ZSWX_IFR_FL380" alt="38000" dep-apt="ZYTL" arr-apt="ZSWX" dep-time="4570" arr-time="4690" callsign="" flightnumber="1046" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZGGG" dep-time="4740" arr-time="4890" callsign="" flightnumber="1024" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNB_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSNB" dep-time="5000" arr-time="5120" callsign="" flightnumber="1059" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNB-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSNB" arr-apt="ZGGG" dep-time="5205" arr-time="5355" callsign="" flightnumber="1060" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="5615" arr-time="5750" callsign="" flightnumber="1171" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZYTX_IFR_FL390" alt="39000" dep-apt="ZHCC" arr-apt="ZYTX" dep-time="5855" arr-time="5990" callsign="" flightnumber="1049" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZSWX_IFR_FL380" alt="38000" dep-apt="ZYTX" arr-apt="ZSWX" dep-time="6040" arr-time="6210" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZUGY" dep-time="6260" arr-time="6425" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSJA_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSJA" dep-time="7175" arr-time="7275" callsign="" flightnumber="1065" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSJA-ZSWX_IFR_FL330" alt="33000" dep-apt="ZSJA" arr-apt="ZSWX" dep-time="7360" arr-time="7480" callsign="" flightnumber="1065" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZSJA_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZSJA" dep-time="7530" arr-time="7640" callsign="" flightnumber="1066" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSJA-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSJA" arr-apt="ZUGY" dep-time="7695" arr-time="7805" callsign="" flightnumber="1066" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSCN_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSCN" dep-time="7855" arr-time="7955" callsign="" flightnumber="1083" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSCN" arr-apt="ZUGY" dep-time="8010" arr-time="8130" callsign="" flightnumber="1084" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="8585" arr-time="8700" callsign="" flightnumber="1061" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL380" alt="38000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="8755" arr-time="8875" callsign="" flightnumber="1062" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWX_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSWX" dep-time="8940" arr-time="9085" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTX_IFR_FL390" alt="39000" dep-apt="ZSWX" arr-apt="ZYTX" dep-time="9135" arr-time="9275" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZHCC_IFR_FL360" alt="36000" dep-apt="ZYTX" arr-apt="ZHCC" dep-time="9340" arr-time="9490" callsign="" flightnumber="1050" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="9590" arr-time="9730" callsign="" flightnumber="1172" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWZ_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSWZ" dep-time="9995" arr-time="20" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+    </Registration>
+    <Registration id="B-6990" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZWYN_IFR_FL280" alt="28000" dep-apt="ZWWW" arr-apt="ZWYN" dep-time="340" arr-time="430" callsign="" flightnumber="1093" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWYN-ZWWW_IFR_FL310" alt="31000" dep-apt="ZWYN" arr-apt="ZWWW" dep-time="570" arr-time="655" callsign="" flightnumber="1094" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZGGG_IFR_FL370" alt="37000" dep-apt="ZWWW" arr-apt="ZGGG" dep-time="735" arr-time="1050" callsign="" flightnumber="1052" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSOF_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSOF" dep-time="1335" arr-time="1460" callsign="" flightnumber="1165" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSOF-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSOF" arr-apt="ZGGG" dep-time="1550" arr-time="1690" callsign="" flightnumber="1166" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-VYMD_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="VYMD" dep-time="1845" arr-time="2155" callsign="" flightnumber="1001" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VYMD-ZGGG_IFR_FL390" alt="39000" dep-apt="VYMD" arr-apt="ZGGG" dep-time="2220" arr-time="2300" callsign="" flightnumber="1002" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJSY_IFR_FL320" alt="32000" dep-apt="ZGGG" arr-apt="ZJSY" dep-time="2460" arr-time="2555" callsign="" flightnumber="1111" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZGGG_IFR_FL390" alt="39000" dep-apt="ZJSY" arr-apt="ZGGG" dep-time="2605" arr-time="2695" callsign="" flightnumber="1112" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJHK_IFR_FL300" alt="30000" dep-apt="ZGGG" arr-apt="ZJHK" dep-time="2745" arr-time="2835" callsign="" flightnumber="1025" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZSNJ_IFR_FL350" alt="35000" dep-apt="ZJHK" arr-apt="ZSNJ" dep-time="3080" arr-time="3245" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYHB_IFR_FL390" alt="39000" dep-apt="ZSNJ" arr-apt="ZYHB" dep-time="3320" arr-time="3480" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSWZ_IFR_FL380" alt="38000" dep-apt="ZYHB" arr-apt="ZSWZ" dep-time="3545" arr-time="3760" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSWZ" arr-apt="ZGGG" dep-time="3810" arr-time="3925" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJHK_IFR_FL300" alt="30000" dep-apt="ZGGG" arr-apt="ZJHK" dep-time="4185" arr-time="4275" callsign="" flightnumber="1025" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZSNJ_IFR_FL370" alt="37000" dep-apt="ZJHK" arr-apt="ZSNJ" dep-time="4520" arr-time="4685" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYHB_IFR_FL350" alt="35000" dep-apt="ZSNJ" arr-apt="ZYHB" dep-time="4760" arr-time="4920" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSWZ_IFR_FL380" alt="38000" dep-apt="ZYHB" arr-apt="ZSWZ" dep-time="4985" arr-time="5200" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSWZ" arr-apt="ZGGG" dep-time="5250" arr-time="5365" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJHK_IFR_FL280" alt="28000" dep-apt="ZGGG" arr-apt="ZJHK" dep-time="5625" arr-time="5715" callsign="" flightnumber="1025" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZSNJ_IFR_FL350" alt="35000" dep-apt="ZJHK" arr-apt="ZSNJ" dep-time="5960" arr-time="6125" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYHB_IFR_FL350" alt="35000" dep-apt="ZSNJ" arr-apt="ZYHB" dep-time="6200" arr-time="6360" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSWZ_IFR_FL360" alt="36000" dep-apt="ZYHB" arr-apt="ZSWZ" dep-time="6425" arr-time="6640" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSWZ" arr-apt="ZGGG" dep-time="6690" arr-time="6805" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSOF_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSOF" dep-time="7095" arr-time="7220" callsign="" flightnumber="1165" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSOF-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSOF" arr-apt="ZGGG" dep-time="7310" arr-time="7450" callsign="" flightnumber="1166" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-VYMD_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="VYMD" dep-time="7605" arr-time="7915" callsign="" flightnumber="1001" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VYMD-ZGGG_IFR_FL370" alt="37000" dep-apt="VYMD" arr-apt="ZGGG" dep-time="7980" arr-time="8060" callsign="" flightnumber="1002" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJSY_IFR_FL320" alt="32000" dep-apt="ZGGG" arr-apt="ZJSY" dep-time="8220" arr-time="8315" callsign="" flightnumber="1111" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZGGG_IFR_FL350" alt="35000" dep-apt="ZJSY" arr-apt="ZGGG" dep-time="8365" arr-time="8455" callsign="" flightnumber="1112" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZBTJ_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZBTJ" dep-time="8555" arr-time="8745" callsign="" flightnumber="1055" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZBTJ" arr-apt="ZGGG" dep-time="8825" arr-time="9025" callsign="" flightnumber="1056" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="9120" arr-time="9275" callsign="" flightnumber="1029" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL360" alt="36000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="9540" arr-time="9680" callsign="" flightnumber="1030" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZWWW_IFR_FL400" alt="40000" dep-apt="ZGGG" arr-apt="ZWWW" dep-time="9980" arr-time="250" callsign="" flightnumber="1051" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+  <Aircraft id="24" title="AIGAIM_9 Air Boeing 737-800WL - SN Light Blue WiFi Dome" type="AIRPLANE">
+    <Registration id="B-1551" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZGGG_IFR_FL400" alt="40000" dep-apt="ZBTJ" arr-apt="ZGGG" dep-time="185" arr-time="385" callsign="" flightnumber="1056" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="480" arr-time="635" callsign="" flightnumber="1029" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="950" arr-time="1090" callsign="" flightnumber="1172" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLLL_IFR_FL400" alt="40000" dep-apt="ZGGG" arr-apt="ZLLL" dep-time="1360" arr-time="1550" callsign="" flightnumber="1107" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZHHH_IFR_FL350" alt="35000" dep-apt="ZLLL" arr-apt="ZHHH" dep-time="1605" arr-time="1720" callsign="" flightnumber="1124" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZSWZ_IFR_FL350" alt="35000" dep-apt="ZHHH" arr-apt="ZSWZ" dep-time="1780" arr-time="1875" callsign="" flightnumber="1183" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL340" alt="34000" dep-apt="ZSWZ" arr-apt="ZHHH" dep-time="1920" arr-time="2020" callsign="" flightnumber="1184" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZLLL_IFR_FL400" alt="40000" dep-apt="ZHHH" arr-apt="ZLLL" dep-time="2110" arr-time="2245" callsign="" flightnumber="1123" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZGGG_IFR_FL350" alt="35000" dep-apt="ZLLL" arr-apt="ZGGG" dep-time="2300" arr-time="2480" callsign="" flightnumber="1108" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="2735" arr-time="2870" callsign="" flightnumber="1171" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZYTX_IFR_FL350" alt="35000" dep-apt="ZHCC" arr-apt="ZYTX" dep-time="2975" arr-time="3110" callsign="" flightnumber="1049" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZSWX_IFR_FL360" alt="36000" dep-apt="ZYTX" arr-apt="ZSWX" dep-time="3160" arr-time="3330" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSWX" arr-apt="ZUGY" dep-time="3380" arr-time="3545" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="4265" arr-time="4380" callsign="" flightnumber="1061" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL380" alt="38000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="4435" arr-time="4555" callsign="" flightnumber="1062" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWX_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSWX" dep-time="4620" arr-time="4765" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTX_IFR_FL390" alt="39000" dep-apt="ZSWX" arr-apt="ZYTX" dep-time="4815" arr-time="4955" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZHCC_IFR_FL360" alt="36000" dep-apt="ZYTX" arr-apt="ZHCC" dep-time="5020" arr-time="5170" callsign="" flightnumber="1050" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="5220" arr-time="5365" callsign="" flightnumber="1030" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZWWW_IFR_FL400" alt="40000" dep-apt="ZGGG" arr-apt="ZWWW" dep-time="5660" arr-time="6010" callsign="" flightnumber="1051" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZWYN_IFR_FL320" alt="32000" dep-apt="ZWWW" arr-apt="ZWYN" dep-time="6100" arr-time="6190" callsign="" flightnumber="1093" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWYN-ZWWW_IFR_FL270" alt="27000" dep-apt="ZWYN" arr-apt="ZWWW" dep-time="6330" arr-time="6415" callsign="" flightnumber="1094" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZGGG_IFR_FL370" alt="37000" dep-apt="ZWWW" arr-apt="ZGGG" dep-time="6495" arr-time="6810" callsign="" flightnumber="1052" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLXY_IFR_FL400" alt="40000" dep-apt="ZGGG" arr-apt="ZLXY" dep-time="7100" arr-time="7250" callsign="" flightnumber="1105" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-AVA_IFR_FL360" alt="36000" dep-apt="ZLXY" arr-apt="AVA" dep-time="7310" arr-time="7445" callsign="" flightnumber="1158" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_AVA-ZJHK_IFR_FL350" alt="35000" dep-apt="AVA" arr-apt="ZJHK" dep-time="7510" arr-time="7620" callsign="" flightnumber="1158" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-AVA_IFR_FL380" alt="38000" dep-apt="ZJHK" arr-apt="AVA" dep-time="7760" arr-time="7875" callsign="" flightnumber="1157" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_AVA-ZLXY_IFR_FL390" alt="39000" dep-apt="AVA" arr-apt="ZLXY" dep-time="7920" arr-time="8035" callsign="" flightnumber="1157" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-ZGGG_IFR_FL350" alt="35000" dep-apt="ZLXY" arr-apt="ZGGG" dep-time="8100" arr-time="8270" callsign="" flightnumber="1106" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZWWW_IFR_FL400" alt="40000" dep-apt="ZGGG" arr-apt="ZWWW" dep-time="8570" arr-time="8900" callsign="" flightnumber="1051" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZGGG_IFR_FL390" alt="39000" dep-apt="ZWWW" arr-apt="ZGGG" dep-time="9375" arr-time="9690" callsign="" flightnumber="1052" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZBTJ_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZBTJ" dep-time="9995" arr-time="105" callsign="" flightnumber="1055" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+  <Aircraft id="25" title="AIGAIM_9 Air Boeing 737-800WL - SN Magenta" type="AIRPLANE">
+    <Registration id="B-1172" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTL_IFR_FL350" alt="35000" dep-apt="ZSWX" arr-apt="ZYTL" dep-time="75" arr-time="175" callsign="" flightnumber="1045" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTL-ZSWX_IFR_FL360" alt="36000" dep-apt="ZYTL" arr-apt="ZSWX" dep-time="250" arr-time="370" callsign="" flightnumber="1046" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSWX" arr-apt="ZGGG" dep-time="420" arr-time="570" callsign="" flightnumber="1024" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNB_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSNB" dep-time="680" arr-time="800" callsign="" flightnumber="1059" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNB-ZGGG_IFR_FL400" alt="40000" dep-apt="ZSNB" arr-apt="ZGGG" dep-time="885" arr-time="1035" callsign="" flightnumber="1060" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWX_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSWX" dep-time="1330" arr-time="1465" callsign="" flightnumber="1023" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTL_IFR_FL370" alt="37000" dep-apt="ZSWX" arr-apt="ZYTL" dep-time="1515" arr-time="1615" callsign="" flightnumber="1045" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTL-ZSWX_IFR_FL360" alt="36000" dep-apt="ZYTL" arr-apt="ZSWX" dep-time="1690" arr-time="1810" callsign="" flightnumber="1046" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZGGG" dep-time="1860" arr-time="2010" callsign="" flightnumber="1024" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNB_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSNB" dep-time="2120" arr-time="2240" callsign="" flightnumber="1059" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNB-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSNB" arr-apt="ZGGG" dep-time="2325" arr-time="2475" callsign="" flightnumber="1060" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSOF_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSOF" dep-time="2775" arr-time="2900" callsign="" flightnumber="1165" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSOF-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSOF" arr-apt="ZGGG" dep-time="2990" arr-time="3130" callsign="" flightnumber="1166" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-VYYY_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="VYYY" dep-time="3285" arr-time="3585" callsign="" flightnumber="1003" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VYYY-ZGGG_IFR_FL390" alt="39000" dep-apt="VYYY" arr-apt="ZGGG" dep-time="3650" arr-time="3740" callsign="" flightnumber="1004" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJSY_IFR_FL340" alt="34000" dep-apt="ZGGG" arr-apt="ZJSY" dep-time="3900" arr-time="3995" callsign="" flightnumber="1111" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZGGG_IFR_FL330" alt="33000" dep-apt="ZJSY" arr-apt="ZGGG" dep-time="4045" arr-time="4135" callsign="" flightnumber="1112" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWZ_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSWZ" dep-time="4235" arr-time="4340" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370" alt="37000" dep-apt="ZSWZ" arr-apt="ZYHB" dep-time="4390" arr-time="4600" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSNJ_IFR_FL400" alt="40000" dep-apt="ZYHB" arr-apt="ZSNJ" dep-time="4670" arr-time="4865" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZJHK" dep-time="4940" arr-time="5125" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGGG_IFR_FL270" alt="27000" dep-apt="ZJHK" arr-apt="ZGGG" dep-time="5330" arr-time="5415" callsign="" flightnumber="1026" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWZ_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSWZ" dep-time="5675" arr-time="5780" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370" alt="37000" dep-apt="ZSWZ" arr-apt="ZYHB" dep-time="5830" arr-time="6060" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSNJ_IFR_FL360" alt="36000" dep-apt="ZYHB" arr-apt="ZSNJ" dep-time="6120" arr-time="6305" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZJHK" dep-time="6380" arr-time="6565" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGGG_IFR_FL310" alt="31000" dep-apt="ZJHK" arr-apt="ZGGG" dep-time="6770" arr-time="6855" callsign="" flightnumber="1026" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZUGY_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="ZUGY" dep-time="7085" arr-time="7185" callsign="" flightnumber="1027" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZHCC_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZHCC" dep-time="7245" arr-time="7390" callsign="" flightnumber="1077" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZUGY_IFR_FL360" alt="36000" dep-apt="ZHCC" arr-apt="ZUGY" dep-time="7465" arr-time="7610" callsign="" flightnumber="1078" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZBTJ_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZBTJ" dep-time="7745" arr-time="7915" callsign="" flightnumber="1067" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZUGY_IFR_FL360" alt="36000" dep-apt="ZBTJ" arr-apt="ZUGY" dep-time="7980" arr-time="8175" callsign="" flightnumber="1068" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWX_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSWX" dep-time="8615" arr-time="8765" callsign="" flightnumber="1089" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZUGY" dep-time="8920" arr-time="9100" callsign="" flightnumber="1090" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZGGG_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZGGG" dep-time="9585" arr-time="9690" callsign="" flightnumber="1028" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWX_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSWX" dep-time="9970" arr-time="25" callsign="" flightnumber="1023" flightrule="IFR" tng="False"/>
+    </Registration>
+    <Registration id="B-1716" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZSOF-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSOF" arr-apt="ZGGG" dep-time="110" arr-time="250" callsign="" flightnumber="1166" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-VYMD_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="VYMD" dep-time="405" arr-time="715" callsign="" flightnumber="1001" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VYMD-ZGGG_IFR_FL350" alt="35000" dep-apt="VYMD" arr-apt="ZGGG" dep-time="780" arr-time="860" callsign="" flightnumber="1002" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJSY_IFR_FL340" alt="34000" dep-apt="ZGGG" arr-apt="ZJSY" dep-time="1020" arr-time="1115" callsign="" flightnumber="1111" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZGGG_IFR_FL370" alt="37000" dep-apt="ZJSY" arr-apt="ZGGG" dep-time="1165" arr-time="1255" callsign="" flightnumber="1112" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJHK_IFR_FL340" alt="34000" dep-apt="ZGGG" arr-apt="ZJHK" dep-time="1305" arr-time="1395" callsign="" flightnumber="1025" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZSNJ_IFR_FL350" alt="35000" dep-apt="ZJHK" arr-apt="ZSNJ" dep-time="1640" arr-time="1805" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYHB_IFR_FL370" alt="37000" dep-apt="ZSNJ" arr-apt="ZYHB" dep-time="1880" arr-time="2040" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSWZ_IFR_FL400" alt="40000" dep-apt="ZYHB" arr-apt="ZSWZ" dep-time="2105" arr-time="2320" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSWZ" arr-apt="ZGGG" dep-time="2370" arr-time="2485" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZUGY_IFR_FL320" alt="32000" dep-apt="ZGGG" arr-apt="ZUGY" dep-time="2765" arr-time="2865" callsign="" flightnumber="1027" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSNJ_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZSNJ" dep-time="2915" arr-time="3050" callsign="" flightnumber="1069" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGNN_IFR_FL400" alt="40000" dep-apt="ZSNJ" arr-apt="ZGNN" dep-time="3110" arr-time="3285" callsign="" flightnumber="1119" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGNN" arr-apt="ZSNJ" dep-time="3335" arr-time="3475" callsign="" flightnumber="1120" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZUGY" dep-time="3565" arr-time="3730" callsign="" flightnumber="1070" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="3845" arr-time="3965" callsign="" flightnumber="1079" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL400" alt="40000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="4190" arr-time="4310" callsign="" flightnumber="1080" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZHCC_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZHCC" dep-time="4365" arr-time="4510" callsign="" flightnumber="1077" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZUGY_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZUGY" dep-time="4585" arr-time="4730" callsign="" flightnumber="1078" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZBTJ_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZBTJ" dep-time="4865" arr-time="5035" callsign="" flightnumber="1067" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZUGY_IFR_FL360" alt="36000" dep-apt="ZBTJ" arr-apt="ZUGY" dep-time="5100" arr-time="5295" callsign="" flightnumber="1068" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWX_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSWX" dep-time="5735" arr-time="5885" callsign="" flightnumber="1089" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSWX" arr-apt="ZUGY" dep-time="6040" arr-time="6220" callsign="" flightnumber="1090" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-VYMD_IFR_FL360" alt="36000" dep-apt="ZUGY" arr-apt="VYMD" dep-time="6365" arr-time="6585" callsign="" flightnumber="1203" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VYMD-ZUGY_IFR_FL390" alt="39000" dep-apt="VYMD" arr-apt="ZUGY" dep-time="6645" arr-time="6705" callsign="" flightnumber="1204" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="7145" arr-time="7260" callsign="" flightnumber="1061" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL380" alt="38000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="7315" arr-time="7435" callsign="" flightnumber="1062" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWX_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSWX" dep-time="7500" arr-time="7645" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTX_IFR_FL350" alt="35000" dep-apt="ZSWX" arr-apt="ZYTX" dep-time="7695" arr-time="7835" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZHCC_IFR_FL400" alt="40000" dep-apt="ZYTX" arr-apt="ZHCC" dep-time="7900" arr-time="8050" callsign="" flightnumber="1050" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL360" alt="36000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="8150" arr-time="8290" callsign="" flightnumber="1172" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWX_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSWX" dep-time="8530" arr-time="8665" callsign="" flightnumber="1023" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTL_IFR_FL370" alt="37000" dep-apt="ZSWX" arr-apt="ZYTL" dep-time="8715" arr-time="8815" callsign="" flightnumber="1045" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTL-ZSWX_IFR_FL360" alt="36000" dep-apt="ZYTL" arr-apt="ZSWX" dep-time="8890" arr-time="9010" callsign="" flightnumber="1046" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZGGG" dep-time="9060" arr-time="9210" callsign="" flightnumber="1024" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNB_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSNB" dep-time="9320" arr-time="9440" callsign="" flightnumber="1059" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNB-ZGGG_IFR_FL400" alt="40000" dep-apt="ZSNB" arr-apt="ZGGG" dep-time="9525" arr-time="9675" callsign="" flightnumber="1060" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSOF_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSOF" dep-time="9975" arr-time="20" callsign="" flightnumber="1165" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+  <Aircraft id="26" title="AIGAIM_9 Air Boeing 737-800WL - SN Orange" type="AIRPLANE">
+    <Registration id="B-1556" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSWZ" arr-apt="ZUGY" dep-time="180" arr-time="350" callsign="" flightnumber="1092" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSAM_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSAM" dep-time="400" arr-time="520" callsign="" flightnumber="1095" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSAM-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSAM" arr-apt="ZUGY" dep-time="580" arr-time="730" callsign="" flightnumber="1096" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="965" arr-time="1085" callsign="" flightnumber="1079" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL380" alt="38000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="1310" arr-time="1430" callsign="" flightnumber="1080" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSNJ_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSNJ" dep-time="1475" arr-time="1610" callsign="" flightnumber="1069" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGNN_IFR_FL400" alt="40000" dep-apt="ZSNJ" arr-apt="ZGNN" dep-time="1670" arr-time="1845" callsign="" flightnumber="1119" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGNN" arr-apt="ZSNJ" dep-time="1895" arr-time="2035" callsign="" flightnumber="1120" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSNJ" arr-apt="ZUGY" dep-time="2125" arr-time="2290" callsign="" flightnumber="1070" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZGGG_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZGGG" dep-time="2385" arr-time="2490" callsign="" flightnumber="1028" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZBTJ_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZBTJ" dep-time="2795" arr-time="2985" callsign="" flightnumber="1055" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZBTJ" arr-apt="ZGGG" dep-time="3065" arr-time="3265" callsign="" flightnumber="1056" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="3360" arr-time="3515" callsign="" flightnumber="1029" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="3780" arr-time="3925" callsign="" flightnumber="1030" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLLL_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="ZLLL" dep-time="4240" arr-time="4430" callsign="" flightnumber="1107" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZHHH_IFR_FL390" alt="39000" dep-apt="ZLLL" arr-apt="ZHHH" dep-time="4485" arr-time="4600" callsign="" flightnumber="1124" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZSWZ_IFR_FL390" alt="39000" dep-apt="ZHHH" arr-apt="ZSWZ" dep-time="4660" arr-time="4755" callsign="" flightnumber="1183" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL340" alt="34000" dep-apt="ZSWZ" arr-apt="ZHHH" dep-time="4800" arr-time="4900" callsign="" flightnumber="1184" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZLLL_IFR_FL400" alt="40000" dep-apt="ZHHH" arr-apt="ZLLL" dep-time="4990" arr-time="5125" callsign="" flightnumber="1123" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZGGG_IFR_FL350" alt="35000" dep-apt="ZLLL" arr-apt="ZGGG" dep-time="5180" arr-time="5360" callsign="" flightnumber="1108" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLXY_IFR_FL400" alt="40000" dep-apt="ZGGG" arr-apt="ZLXY" dep-time="5660" arr-time="5810" callsign="" flightnumber="1105" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-JIQ_IFR_FL330" alt="33000" dep-apt="ZLXY" arr-apt="JIQ" dep-time="5870" arr-time="5975" callsign="" flightnumber="1156" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_JIQ-ZJHK_IFR_FL350" alt="35000" dep-apt="JIQ" arr-apt="ZJHK" dep-time="6040" arr-time="6180" callsign="" flightnumber="1156" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-JIQ_IFR_FL360" alt="36000" dep-apt="ZJHK" arr-apt="JIQ" dep-time="6320" arr-time="6450" callsign="" flightnumber="1155" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_JIQ-ZLXY_IFR_FL380" alt="38000" dep-apt="JIQ" arr-apt="ZLXY" dep-time="6505" arr-time="6595" callsign="" flightnumber="1155" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-ZGGG_IFR_FL350" alt="35000" dep-apt="ZLXY" arr-apt="ZGGG" dep-time="6660" arr-time="6830" callsign="" flightnumber="1106" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="7055" arr-time="7190" callsign="" flightnumber="1171" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZYTX_IFR_FL390" alt="39000" dep-apt="ZHCC" arr-apt="ZYTX" dep-time="7295" arr-time="7430" callsign="" flightnumber="1049" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZSWX_IFR_FL400" alt="40000" dep-apt="ZYTX" arr-apt="ZSWX" dep-time="7480" arr-time="7650" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSWX" arr-apt="ZUGY" dep-time="7700" arr-time="7865" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="8165" arr-time="8285" callsign="" flightnumber="1079" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL360" alt="36000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="8510" arr-time="8630" callsign="" flightnumber="1080" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSNJ_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSNJ" dep-time="8675" arr-time="8810" callsign="" flightnumber="1069" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGNN_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZGNN" dep-time="8870" arr-time="9045" callsign="" flightnumber="1119" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGNN-ZSNJ_IFR_FL370" alt="37000" dep-apt="ZGNN" arr-apt="ZSNJ" dep-time="9095" arr-time="9235" callsign="" flightnumber="1120" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSNJ" arr-apt="ZUGY" dep-time="9325" arr-time="9490" callsign="" flightnumber="1070" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWZ_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSWZ" dep-time="10075" arr-time="130" callsign="" flightnumber="1091" flightrule="IFR" tng="False"/>
+    </Registration>
+    <Registration id="B-1715" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL360" alt="36000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="115" arr-time="235" callsign="" flightnumber="1062" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWX_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSWX" dep-time="300" arr-time="445" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTX_IFR_FL390" alt="39000" dep-apt="ZSWX" arr-apt="ZYTX" dep-time="495" arr-time="635" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZHCC_IFR_FL400" alt="40000" dep-apt="ZYTX" arr-apt="ZHCC" dep-time="700" arr-time="850" callsign="" flightnumber="1050" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL380" alt="38000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="900" arr-time="1045" callsign="" flightnumber="1030" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLXY_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="ZLXY" dep-time="1340" arr-time="1490" callsign="" flightnumber="1105" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-AVA_IFR_FL400" alt="40000" dep-apt="ZLXY" arr-apt="AVA" dep-time="1550" arr-time="1685" callsign="" flightnumber="1158" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_AVA-ZJHK_IFR_FL370" alt="37000" dep-apt="AVA" arr-apt="ZJHK" dep-time="1750" arr-time="1860" callsign="" flightnumber="1158" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-AVA_IFR_FL380" alt="38000" dep-apt="ZJHK" arr-apt="AVA" dep-time="2000" arr-time="2115" callsign="" flightnumber="1157" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_AVA-ZLXY_IFR_FL390" alt="39000" dep-apt="AVA" arr-apt="ZLXY" dep-time="2160" arr-time="2275" callsign="" flightnumber="1157" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-ZGGG_IFR_FL390" alt="39000" dep-apt="ZLXY" arr-apt="ZGGG" dep-time="2340" arr-time="2510" callsign="" flightnumber="1106" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLXY_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="ZLXY" dep-time="2780" arr-time="2930" callsign="" flightnumber="1105" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-JIQ_IFR_FL270" alt="27000" dep-apt="ZLXY" arr-apt="JIQ" dep-time="2990" arr-time="3095" callsign="" flightnumber="1156" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_JIQ-ZJHK_IFR_FL370" alt="37000" dep-apt="JIQ" arr-apt="ZJHK" dep-time="3160" arr-time="3300" callsign="" flightnumber="1156" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-JIQ_IFR_FL360" alt="36000" dep-apt="ZJHK" arr-apt="JIQ" dep-time="3440" arr-time="3570" callsign="" flightnumber="1155" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_JIQ-ZLXY_IFR_FL320" alt="32000" dep-apt="JIQ" arr-apt="ZLXY" dep-time="3625" arr-time="3715" callsign="" flightnumber="1155" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-ZGGG_IFR_FL350" alt="35000" dep-apt="ZLXY" arr-apt="ZGGG" dep-time="3780" arr-time="3950" callsign="" flightnumber="1106" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSCN_IFR_FL310" alt="31000" dep-apt="ZGGG" arr-apt="ZSCN" dep-time="4230" arr-time="4325" callsign="" flightnumber="1053" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZBYN_IFR_FL380" alt="38000" dep-apt="ZSCN" arr-apt="ZBYN" dep-time="4375" arr-time="4490" callsign="" flightnumber="1063" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZUCK_IFR_FL360" alt="36000" dep-apt="ZBYN" arr-apt="ZUCK" dep-time="4620" arr-time="4755" callsign="" flightnumber="1074" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUCK-ZBYN_IFR_FL350" alt="35000" dep-apt="ZUCK" arr-apt="ZBYN" dep-time="4855" arr-time="4980" callsign="" flightnumber="1073" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZSCN_IFR_FL390" alt="39000" dep-apt="ZBYN" arr-apt="ZSCN" dep-time="5060" arr-time="5185" callsign="" flightnumber="1064" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZGGG_IFR_FL400" alt="40000" dep-apt="ZSCN" arr-apt="ZGGG" dep-time="5240" arr-time="5355" callsign="" flightnumber="1054" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZUGY_IFR_FL400" alt="40000" dep-apt="ZGGG" arr-apt="ZUGY" dep-time="5645" arr-time="5745" callsign="" flightnumber="1027" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZHCC_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZHCC" dep-time="5805" arr-time="5950" callsign="" flightnumber="1077" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZUGY_IFR_FL380" alt="38000" dep-apt="ZHCC" arr-apt="ZUGY" dep-time="6025" arr-time="6170" callsign="" flightnumber="1078" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSOF_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZSOF" dep-time="6220" arr-time="6330" callsign="" flightnumber="1085" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSOF-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSOF" arr-apt="ZUGY" dep-time="6420" arr-time="6565" callsign="" flightnumber="1086" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWZ_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSWZ" dep-time="7195" arr-time="7330" callsign="" flightnumber="1091" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSWZ" arr-apt="ZUGY" dep-time="7380" arr-time="7550" callsign="" flightnumber="1092" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSAM_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSAM" dep-time="7600" arr-time="7720" callsign="" flightnumber="1095" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSAM-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSAM" arr-apt="ZUGY" dep-time="7780" arr-time="7930" callsign="" flightnumber="1096" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-VTSP_IFR_FL380" alt="38000" dep-apt="ZUGY" arr-apt="VTSP" dep-time="8045" arr-time="8310" callsign="" flightnumber="1201" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VTSP-ZUGY_IFR_FL370" alt="37000" dep-apt="VTSP" arr-apt="ZUGY" dep-time="8370" arr-time="8575" callsign="" flightnumber="1202" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWZ_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZSWZ" dep-time="8635" arr-time="8770" callsign="" flightnumber="1091" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSWZ" arr-apt="ZUGY" dep-time="8820" arr-time="8990" callsign="" flightnumber="1092" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSAM_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSAM" dep-time="9040" arr-time="9160" callsign="" flightnumber="1095" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSAM-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSAM" arr-apt="ZUGY" dep-time="9220" arr-time="9370" callsign="" flightnumber="1096" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="10025" arr-time="60" callsign="" flightnumber="1061" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+  <Aircraft id="27" title="AIGAIM_9 Air Boeing 737-800WL - SN Purple" type="AIRPLANE">
+    <Registration id="B-1233" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZSJA-ZSWX_IFR_FL330" alt="33000" dep-apt="ZSJA" arr-apt="ZSWX" dep-time="160" arr-time="280" callsign="" flightnumber="1065" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZSJA_IFR_FL400" alt="40000" dep-apt="ZSWX" arr-apt="ZSJA" dep-time="330" arr-time="440" callsign="" flightnumber="1066" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSJA-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSJA" arr-apt="ZUGY" dep-time="495" arr-time="605" callsign="" flightnumber="1066" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSCN_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSCN" dep-time="655" arr-time="755" callsign="" flightnumber="1083" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSCN" arr-apt="ZUGY" dep-time="810" arr-time="930" callsign="" flightnumber="1084" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="1385" arr-time="1500" callsign="" flightnumber="1061" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL400" alt="40000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="1555" arr-time="1675" callsign="" flightnumber="1062" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWX_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZSWX" dep-time="1740" arr-time="1885" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTX_IFR_FL350" alt="35000" dep-apt="ZSWX" arr-apt="ZYTX" dep-time="1935" arr-time="2075" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZHCC_IFR_FL360" alt="36000" dep-apt="ZYTX" arr-apt="ZHCC" dep-time="2140" arr-time="2290" callsign="" flightnumber="1050" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="2340" arr-time="2485" callsign="" flightnumber="1030" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLLL_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="ZLLL" dep-time="2800" arr-time="2990" callsign="" flightnumber="1107" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZHHH_IFR_FL390" alt="39000" dep-apt="ZLLL" arr-apt="ZHHH" dep-time="3045" arr-time="3160" callsign="" flightnumber="1124" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZSWZ_IFR_FL390" alt="39000" dep-apt="ZHHH" arr-apt="ZSWZ" dep-time="3220" arr-time="3315" callsign="" flightnumber="1183" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL380" alt="38000" dep-apt="ZSWZ" arr-apt="ZHHH" dep-time="3360" arr-time="3460" callsign="" flightnumber="1184" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZLLL_IFR_FL400" alt="40000" dep-apt="ZHHH" arr-apt="ZLLL" dep-time="3550" arr-time="3685" callsign="" flightnumber="1123" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZGGG_IFR_FL370" alt="37000" dep-apt="ZLLL" arr-apt="ZGGG" dep-time="3740" arr-time="3920" callsign="" flightnumber="1108" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="4175" arr-time="4310" callsign="" flightnumber="1171" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZYTX_IFR_FL390" alt="39000" dep-apt="ZHCC" arr-apt="ZYTX" dep-time="4415" arr-time="4550" callsign="" flightnumber="1049" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZSWX_IFR_FL400" alt="40000" dep-apt="ZYTX" arr-apt="ZSWX" dep-time="4600" arr-time="4770" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZUGY" dep-time="4820" arr-time="4985" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZGGG_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZGGG" dep-time="5265" arr-time="5370" callsign="" flightnumber="1028" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLLL_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="ZLLL" dep-time="5680" arr-time="5870" callsign="" flightnumber="1107" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZHHH_IFR_FL370" alt="37000" dep-apt="ZLLL" arr-apt="ZHHH" dep-time="5925" arr-time="6040" callsign="" flightnumber="1124" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZSWZ_IFR_FL390" alt="39000" dep-apt="ZHHH" arr-apt="ZSWZ" dep-time="6100" arr-time="6195" callsign="" flightnumber="1183" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL320" alt="32000" dep-apt="ZSWZ" arr-apt="ZHHH" dep-time="6240" arr-time="6340" callsign="" flightnumber="1184" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZLLL_IFR_FL380" alt="38000" dep-apt="ZHHH" arr-apt="ZLLL" dep-time="6430" arr-time="6565" callsign="" flightnumber="1123" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZGGG_IFR_FL370" alt="37000" dep-apt="ZLLL" arr-apt="ZGGG" dep-time="6620" arr-time="6800" callsign="" flightnumber="1108" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZBTJ_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZBTJ" dep-time="7115" arr-time="7305" callsign="" flightnumber="1055" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZGGG_IFR_FL360" alt="36000" dep-apt="ZBTJ" arr-apt="ZGGG" dep-time="7385" arr-time="7585" callsign="" flightnumber="1056" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="7680" arr-time="7835" callsign="" flightnumber="1029" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="8100" arr-time="8245" callsign="" flightnumber="1030" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZUGY_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="ZUGY" dep-time="8525" arr-time="8625" callsign="" flightnumber="1027" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZHCC_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZHCC" dep-time="8685" arr-time="8830" callsign="" flightnumber="1077" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZUGY_IFR_FL360" alt="36000" dep-apt="ZHCC" arr-apt="ZUGY" dep-time="8905" arr-time="9050" callsign="" flightnumber="1078" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSOF_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSOF" dep-time="9100" arr-time="9210" callsign="" flightnumber="1085" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSOF-ZUGY_IFR_FL360" alt="36000" dep-apt="ZSOF" arr-apt="ZUGY" dep-time="9300" arr-time="9445" callsign="" flightnumber="1086" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSJA_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZSJA" dep-time="10055" arr-time="75" callsign="" flightnumber="1065" flightrule="IFR" tng="False"/>
+    </Registration>
+    <Registration id="B-6991" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZBYN_IFR_FL400" alt="40000" dep-apt="ZSCN" arr-apt="ZBYN" dep-time="55" arr-time="170" callsign="" flightnumber="1063" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZUCK_IFR_FL400" alt="40000" dep-apt="ZBYN" arr-apt="ZUCK" dep-time="300" arr-time="435" callsign="" flightnumber="1074" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUCK-ZBYN_IFR_FL390" alt="39000" dep-apt="ZUCK" arr-apt="ZBYN" dep-time="535" arr-time="660" callsign="" flightnumber="1073" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZSCN_IFR_FL350" alt="35000" dep-apt="ZBYN" arr-apt="ZSCN" dep-time="740" arr-time="865" callsign="" flightnumber="1064" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZGGG_IFR_FL320" alt="32000" dep-apt="ZSCN" arr-apt="ZGGG" dep-time="920" arr-time="1035" callsign="" flightnumber="1054" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZWWW_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="ZWWW" dep-time="1370" arr-time="1700" callsign="" flightnumber="1051" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZWYN_IFR_FL340" alt="34000" dep-apt="ZWWW" arr-apt="ZWYN" dep-time="1780" arr-time="1870" callsign="" flightnumber="1093" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWYN-ZWWW_IFR_FL350" alt="35000" dep-apt="ZWYN" arr-apt="ZWWW" dep-time="2010" arr-time="2095" callsign="" flightnumber="1094" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZGGG_IFR_FL390" alt="39000" dep-apt="ZWWW" arr-apt="ZGGG" dep-time="2175" arr-time="2490" callsign="" flightnumber="1052" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSCN_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSCN" dep-time="2790" arr-time="2885" callsign="" flightnumber="1053" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZBYN_IFR_FL400" alt="40000" dep-apt="ZSCN" arr-apt="ZBYN" dep-time="2935" arr-time="3050" callsign="" flightnumber="1063" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZSWZ_IFR_FL370" alt="37000" dep-apt="ZBYN" arr-apt="ZSWZ" dep-time="3180" arr-time="3330" callsign="" flightnumber="1088" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZBYN_IFR_FL400" alt="40000" dep-apt="ZSWZ" arr-apt="ZBYN" dep-time="3375" arr-time="3540" callsign="" flightnumber="1087" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZSCN_IFR_FL370" alt="37000" dep-apt="ZBYN" arr-apt="ZSCN" dep-time="3620" arr-time="3745" callsign="" flightnumber="1064" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSCN" arr-apt="ZGGG" dep-time="3800" arr-time="3915" callsign="" flightnumber="1054" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZWWW_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="ZWWW" dep-time="4250" arr-time="4580" callsign="" flightnumber="1051" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZWYN_IFR_FL340" alt="34000" dep-apt="ZWWW" arr-apt="ZWYN" dep-time="4660" arr-time="4750" callsign="" flightnumber="1093" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWYN-ZWWW_IFR_FL250" alt="25000" dep-apt="ZWYN" arr-apt="ZWWW" dep-time="4890" arr-time="4975" callsign="" flightnumber="1094" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZWWW-ZGGG_IFR_FL390" alt="39000" dep-apt="ZWWW" arr-apt="ZGGG" dep-time="5055" arr-time="5370" callsign="" flightnumber="1052" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWX_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSWX" dep-time="5650" arr-time="5785" callsign="" flightnumber="1023" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTL_IFR_FL390" alt="39000" dep-apt="ZSWX" arr-apt="ZYTL" dep-time="5835" arr-time="5935" callsign="" flightnumber="1045" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTL-ZSWX_IFR_FL360" alt="36000" dep-apt="ZYTL" arr-apt="ZSWX" dep-time="6010" arr-time="6130" callsign="" flightnumber="1046" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZGGG_IFR_FL400" alt="40000" dep-apt="ZSWX" arr-apt="ZGGG" dep-time="6180" arr-time="6330" callsign="" flightnumber="1024" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNB_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSNB" dep-time="6440" arr-time="6560" callsign="" flightnumber="1059" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNB-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSNB" arr-apt="ZGGG" dep-time="6645" arr-time="6795" callsign="" flightnumber="1060" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSCN_IFR_FL330" alt="33000" dep-apt="ZGGG" arr-apt="ZSCN" dep-time="7110" arr-time="7205" callsign="" flightnumber="1053" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZBYN_IFR_FL380" alt="38000" dep-apt="ZSCN" arr-apt="ZBYN" dep-time="7255" arr-time="7370" callsign="" flightnumber="1063" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZUCK_IFR_FL360" alt="36000" dep-apt="ZBYN" arr-apt="ZUCK" dep-time="7500" arr-time="7635" callsign="" flightnumber="1074" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUCK-ZBYN_IFR_FL370" alt="37000" dep-apt="ZUCK" arr-apt="ZBYN" dep-time="7735" arr-time="7860" callsign="" flightnumber="1073" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZSCN_IFR_FL350" alt="35000" dep-apt="ZBYN" arr-apt="ZSCN" dep-time="7940" arr-time="8065" callsign="" flightnumber="1064" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZGGG_IFR_FL340" alt="34000" dep-apt="ZSCN" arr-apt="ZGGG" dep-time="8120" arr-time="8235" callsign="" flightnumber="1054" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSOF_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSOF" dep-time="8535" arr-time="8660" callsign="" flightnumber="1165" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSOF-ZGGG_IFR_FL400" alt="40000" dep-apt="ZSOF" arr-apt="ZGGG" dep-time="8750" arr-time="8890" callsign="" flightnumber="1166" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-VYYY_IFR_FL400" alt="40000" dep-apt="ZGGG" arr-apt="VYYY" dep-time="9045" arr-time="9345" callsign="" flightnumber="1003" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VYYY-ZGGG_IFR_FL390" alt="39000" dep-apt="VYYY" arr-apt="ZGGG" dep-time="9410" arr-time="9500" callsign="" flightnumber="1004" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJSY_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="ZJSY" dep-time="9660" arr-time="9755" callsign="" flightnumber="1111" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZGGG_IFR_FL370" alt="37000" dep-apt="ZJSY" arr-apt="ZGGG" dep-time="9805" arr-time="9895" callsign="" flightnumber="1112" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSCN_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZSCN" dep-time="9990" arr-time="5" callsign="" flightnumber="1053" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+  <Aircraft id="28" title="AIGAIM_9 Air Boeing 737-800WL - SN Red" type="AIRPLANE">
+    <Registration id="B-1553" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSNJ" dep-time="35" arr-time="170" callsign="" flightnumber="1069" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZGNN_IFR_FL360" alt="36000" dep-apt="ZSNJ" arr-apt="ZGNN" dep-time="230" arr-time="405" callsign="" flightnumber="1119" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGNN-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZGNN" arr-apt="ZSNJ" dep-time="455" arr-time="595" callsign="" flightnumber="1120" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSNJ" arr-apt="ZUGY" dep-time="685" arr-time="850" callsign="" flightnumber="1070" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZGGG_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZGGG" dep-time="945" arr-time="1050" callsign="" flightnumber="1028" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="1295" arr-time="1430" callsign="" flightnumber="1171" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZYTX_IFR_FL370" alt="37000" dep-apt="ZHCC" arr-apt="ZYTX" dep-time="1535" arr-time="1670" callsign="" flightnumber="1049" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZSWX_IFR_FL400" alt="40000" dep-apt="ZYTX" arr-apt="ZSWX" dep-time="1720" arr-time="1890" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSWX" arr-apt="ZUGY" dep-time="1940" arr-time="2105" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="2410" arr-time="2525" callsign="" flightnumber="1079" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL380" alt="38000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="2750" arr-time="2870" callsign="" flightnumber="1080" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZHCC_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZHCC" dep-time="2925" arr-time="3070" callsign="" flightnumber="1077" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZUGY_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZUGY" dep-time="3145" arr-time="3290" callsign="" flightnumber="1078" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSOF_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZSOF" dep-time="3340" arr-time="3450" callsign="" flightnumber="1085" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSOF-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSOF" arr-apt="ZUGY" dep-time="3540" arr-time="3685" callsign="" flightnumber="1086" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSJA_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZSJA" dep-time="4295" arr-time="4395" callsign="" flightnumber="1065" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSJA-ZSWX_IFR_FL330" alt="33000" dep-apt="ZSJA" arr-apt="ZSWX" dep-time="4480" arr-time="4600" callsign="" flightnumber="1065" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZSJA_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZSJA" dep-time="4650" arr-time="4760" callsign="" flightnumber="1066" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSJA-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSJA" arr-apt="ZUGY" dep-time="4815" arr-time="4925" callsign="" flightnumber="1066" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSCN_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZSCN" dep-time="4975" arr-time="5075" callsign="" flightnumber="1083" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSCN" arr-apt="ZUGY" dep-time="5130" arr-time="5250" callsign="" flightnumber="1084" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="5705" arr-time="5820" callsign="" flightnumber="1061" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL400" alt="40000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="5875" arr-time="5995" callsign="" flightnumber="1062" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWX_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSWX" dep-time="6060" arr-time="6205" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTX_IFR_FL390" alt="39000" dep-apt="ZSWX" arr-apt="ZYTX" dep-time="6255" arr-time="6395" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZHCC_IFR_FL360" alt="36000" dep-apt="ZYTX" arr-apt="ZHCC" dep-time="6460" arr-time="6610" callsign="" flightnumber="1050" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL400" alt="40000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="6710" arr-time="6850" callsign="" flightnumber="1172" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLLL_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="ZLLL" dep-time="7120" arr-time="7310" callsign="" flightnumber="1107" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZHHH_IFR_FL370" alt="37000" dep-apt="ZLLL" arr-apt="ZHHH" dep-time="7365" arr-time="7480" callsign="" flightnumber="1124" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZSWZ_IFR_FL350" alt="35000" dep-apt="ZHHH" arr-apt="ZSWZ" dep-time="7540" arr-time="7635" callsign="" flightnumber="1183" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL340" alt="34000" dep-apt="ZSWZ" arr-apt="ZHHH" dep-time="7680" arr-time="7780" callsign="" flightnumber="1184" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZLLL_IFR_FL400" alt="40000" dep-apt="ZHHH" arr-apt="ZLLL" dep-time="7870" arr-time="8005" callsign="" flightnumber="1123" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZGGG_IFR_FL370" alt="37000" dep-apt="ZLLL" arr-apt="ZGGG" dep-time="8060" arr-time="8240" callsign="" flightnumber="1108" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWZ_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSWZ" dep-time="8555" arr-time="8660" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZYHB_IFR_FL370" alt="37000" dep-apt="ZSWZ" arr-apt="ZYHB" dep-time="8710" arr-time="8920" callsign="" flightnumber="1021" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSNJ_IFR_FL400" alt="40000" dep-apt="ZYHB" arr-apt="ZSNJ" dep-time="8990" arr-time="9185" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZJHK_IFR_FL380" alt="38000" dep-apt="ZSNJ" arr-apt="ZJHK" dep-time="9260" arr-time="9445" callsign="" flightnumber="1040" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZGGG_IFR_FL350" alt="35000" dep-apt="ZJHK" arr-apt="ZGGG" dep-time="9650" arr-time="9735" callsign="" flightnumber="1026" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZUGY_IFR_FL380" alt="38000" dep-apt="ZGGG" arr-apt="ZUGY" dep-time="9965" arr-time="10065" callsign="" flightnumber="1027" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+  <Aircraft id="29" title="AIGAIM_9 Air Boeing 737-800WL - SN Yellow" type="AIRPLANE">
+    <Registration id="B-1473" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZHCC_IFR_FL370" alt="37000" dep-apt="ZUGY" arr-apt="ZHCC" dep-time="45" arr-time="190" callsign="" flightnumber="1077" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZUGY_IFR_FL380" alt="38000" dep-apt="ZHCC" arr-apt="ZUGY" dep-time="265" arr-time="410" callsign="" flightnumber="1078" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZBTJ_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZBTJ" dep-time="545" arr-time="715" callsign="" flightnumber="1067" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZUGY_IFR_FL380" alt="38000" dep-apt="ZBTJ" arr-apt="ZUGY" dep-time="780" arr-time="975" callsign="" flightnumber="1068" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSJA_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSJA" dep-time="1415" arr-time="1515" callsign="" flightnumber="1065" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSJA-ZSWX_IFR_FL330" alt="33000" dep-apt="ZSJA" arr-apt="ZSWX" dep-time="1600" arr-time="1720" callsign="" flightnumber="1065" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZSJA_IFR_FL340" alt="34000" dep-apt="ZSWX" arr-apt="ZSJA" dep-time="1770" arr-time="1880" callsign="" flightnumber="1066" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSJA-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSJA" arr-apt="ZUGY" dep-time="1935" arr-time="2045" callsign="" flightnumber="1066" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSCN_IFR_FL390" alt="39000" dep-apt="ZUGY" arr-apt="ZSCN" dep-time="2095" arr-time="2195" callsign="" flightnumber="1083" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZUGY_IFR_FL380" alt="38000" dep-apt="ZSCN" arr-apt="ZUGY" dep-time="2250" arr-time="2370" callsign="" flightnumber="1084" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="2825" arr-time="2940" callsign="" flightnumber="1061" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL360" alt="36000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="2995" arr-time="3115" callsign="" flightnumber="1062" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZSWX_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZSWX" dep-time="3180" arr-time="3325" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTX_IFR_FL390" alt="39000" dep-apt="ZSWX" arr-apt="ZYTX" dep-time="3375" arr-time="3515" callsign="" flightnumber="1071" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZHCC_IFR_FL400" alt="40000" dep-apt="ZYTX" arr-apt="ZHCC" dep-time="3600" arr-time="3750" callsign="" flightnumber="1050" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL360" alt="36000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="3830" arr-time="3970" callsign="" flightnumber="1172" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZBTJ_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZBTJ" dep-time="4235" arr-time="4425" callsign="" flightnumber="1055" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBTJ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZBTJ" arr-apt="ZGGG" dep-time="4505" arr-time="4705" callsign="" flightnumber="1056" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="4800" arr-time="4955" callsign="" flightnumber="1029" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZGGG_IFR_FL380" alt="38000" dep-apt="ZHCC" arr-apt="ZGGG" dep-time="5270" arr-time="5410" callsign="" flightnumber="1172" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSCN_IFR_FL330" alt="33000" dep-apt="ZGGG" arr-apt="ZSCN" dep-time="5670" arr-time="5765" callsign="" flightnumber="1053" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZBYN_IFR_FL360" alt="36000" dep-apt="ZSCN" arr-apt="ZBYN" dep-time="5815" arr-time="5930" callsign="" flightnumber="1063" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZSWZ_IFR_FL350" alt="35000" dep-apt="ZBYN" arr-apt="ZSWZ" dep-time="6060" arr-time="6210" callsign="" flightnumber="1088" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZBYN_IFR_FL400" alt="40000" dep-apt="ZSWZ" arr-apt="ZBYN" dep-time="6255" arr-time="6420" callsign="" flightnumber="1087" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZSCN_IFR_FL350" alt="35000" dep-apt="ZBYN" arr-apt="ZSCN" dep-time="6500" arr-time="6625" callsign="" flightnumber="1064" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSCN" arr-apt="ZGGG" dep-time="6680" arr-time="6795" callsign="" flightnumber="1054" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWX_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSWX" dep-time="7090" arr-time="7225" callsign="" flightnumber="1023" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTL_IFR_FL390" alt="39000" dep-apt="ZSWX" arr-apt="ZYTL" dep-time="7275" arr-time="7375" callsign="" flightnumber="1045" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTL-ZSWX_IFR_FL380" alt="38000" dep-apt="ZYTL" arr-apt="ZSWX" dep-time="7450" arr-time="7570" callsign="" flightnumber="1046" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZGGG" dep-time="7620" arr-time="7770" callsign="" flightnumber="1024" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNB_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSNB" dep-time="7880" arr-time="8000" callsign="" flightnumber="1059" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNB-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSNB" arr-apt="ZGGG" dep-time="8085" arr-time="8235" callsign="" flightnumber="1060" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZHCC_IFR_FL370" alt="37000" dep-apt="ZGGG" arr-apt="ZHCC" dep-time="8495" arr-time="8630" callsign="" flightnumber="1171" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHCC-ZYTX_IFR_FL350" alt="35000" dep-apt="ZHCC" arr-apt="ZYTX" dep-time="8735" arr-time="8870" callsign="" flightnumber="1049" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTX-ZSWX_IFR_FL380" alt="38000" dep-apt="ZYTX" arr-apt="ZSWX" dep-time="8920" arr-time="9090" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZUGY_IFR_FL400" alt="40000" dep-apt="ZSWX" arr-apt="ZUGY" dep-time="9140" arr-time="9305" callsign="" flightnumber="1072" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUGY-ZJSY_IFR_FL350" alt="35000" dep-apt="ZUGY" arr-apt="ZJSY" dep-time="9605" arr-time="9725" callsign="" flightnumber="1079" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZUGY_IFR_FL380" alt="38000" dep-apt="ZJSY" arr-apt="ZUGY" dep-time="9950" arr-time="10070" callsign="" flightnumber="1080" flightrule="IFR" tng="False"/>
+    </Registration>
+    <Registration id="B-6989" rotation="10080">
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZSNJ_IFR_FL370" alt="37000" dep-apt="ZJHK" arr-apt="ZSNJ" dep-time="200" arr-time="365" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYHB_IFR_FL350" alt="35000" dep-apt="ZSNJ" arr-apt="ZYHB" dep-time="440" arr-time="600" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSWZ_IFR_FL400" alt="40000" dep-apt="ZYHB" arr-apt="ZSWZ" dep-time="665" arr-time="880" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSWZ" arr-apt="ZGGG" dep-time="930" arr-time="1045" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSCN_IFR_FL310" alt="31000" dep-apt="ZGGG" arr-apt="ZSCN" dep-time="1350" arr-time="1445" callsign="" flightnumber="1053" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZBYN_IFR_FL360" alt="36000" dep-apt="ZSCN" arr-apt="ZBYN" dep-time="1495" arr-time="1610" callsign="" flightnumber="1063" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZUCK_IFR_FL400" alt="40000" dep-apt="ZBYN" arr-apt="ZUCK" dep-time="1740" arr-time="1875" callsign="" flightnumber="1074" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZUCK-ZBYN_IFR_FL370" alt="37000" dep-apt="ZUCK" arr-apt="ZBYN" dep-time="1975" arr-time="2100" callsign="" flightnumber="1073" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZBYN-ZSCN_IFR_FL370" alt="37000" dep-apt="ZBYN" arr-apt="ZSCN" dep-time="2180" arr-time="2305" callsign="" flightnumber="1064" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSCN-ZGGG_IFR_FL320" alt="32000" dep-apt="ZSCN" arr-apt="ZGGG" dep-time="2360" arr-time="2475" callsign="" flightnumber="1054" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSWX_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSWX" dep-time="2770" arr-time="2905" callsign="" flightnumber="1023" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZYTL_IFR_FL350" alt="35000" dep-apt="ZSWX" arr-apt="ZYTL" dep-time="2955" arr-time="3055" callsign="" flightnumber="1045" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYTL-ZSWX_IFR_FL400" alt="40000" dep-apt="ZYTL" arr-apt="ZSWX" dep-time="3130" arr-time="3250" callsign="" flightnumber="1046" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWX-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSWX" arr-apt="ZGGG" dep-time="3300" arr-time="3450" callsign="" flightnumber="1024" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSNB_IFR_FL390" alt="39000" dep-apt="ZGGG" arr-apt="ZSNB" dep-time="3560" arr-time="3680" callsign="" flightnumber="1059" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNB-ZGGG_IFR_FL400" alt="40000" dep-apt="ZSNB" arr-apt="ZGGG" dep-time="3765" arr-time="3915" callsign="" flightnumber="1060" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLXY_IFR_FL400" alt="40000" dep-apt="ZGGG" arr-apt="ZLXY" dep-time="4220" arr-time="4370" callsign="" flightnumber="1105" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-AVA_IFR_FL360" alt="36000" dep-apt="ZLXY" arr-apt="AVA" dep-time="4430" arr-time="4565" callsign="" flightnumber="1158" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_AVA-ZJHK_IFR_FL350" alt="35000" dep-apt="AVA" arr-apt="ZJHK" dep-time="4630" arr-time="4740" callsign="" flightnumber="1158" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-AVA_IFR_FL400" alt="40000" dep-apt="ZJHK" arr-apt="AVA" dep-time="4880" arr-time="4995" callsign="" flightnumber="1157" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_AVA-ZLXY_IFR_FL370" alt="37000" dep-apt="AVA" arr-apt="ZLXY" dep-time="5040" arr-time="5155" callsign="" flightnumber="1157" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLXY-ZGGG_IFR_FL390" alt="39000" dep-apt="ZLXY" arr-apt="ZGGG" dep-time="5220" arr-time="5390" callsign="" flightnumber="1106" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZSOF_IFR_FL350" alt="35000" dep-apt="ZGGG" arr-apt="ZSOF" dep-time="5655" arr-time="5780" callsign="" flightnumber="1165" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSOF-ZGGG_IFR_FL360" alt="36000" dep-apt="ZSOF" arr-apt="ZGGG" dep-time="5870" arr-time="6010" callsign="" flightnumber="1166" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-VYYY_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="VYYY" dep-time="6165" arr-time="6465" callsign="" flightnumber="1003" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_VYYY-ZGGG_IFR_FL390" alt="39000" dep-apt="VYYY" arr-apt="ZGGG" dep-time="6530" arr-time="6620" callsign="" flightnumber="1004" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJSY_IFR_FL320" alt="32000" dep-apt="ZGGG" arr-apt="ZJSY" dep-time="6780" arr-time="6875" callsign="" flightnumber="1111" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJSY-ZGGG_IFR_FL350" alt="35000" dep-apt="ZJSY" arr-apt="ZGGG" dep-time="6925" arr-time="7015" callsign="" flightnumber="1112" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJHK_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="ZJHK" dep-time="7065" arr-time="7155" callsign="" flightnumber="1025" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZJHK-ZSNJ_IFR_FL390" alt="39000" dep-apt="ZJHK" arr-apt="ZSNJ" dep-time="7400" arr-time="7565" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSNJ-ZYHB_IFR_FL370" alt="37000" dep-apt="ZSNJ" arr-apt="ZYHB" dep-time="7640" arr-time="7800" callsign="" flightnumber="1039" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZYHB-ZSWZ_IFR_FL360" alt="36000" dep-apt="ZYHB" arr-apt="ZSWZ" dep-time="7865" arr-time="8080" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZGGG_IFR_FL380" alt="38000" dep-apt="ZSWZ" arr-apt="ZGGG" dep-time="8130" arr-time="8245" callsign="" flightnumber="1022" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZLLL_IFR_FL360" alt="36000" dep-apt="ZGGG" arr-apt="ZLLL" dep-time="8560" arr-time="8750" callsign="" flightnumber="1107" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZHHH_IFR_FL350" alt="35000" dep-apt="ZLLL" arr-apt="ZHHH" dep-time="8805" arr-time="8920" callsign="" flightnumber="1124" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZSWZ_IFR_FL350" alt="35000" dep-apt="ZHHH" arr-apt="ZSWZ" dep-time="8980" arr-time="9075" callsign="" flightnumber="1183" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZSWZ-ZHHH_IFR_FL340" alt="34000" dep-apt="ZSWZ" arr-apt="ZHHH" dep-time="9120" arr-time="9220" callsign="" flightnumber="1184" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZHHH-ZLLL_IFR_FL360" alt="36000" dep-apt="ZHHH" arr-apt="ZLLL" dep-time="9310" arr-time="9445" callsign="" flightnumber="1123" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZLLL-ZGGG_IFR_FL350" alt="35000" dep-apt="ZLLL" arr-apt="ZGGG" dep-time="9500" arr-time="9680" callsign="" flightnumber="1108" flightrule="IFR" tng="False"/>
+      <Leg aigroute="AIGFP_Direct_ZGGG-ZJHK_IFR_FL280" alt="28000" dep-apt="ZGGG" arr-apt="ZJHK" dep-time="9945" arr-time="10035" callsign="" flightnumber="1025" flightrule="IFR" tng="False"/>
+    </Registration>
+  </Aircraft>
+</Flightplan>

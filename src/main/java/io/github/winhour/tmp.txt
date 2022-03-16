@@ -1,0 +1,89 @@
+SELECT employee.first_name, employee.last_name, call.start_time, call.end_time, call_outcome.outcome_text
+FROM employee
+INNER JOIN call ON call.employee_id = employee.id
+INNER JOIN call_outcome ON call.call_outcome_id = call_outcome.id
+ORDER BY call.start_time ASC;
+
+
+/********************************************************************************************/
+
+SELECT * FROM
+
+(SELECT userid, listid
+FROM user_views_table
+WHERE date='2013-05-15' AND view_type='lists') a
+
+JOIN
+
+(SELECT sourceid, destinationid
+FROM actions_table
+WHERE date='2013-05-15' AND payloadtype='lists_user' AND actiontype='delete') b
+
+ON a.userid = b.sourceid
+ON a.listid = b.destinationid;
+
+
+
+/*
+FlightPlanPointCreator fppc = new FlightPlanPointCreator();
+fppc.calculateCurrentCoordinates(5000,6000,10,20,15,30,0);
+wait10Sec();
+fppc.calculateCurrentCoordinates(5000,6000,10,20,15,30,0);
+wait10Sec();
+fppc.calculateCurrentCoordinates(5000,6000,10,20,15,30,0);
+*/
+
+
+String sql2 = "SELECT route_id, waypoint_id AS w_id, lat, lon FROM Waypoints WHERE route_id == " + routein_id + " ORDER BY w_id";
+
+                // String sql = "SELECT route_id AS r_id, MAX(waypoint_id) AS w_id, lat AS lat2, lon AS lon2 FROM Waypoints WHERE r_id == " + rid;
+
+                try (Connection conn2 = this.connect();
+
+                    PreparedStatement pstmt2  = conn2.prepareStatement(sql2)) {
+
+                    ResultSet rs2 = pstmt2.executeQuery();
+
+                    //if(rs2.getFetchSize() == 0) System.out.println("For route_id=" + routein_id + " result set is empty");
+
+                    while(rs2.next()){
+                        /*
+                        + "WHERE ((("+lat+" + ((("+current_time*1.00+"-dt*1.00)/(at-dt))*(lat2-lat))) > "+lat_in1+") AND " +
+                                "(("+lat+" + ((("+current_time*1.00+"-dt*1.00)/(at-dt))*(lat2-lat))) < "+lat_in2+") AND " +
+                                "(("+lon+" + ((("+current_time*1.00+"-dt*1.00)/(at-dt))*(lon2-lon))) > "+lon_in1+") AND " +
+                                "(("+lon+" + ((("+current_time*1.00+"-dt*1.00)/(at-dt))*(lon2-lon))) < "+lon_in2+"))"
+
+                                int total_time = arr_time - dep_time;
+
+                                double timePercentage = (double) timeDif / (double) total_time;
+
+                                latC = lat1 + (timePercentage * latDif);
+                                lonC = lon1 + (timePercentage * lonDif);
+
+                                int timeDif = current_time - dep_time;
+                         */
+
+                        double lat_e = (lat+(((current_time*1.00-dt*1.00)/(at-dt))*(rs.getDouble("lat")-lat)));
+                        double lon_e = (lon+(((current_time*1.00-dt*1.00)/(at-dt))*(rs.getDouble("lon")-lon)));
+
+                        if(lat_e>lat_in1 && lat_e<lat_in2 && lon_e>lon_in1 && lon_e<lon_in2){
+
+                            tmp.setLat2(rs.getDouble("lat"));
+                            tmp.setLon2(rs.getDouble("lon"));
+
+                            distance = (double)(tmp.calculateLength(tmp.getLat1(), tmp.getLat2(), tmp.getLon1(), tmp.getLon2()));
+                            time_dif = (double)(tmp.getArr_time() - tmp.getDep_time());
+                            tmp.setSpd(((distance/1000)/(time_dif/60))*0.539956803);
+
+                            fpList.add(tmp);
+                        }
+
+                    }
+
+                } catch (SQLException throwables) {
+
+                    throwables.printStackTrace();
+                }
+
+
+            }

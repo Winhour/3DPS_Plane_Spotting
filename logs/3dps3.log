@@ -1,0 +1,2350 @@
+
+
+Percentage: 0.7777777777777778
+Lon_c: 18.210004411111115
+Lat_c: 51.69249881111111
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":30000.0,"GAlt":30000.0,"AltT":0,"Call":"null","Lat":51.69249881111111,"Long":18.210004411111115,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":0.0,"Trak":null,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.0
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 701353.7283822441    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+[0;35mFlight case here[0m
+[0;33mbearing: 80.26343423523794 flight_distance: 555314.1279420134 flight_time: 2698[0m
+[0;33mcurrent_time: 574200.0 TOC_Time: 571200 Speed(kts): 400.0[0m
+[0;32mcurrent_distance: 617333.3338272 time_elapsed: 3000 percentage: 1.1116831046871234[0m
+[0;32mlatC: 52.09968611976176 lonC: 20.583028533922317[0m
+Kozery, gmina Grodzisk Mazowiecki, Grodzisk Mazowiecki County, Masovian Voivodeship, Poland
+Point set in Flight
+Speed: 400.0   Track: null
+
+
+Number of aircraft: 1   09/02/2022 11:27:23
+
+
+Waiting for next data pack... 
+
+Real time difference: 7s   Real time: 9570 min   ctime = 9570.083333333334 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.09968611976176, lon_c=20.583028533922317, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.583028533922317
+Lat_c: 52.09968611976176
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":30000.0,"GAlt":30000.0,"AltT":0,"Call":"null","Lat":52.09968611976176,"Long":20.583028533922317,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":400.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.083333333334
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 869824.9854998452    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 19168.474473884755   descent_distance: 68046.98367998435   time_elapsed: 307
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574205.0 time_elapsed: 307 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 19168.474473884755 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.2816946973583938[0m
+[0;32mlatC: 52.012206570756895 lonC: 20.07321136715175 altitude: 19436.497375927127[0m
+gmina Skierniewice, Skierniewice County, Łódź Voivodeship, 96-116, Poland
+Point set in Descending
+Speed: 357.32212105664246   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:27:30
+
+
+Waiting for next data pack... 
+
+Real time difference: 12s   Real time: 9570 min   ctime = 9570.166666666668 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.012206570756895, lon_c=20.07321136715175, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.07321136715175
+Lat_c: 52.012206570756895
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":19436.0,"GAlt":19436.0,"AltT":0,"Call":"null","Lat":52.012206570756895,"Long":20.07321136715175,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":357.32212105664246,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.166666666668
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 833771.1736753348    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 19797.939279842092   descent_distance: 68046.98367998435   time_elapsed: 312
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574210.0000000001 time_elapsed: 312 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 19797.939279842092 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.29094514127105314[0m
+[0;32mlatC: 52.014182925540375 lonC: 20.084729254563285 altitude: 19188.122956872223[0m
+gmina Skierniewice, Skierniewice County, Łódź Voivodeship, 96-116, Poland
+Point set in Descending
+Speed: 353.62194349157875   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:27:35
+
+
+Waiting for next data pack... 
+
+Real time difference: 17s   Real time: 9570 min   ctime = 9570.250000000002 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.014182925540375, lon_c=20.084729254563285, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.084729254563285
+Lat_c: 52.014182925540375
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":19188.0,"GAlt":19188.0,"AltT":0,"Call":"null","Lat":52.014182925540375,"Long":20.084729254563285,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":353.62194349157875,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.250000000002
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 834586.5642194208    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 20437.573145669503   descent_distance: 68046.98367998435   time_elapsed: 317
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574215.0000000001 time_elapsed: 317 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 20437.573145669503 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.30034502692705106[0m
+[0;32mlatC: 52.016191208510996 lonC: 20.096433214469354 altitude: 18935.73602700868[0m
+gmina Skierniewice, Skierniewice County, Łódź Voivodeship, 96-116, Poland
+Point set in Descending
+Speed: 349.8619892291795   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:27:40
+
+
+Waiting for next data pack... 
+
+Real time difference: 22s   Real time: 9570 min   ctime = 9570.333333333336 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.016191208510996, lon_c=20.096433214469354, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.096433214469354
+Lat_c: 52.016191208510996
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":18935.0,"GAlt":18935.0,"AltT":0,"Call":"null","Lat":52.016191208510996,"Long":20.096433214469354,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":349.8619892291795,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.333333333336
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 835415.0870387469    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 21087.376071366984   descent_distance: 68046.98367998435   time_elapsed: 322
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574220.0000000001 time_elapsed: 322 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 21087.376071366984 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.3098943543263876[0m
+[0;32mlatC: 52.018231419668744 lonC: 20.108323246869954 altitude: 18679.336586336492[0m
+gmina Skierniewice, Skierniewice County, Łódź Voivodeship, 96-116, Poland
+Point set in Descending
+Speed: 346.0422582694449   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:27:45
+
+
+Waiting for next data pack... 
+
+Real time difference: 27s   Real time: 9570 min   ctime = 9570.41666666667 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.018231419668744, lon_c=20.108323246869954, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.108323246869954
+Lat_c: 52.018231419668744
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":18679.0,"GAlt":18679.0,"AltT":0,"Call":"null","Lat":52.018231419668744,"Long":20.108323246869954,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":346.0422582694449,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.41666666667
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 836256.7401820734    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 21747.34805693453   descent_distance: 68046.98367998435   time_elapsed: 327
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574225.0000000002 time_elapsed: 327 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 21747.34805693453 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.31959312346906266[0m
+[0;32mlatC: 52.02030355901363 lonC: 20.120399351765084 altitude: 18418.924634855666[0m
+gmina Skierniewice, Skierniewice County, Łódź Voivodeship, 96-116, Poland
+Point set in Descending
+Speed: 342.16275061237496   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:27:50
+
+
+Waiting for next data pack... 
+
+Real time difference: 32s   Real time: 9570 min   ctime = 9570.500000000004 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.02030355901363, lon_c=20.120399351765084, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.120399351765084
+Lat_c: 52.02030355901363
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":18418.0,"GAlt":18418.0,"AltT":0,"Call":"null","Lat":52.02030355901363,"Long":20.120399351765084,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":342.16275061237496,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.500000000004
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 837111.5216665481    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 22417.489102372154   descent_distance: 68046.98367998435   time_elapsed: 332
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574230.0000000002 time_elapsed: 332 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 22417.489102372154 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.32944133435507644[0m
+[0;32mlatC: 52.02240762654564 lonC: 20.13266152915475 altitude: 18154.5001725662[0m
+gmina Bolimów, Skierniewice County, Łódź Voivodeship, 99-417, Poland
+Point set in Descending
+Speed: 338.22346625796945   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:27:55
+
+
+Waiting for next data pack... 
+
+Real time difference: 37s   Real time: 9570 min   ctime = 9570.583333333338 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.02240762654564, lon_c=20.13266152915475, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.13266152915475
+Lat_c: 52.02240762654564
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":18154.0,"GAlt":18154.0,"AltT":0,"Call":"null","Lat":52.02240762654564,"Long":20.13266152915475,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":338.22346625796945,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.583333333338
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 837979.4294776805    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 23097.799207679844   descent_distance: 68046.98367998435   time_elapsed: 337
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574235.0000000002 time_elapsed: 337 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 23097.799207679844 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.33943898698442876[0m
+[0;32mlatC: 52.02454362226479 lonC: 20.145109779038943 altitude: 17886.063199468088[0m
+gmina Bolimów, Skierniewice County, Łódź Voivodeship, 99-417, Poland
+Point set in Descending
+Speed: 334.2244052062285   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:00
+
+
+Waiting for next data pack... 
+
+Real time difference: 43s   Real time: 9570 min   ctime = 9570.666666666672 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.02454362226479, lon_c=20.145109779038943, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.145109779038943
+Lat_c: 52.02454362226479
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":17886.0,"GAlt":17886.0,"AltT":0,"Call":"null","Lat":52.02454362226479,"Long":20.145109779038943,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":334.2244052062285,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.666666666672
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 838860.461569311    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 23788.278372857603   descent_distance: 68046.98367998435   time_elapsed: 342
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574240.0000000002 time_elapsed: 342 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 23788.278372857603 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.34958608135711966[0m
+[0;32mlatC: 52.026711546171065 lonC: 20.15774410141767 altitude: 17613.613715561336[0m
+gmina Bolimów, Skierniewice County, Łódź Voivodeship, 99-417, Poland
+Point set in Descending
+Speed: 330.1655674571521   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:06
+
+
+Waiting for next data pack... 
+
+Real time difference: 48s   Real time: 9570 min   ctime = 9570.750000000005 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.026711546171065, lon_c=20.15774410141767, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.15774410141767
+Lat_c: 52.026711546171065
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":17613.0,"GAlt":17613.0,"AltT":0,"Call":"null","Lat":52.026711546171065,"Long":20.15774410141767,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":330.1655674571521,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.750000000005
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 839754.615863584    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 24488.926597905433   descent_distance: 68046.98367998435   time_elapsed: 347
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574245.0000000003 time_elapsed: 347 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 24488.926597905433 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.3598826174731492[0m
+[0;32mlatC: 52.028911398264476 lonC: 20.170564496290933 altitude: 17337.151720845945[0m
+gmina Bolimów, Skierniewice County, Łódź Voivodeship, 99-417, Poland
+Point set in Descending
+Speed: 326.0469530107403   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:11
+
+
+Waiting for next data pack... 
+
+Real time difference: 53s   Real time: 9570 min   ctime = 9570.83333333334 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.028911398264476, lon_c=20.170564496290933, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.170564496290933
+Lat_c: 52.028911398264476
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":17337.0,"GAlt":17337.0,"AltT":0,"Call":"null","Lat":52.028911398264476,"Long":20.170564496290933,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":326.0469530107403,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.83333333334
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 840661.8902509181    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 25199.743882823335   descent_distance: 68046.98367998435   time_elapsed: 352
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574250.0000000003 time_elapsed: 352 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 25199.743882823335 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.37032859533251733[0m
+[0;32mlatC: 52.03114317854502 lonC: 20.183570963658724 altitude: 17056.67721532191[0m
+gmina Bolimów, Skierniewice County, Łódź Voivodeship, 99-417, Poland
+Point set in Descending
+Speed: 321.8685618669931   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:16
+
+
+Waiting for next data pack... 
+
+Real time difference: 58s   Real time: 9570 min   ctime = 9570.916666666673 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.03114317854502, lon_c=20.183570963658724, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.183570963658724
+Lat_c: 52.03114317854502
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":17056.0,"GAlt":17056.0,"AltT":0,"Call":"null","Lat":52.03114317854502,"Long":20.183570963658724,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":321.8685618669931,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9570.916666666673
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 841582.2825899753    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 25920.730227611308   descent_distance: 68046.98367998435   time_elapsed: 357
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574255.0000000003 time_elapsed: 357 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 25920.730227611308 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.3809240149352241[0m
+[0;32mlatC: 52.033406887012696 lonC: 20.196763503521048 altitude: 16772.190198989232[0m
+gmina Bolimów, Skierniewice County, Łódź Voivodeship, 99-417, Poland
+Point set in Descending
+Speed: 317.6303940259104   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:21
+
+
+Waiting for next data pack... 
+
+Real time difference: 63s   Real time: 9571 min   ctime = 9571.000000000007 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.033406887012696, lon_c=20.196763503521048, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.196763503521048
+Lat_c: 52.033406887012696
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":16772.0,"GAlt":16772.0,"AltT":0,"Call":"null","Lat":52.033406887012696,"Long":20.196763503521048,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":317.6303940259104,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.000000000007
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 842515.790707632    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 26651.885632269346   descent_distance: 68046.98367998435   time_elapsed: 362
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574260.0000000005 time_elapsed: 362 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 26651.885632269346 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.3916688762812694[0m
+[0;32mlatC: 52.0357025236675 lonC: 20.210142115877904 altitude: 16483.690671847915[0m
+gmina Bolimów, Skierniewice County, Łódź Voivodeship, 99-417, Poland
+Point set in Descending
+Speed: 313.3324494874922   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:26
+
+
+Waiting for next data pack... 
+
+Real time difference: 68s   Real time: 9571 min   ctime = 9571.083333333341 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.0357025236675, lon_c=20.210142115877904, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.210142115877904
+Lat_c: 52.0357025236675
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":16483.0,"GAlt":16483.0,"AltT":0,"Call":"null","Lat":52.0357025236675,"Long":20.210142115877904,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":313.3324494874922,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.083333333341
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 843462.4123989478    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 27393.210096797455   descent_distance: 68046.98367998435   time_elapsed: 367
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574265.0000000005 time_elapsed: 367 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 27393.210096797455 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.4025631793706533[0m
+[0;32mlatC: 52.038030088509444 lonC: 20.223706800729293 altitude: 16191.178633897962[0m
+Bartniki, gmina Puszcza Mariańska, Żyrardów County, Masovian Voivodeship, 96-332, Poland
+Point set in Descending
+Speed: 308.9747282517387   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:31
+
+
+Waiting for next data pack... 
+
+Real time difference: 73s   Real time: 9571 min   ctime = 9571.166666666675 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.038030088509444, lon_c=20.223706800729293, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.223706800729293
+Lat_c: 52.038030088509444
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":16191.0,"GAlt":16191.0,"AltT":0,"Call":"null","Lat":52.038030088509444,"Long":20.223706800729293,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":308.9747282517387,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.166666666675
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 844422.1454271359    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 28144.70362119564   descent_distance: 68046.98367998435   time_elapsed: 372
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574270.0000000005 time_elapsed: 372 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 28144.70362119564 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.41360692420337586[0m
+[0;32mlatC: 52.04038958153852 lonC: 20.23745755807521 altitude: 15894.654085139358[0m
+Bartniki, gmina Puszcza Mariańska, Żyrardów County, Masovian Voivodeship, 96-332, Poland
+Point set in Descending
+Speed: 304.55723031864966   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:36
+
+
+Waiting for next data pack... 
+
+Real time difference: 78s   Real time: 9571 min   ctime = 9571.25000000001 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.04038958153852, lon_c=20.23745755807521, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.23745755807521
+Lat_c: 52.04038958153852
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":15894.0,"GAlt":15894.0,"AltT":0,"Call":"null","Lat":52.04038958153852,"Long":20.23745755807521,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":304.55723031864966,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.25000000001
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 845394.9875235282    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 28906.366205463888   descent_distance: 68046.98367998435   time_elapsed: 377
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574275.0000000006 time_elapsed: 377 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 28906.366205463888 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.4248001107794369[0m
+[0;32mlatC: 52.04278100275472 lonC: 20.251394387915663 altitude: 15594.117025572119[0m
+Bartniki, gmina Puszcza Mariańska, Żyrardów County, Masovian Voivodeship, 96-332, Poland
+Point set in Descending
+Speed: 300.07995568822525   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:41
+
+
+Waiting for next data pack... 
+
+Real time difference: 83s   Real time: 9571 min   ctime = 9571.333333333343 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.04278100275472, lon_c=20.251394387915663, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.251394387915663
+Lat_c: 52.04278100275472
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":15594.0,"GAlt":15594.0,"AltT":0,"Call":"null","Lat":52.04278100275472,"Long":20.251394387915663,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":300.07995568822525,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.333333333343
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 846380.9363875475    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 29678.19784960221   descent_distance: 68046.98367998435   time_elapsed: 382
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574280.0000000006 time_elapsed: 382 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 29678.19784960221 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.43614273909883666[0m
+[0;32mlatC: 52.04520435215806 lonC: 20.26551729025065 altitude: 15289.567455196237[0m
+Bartniki, gmina Puszcza Mariańska, Żyrardów County, Masovian Voivodeship, 96-332, Poland
+Point set in Descending
+Speed: 295.54290436046534   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:46
+
+
+Waiting for next data pack... 
+
+Real time difference: 88s   Real time: 9571 min   ctime = 9571.416666666677 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.04520435215806, lon_c=20.26551729025065, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.26551729025065
+Lat_c: 52.04520435215806
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":15289.0,"GAlt":15289.0,"AltT":0,"Call":"null","Lat":52.04520435215806,"Long":20.26551729025065,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":295.54290436046534,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.416666666677
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 847379.9896866723    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 30460.198553610604   descent_distance: 68046.98367998435   time_elapsed: 387
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574285.0000000006 time_elapsed: 387 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 30460.198553610604 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.44763480916157505[0m
+[0;32mlatC: 52.04765962974853 lonC: 20.279826265080164 altitude: 14981.00537401171[0m
+Popielarnia, gmina Wiskitki, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 290.94607633537   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:51
+
+
+Waiting for next data pack... 
+
+Real time difference: 93s   Real time: 9571 min   ctime = 9571.500000000011 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.04765962974853, lon_c=20.279826265080164, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.279826265080164
+Lat_c: 52.04765962974853
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":14981.0,"GAlt":14981.0,"AltT":0,"Call":"null","Lat":52.04765962974853,"Long":20.279826265080164,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":290.94607633537,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.500000000011
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 848392.1450564044    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 31252.368317489065   descent_distance: 68046.98367998435   time_elapsed: 392
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574290.0000000007 time_elapsed: 392 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 31252.368317489065 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.459276320967652[0m
+[0;32mlatC: 52.05014683552613 lonC: 20.294321312404215 altitude: 14668.430782018542[0m
+Popielarnia, gmina Wiskitki, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 286.2894716129392   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:28:56
+
+
+Waiting for next data pack... 
+
+Real time difference: 98s   Real time: 9571 min   ctime = 9571.583333333345 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.05014683552613, lon_c=20.294321312404215, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.294321312404215
+Lat_c: 52.05014683552613
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":14668.0,"GAlt":14668.0,"AltT":0,"Call":"null","Lat":52.05014683552613,"Long":20.294321312404215,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":286.2894716129392,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.583333333345
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 849417.4001002372    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 32054.707141237595   descent_distance: 68046.98367998435   time_elapsed: 397
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574295.0000000007 time_elapsed: 397 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 32054.707141237595 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.4710672745170675[0m
+[0;32mlatC: 52.05266596949086 lonC: 20.309002432222794 altitude: 14351.84367921674[0m
+Popielarnia, gmina Wiskitki, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 281.573090193173   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:01
+
+
+Waiting for next data pack... 
+
+Real time difference: 103s   Real time: 9571 min   ctime = 9571.666666666679 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.05266596949086, lon_c=20.309002432222794, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.309002432222794
+Lat_c: 52.05266596949086
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":14351.0,"GAlt":14351.0,"AltT":0,"Call":"null","Lat":52.05266596949086,"Long":20.309002432222794,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":281.573090193173,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.666666666679
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 850455.7523896194    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 32867.215024856196   descent_distance: 68046.98367998435   time_elapsed: 402
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574300.0000000007 time_elapsed: 402 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 32867.215024856196 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.48300766980982157[0m
+[0;32mlatC: 52.05521703164273 lonC: 20.323869624535906 altitude: 14031.24406560629[0m
+Popielarnia, gmina Wiskitki, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 276.79693207607136   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:06
+
+
+Waiting for next data pack... 
+
+Real time difference: 109s   Real time: 9571 min   ctime = 9571.750000000013 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.05521703164273, lon_c=20.323869624535906, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.323869624535906
+Lat_c: 52.05521703164273
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":14031.0,"GAlt":14031.0,"AltT":0,"Call":"null","Lat":52.05521703164273,"Long":20.323869624535906,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":276.79693207607136,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.750000000013
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 851507.1994639236    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 33689.89196834487   descent_distance: 68046.98367998435   time_elapsed: 407
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574305.0000000008 time_elapsed: 407 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 33689.89196834487 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.4950975068459143[0m
+[0;32mlatC: 52.05780002198173 lonC: 20.33892288934355 altitude: 13706.631941187203[0m
+Antoniew, gmina Wiskitki, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 271.9609972616343   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:12
+
+
+Waiting for next data pack... 
+
+Real time difference: 114s   Real time: 9571 min   ctime = 9571.833333333347 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.05780002198173, lon_c=20.33892288934355, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.33892288934355
+Lat_c: 52.05780002198173
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":13706.0,"GAlt":13706.0,"AltT":0,"Call":"null","Lat":52.05780002198173,"Long":20.33892288934355,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":271.9609972616343,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.833333333347
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 852571.7388304095    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 34522.73797170361   descent_distance: 68046.98367998435   time_elapsed: 412
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574310.0000000008 time_elapsed: 412 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 34522.73797170361 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.5073367856253456[0m
+[0;32mlatC: 52.060414940507854 lonC: 20.354162226645727 altitude: 13378.007305959472[0m
+Tomaszew, gmina Wiskitki, Żyrardów County, Masovian Voivodeship, 96-315, Poland
+Point set in Descending
+Speed: 267.0652857498618   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:17
+
+
+Waiting for next data pack... 
+
+Real time difference: 119s   Real time: 9571 min   ctime = 9571.91666666668 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.060414940507854, lon_c=20.354162226645727, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.354162226645727
+Lat_c: 52.060414940507854
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":13378.0,"GAlt":13378.0,"AltT":0,"Call":"null","Lat":52.060414940507854,"Long":20.354162226645727,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":267.0652857498618,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9571.91666666668
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 853649.3679641904    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 35365.75303493242   descent_distance: 68046.98367998435   time_elapsed: 417
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574315.0000000008 time_elapsed: 417 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 35365.75303493242 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.5197255061481155[0m
+[0;32mlatC: 52.063061787221116 lonC: 20.369587636442436 altitude: 13045.370159923099[0m
+Sokule, gmina Wiskitki, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 262.1097975407538   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:22
+
+
+Waiting for next data pack... 
+
+Real time difference: 124s   Real time: 9572 min   ctime = 9572.000000000015 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.063061787221116, lon_c=20.369587636442436, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.369587636442436
+Lat_c: 52.063061787221116
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":13045.0,"GAlt":13045.0,"AltT":0,"Call":"null","Lat":52.063061787221116,"Long":20.369587636442436,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":262.1097975407538,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.000000000015
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 854740.0843081966    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 36218.9371580313   descent_distance: 68046.98367998435   time_elapsed: 422
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574320.0000000009 time_elapsed: 422 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 36218.9371580313 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.532263668414224[0m
+[0;32mlatC: 52.06574056212151 lonC: 20.385199118733677 altitude: 12708.720503078086[0m
+Działki, gmina Wiskitki, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 257.0945326343104   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:27
+
+
+Waiting for next data pack... 
+
+Real time difference: 129s   Real time: 9572 min   ctime = 9572.083333333348 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.06574056212151, lon_c=20.385199118733677, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.385199118733677
+Lat_c: 52.06574056212151
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":12708.0,"GAlt":12708.0,"AltT":0,"Call":"null","Lat":52.06574056212151,"Long":20.385199118733677,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":257.0945326343104,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.083333333348
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 855843.8852731397    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 37082.29034100026   descent_distance: 68046.98367998435   time_elapsed: 427
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574325.0000000009 time_elapsed: 427 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 37082.29034100026 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.5449512724236713[0m
+[0;32mlatC: 52.06845126520904 lonC: 20.40099667351945 altitude: 12368.058335424426[0m
+Działki, gmina Wiskitki, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 252.0194910305315   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:32
+
+
+Waiting for next data pack... 
+
+Real time difference: 134s   Real time: 9572 min   ctime = 9572.166666666682 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.06845126520904, lon_c=20.40099667351945, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.40099667351945
+Lat_c: 52.06845126520904
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":12368.0,"GAlt":12368.0,"AltT":0,"Call":"null","Lat":52.06845126520904,"Long":20.40099667351945,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":252.0194910305315,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.166666666682
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 856960.7682374774    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 37955.81258383928   descent_distance: 68046.98367998435   time_elapsed: 432
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574330.0000000009 time_elapsed: 432 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 37955.81258383928 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.5577883181764569[0m
+[0;32mlatC: 52.0711938964837 lonC: 20.416980300799757 altitude: 12023.383656962133[0m
+Stare Kozłowice, gmina Wiskitki, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 246.88467272941725   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:37
+
+
+Waiting for next data pack... 
+
+Real time difference: 139s   Real time: 9572 min   ctime = 9572.250000000016 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.0711938964837, lon_c=20.416980300799757, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.416980300799757
+Lat_c: 52.0711938964837
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":12023.0,"GAlt":12023.0,"AltT":0,"Call":"null","Lat":52.0711938964837,"Long":20.416980300799757,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":246.88467272941725,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.250000000016
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 858090.7305473742    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 38839.50388654837   descent_distance: 68046.98367998435   time_elapsed: 437
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574335.0000000009 time_elapsed: 437 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 38839.50388654837 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.5707748056725812[0m
+[0;32mlatC: 52.07396845594549 lonC: 20.433150000574592 altitude: 11674.696467691194[0m
+Żyrardów, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 241.69007773096752   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:42
+
+
+Waiting for next data pack... 
+
+Real time difference: 144s   Real time: 9572 min   ctime = 9572.33333333335 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.07396845594549, lon_c=20.433150000574592, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.433150000574592
+Lat_c: 52.07396845594549
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":11674.0,"GAlt":11674.0,"AltT":0,"Call":"null","Lat":52.07396845594549,"Long":20.433150000574592,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":241.69007773096752,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.33333333335
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 859233.7695166675    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 39733.36424912753   descent_distance: 68046.98367998435   time_elapsed: 442
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574340.000000001 time_elapsed: 442 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 39733.36424912753 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.5839107349120441[0m
+[0;32mlatC: 52.076774943594415 lonC: 20.449505772843963 altitude: 11321.996767611614[0m
+Żyrardów, Żyrardów County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 236.43570603518233   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:47
+
+
+Waiting for next data pack... 
+
+Real time difference: 149s   Real time: 9572 min   ctime = 9572.416666666684 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.076774943594415, lon_c=20.449505772843963, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.449505772843963
+Lat_c: 52.076774943594415
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":11321.0,"GAlt":11321.0,"AltT":0,"Call":"null","Lat":52.076774943594415,"Long":20.449505772843963,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":236.43570603518233,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.416666666684
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 860389.8824268269    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 40637.39367157677   descent_distance: 68046.98367998435   time_elapsed: 447
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574345.000000001 time_elapsed: 447 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 40637.39367157677 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.5971961058948457[0m
+[0;32mlatC: 52.07961335943047 lonC: 20.466047617607863 altitude: 10965.284556723393[0m
+Henryszew, gmina Jaktorów, Grodzisk Mazowiecki County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 231.1215576420617   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:52
+
+
+Waiting for next data pack... 
+
+Real time difference: 154s   Real time: 9572 min   ctime = 9572.500000000018 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.07961335943047, lon_c=20.466047617607863, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.466047617607863
+Lat_c: 52.07961335943047
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":10965.0,"GAlt":10965.0,"AltT":0,"Call":"null","Lat":52.07961335943047,"Long":20.466047617607863,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":231.1215576420617,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.500000000018
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 861559.0665269167    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 41551.59215389607   descent_distance: 68046.98367998435   time_elapsed: 452
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574350.000000001 time_elapsed: 452 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 41551.59215389607 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.6106309186209857[0m
+[0;32mlatC: 52.08248370345366 lonC: 20.4827755348663 altitude: 10604.559835026534[0m
+Stare Budy, gmina Jaktorów, Grodzisk Mazowiecki County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 225.7476325516057   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:29:57
+
+
+Waiting for next data pack... 
+
+Real time difference: 159s   Real time: 9572 min   ctime = 9572.583333333352 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.08248370345366, lon_c=20.4827755348663, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.4827755348663
+Lat_c: 52.08248370345366
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":10604.0,"GAlt":10604.0,"AltT":0,"Call":"null","Lat":52.08248370345366,"Long":20.4827755348663,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":225.7476325516057,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.583333333352
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 862741.3190335603    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 42475.95969608544   descent_distance: 68046.98367998435   time_elapsed: 457
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574355.0000000012 time_elapsed: 457 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 42475.95969608544 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.6242151730904645[0m
+[0;32mlatC: 52.08538597566398 lonC: 20.499689524619264 altitude: 10239.822602521028[0m
+Budy Zosine, gmina Jaktorów, Grodzisk Mazowiecki County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 220.3139307638142   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:02
+
+
+Waiting for next data pack... 
+
+Real time difference: 165s   Real time: 9572 min   ctime = 9572.666666666686 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.08538597566398, lon_c=20.499689524619264, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.499689524619264
+Lat_c: 52.08538597566398
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":10239.0,"GAlt":10239.0,"AltT":0,"Call":"null","Lat":52.08538597566398,"Long":20.499689524619264,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":220.3139307638142,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.666666666686
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 863936.6371308952    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 43410.496298144884   descent_distance: 68046.98367998435   time_elapsed: 462
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574360.0000000012 time_elapsed: 462 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 43410.496298144884 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.6379488693032818[0m
+[0;32mlatC: 52.08832017606143 lonC: 20.51678958686676 altitude: 9871.072859206884[0m
+Budy Zosine, gmina Jaktorów, Grodzisk Mazowiecki County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 214.8204522786873   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:08
+
+
+Waiting for next data pack... 
+
+Real time difference: 170s   Real time: 9572 min   ctime = 9572.75000000002 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.08832017606143, lon_c=20.51678958686676, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.51678958686676
+Lat_c: 52.08832017606143
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":9871.0,"GAlt":9871.0,"AltT":0,"Call":"null","Lat":52.08832017606143,"Long":20.51678958686676,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":214.8204522786873,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.75000000002
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 865145.0179705395    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 44355.2019600744   descent_distance: 68046.98367998435   time_elapsed: 467
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574365.0000000012 time_elapsed: 467 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 44355.2019600744 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.6518320072594378[0m
+[0;32mlatC: 52.09128630464602 lonC: 20.53407572160879 altitude: 9498.310605084096[0m
+Jaktorów, gmina Jaktorów, Grodzisk Mazowiecki County, Masovian Voivodeship, 96-313, Poland
+Point set in Descending
+Speed: 209.2671970962249   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:13
+
+
+Waiting for next data pack... 
+
+Real time difference: 175s   Real time: 9572 min   ctime = 9572.833333333354 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.09128630464602, lon_c=20.53407572160879, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.53407572160879
+Lat_c: 52.09128630464602
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":9498.0,"GAlt":9498.0,"AltT":0,"Call":"null","Lat":52.09128630464602,"Long":20.53407572160879,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":209.2671970962249,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.833333333354
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 866366.4586715491    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 45310.07668187398   descent_distance: 68046.98367998435   time_elapsed: 472
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574370.0000000013 time_elapsed: 472 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 45310.07668187398 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.6658645869589322[0m
+[0;32mlatC: 52.094284361417735 lonC: 20.551547928845352 altitude: 9121.53584015267[0m
+Chylice Kolonia, gmina Jaktorów, Grodzisk Mazowiecki County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 203.6541652164271   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:18
+
+
+Waiting for next data pack... 
+
+Real time difference: 180s   Real time: 9573 min   ctime = 9572.916666666688 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.094284361417735, lon_c=20.551547928845352, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.551547928845352
+Lat_c: 52.094284361417735
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":9121.0,"GAlt":9121.0,"AltT":0,"Call":"null","Lat":52.094284361417735,"Long":20.551547928845352,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":203.6541652164271,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9572.916666666688
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 867600.9563203771    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 46275.12046354364   descent_distance: 68046.98367998435   time_elapsed: 477
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574375.0000000013 time_elapsed: 477 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 46275.12046354364 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.6800466084017655[0m
+[0;32mlatC: 52.097314346376585 lonC: 20.569206208576446 altitude: 8740.748564412597[0m
+Kozery Nowe, gmina Grodzisk Mazowiecki, Grodzisk Mazowiecki County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 197.98135663929384   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:23
+
+
+Waiting for next data pack... 
+
+Real time difference: 185s   Real time: 9573 min   ctime = 9573.000000000022 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.097314346376585, lon_c=20.569206208576446, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.569206208576446
+Lat_c: 52.097314346376585
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":8740.0,"GAlt":8740.0,"AltT":0,"Call":"null","Lat":52.097314346376585,"Long":20.569206208576446,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":197.98135663929384,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.000000000022
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 868848.5079708337    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 47250.33330508335   descent_distance: 68046.98367998435   time_elapsed: 482
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574380.0000000013 time_elapsed: 482 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 47250.33330508335 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.6943780715879371[0m
+[0;32mlatC: 52.10037625952256 lonC: 20.587050560802073 altitude: 8355.94877786389[0m
+Kozery, gmina Grodzisk Mazowiecki, Grodzisk Mazowiecki County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 192.2487713648252   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:28
+
+
+Waiting for next data pack... 
+
+Real time difference: 190s   Real time: 9573 min   ctime = 9573.083333333356 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.10037625952256, lon_c=20.587050560802073, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.587050560802073
+Lat_c: 52.10037625952256
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":8355.0,"GAlt":8355.0,"AltT":0,"Call":"null","Lat":52.10037625952256,"Long":20.587050560802073,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":192.2487713648252,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.083333333356
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 870109.1106440449    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 48235.71520649316   descent_distance: 68046.98367998435   time_elapsed: 487
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574385.0000000014 time_elapsed: 487 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 48235.71520649316 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.7088589765174476[0m
+[0;32mlatC: 52.10347010085568 lonC: 20.60508098552223 altitude: 7967.136480506533[0m
+Grodzisk Mazowiecki, gmina Grodzisk Mazowiecki, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-827, Poland
+Point set in Descending
+Speed: 186.45640939302098   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:33
+
+
+Waiting for next data pack... 
+
+Real time difference: 195s   Real time: 9573 min   ctime = 9573.16666666669 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.10347010085568, lon_c=20.60508098552223, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.60508098552223
+Lat_c: 52.10347010085568
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":7967.0,"GAlt":7967.0,"AltT":0,"Call":"null","Lat":52.10347010085568,"Long":20.60508098552223,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":186.45640939302098,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.16666666669
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 871382.7613284108    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 49231.266167773014   descent_distance: 68046.98367998435   time_elapsed: 492
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574390.0000000014 time_elapsed: 492 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 49231.266167773014 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.7234893231902964[0m
+[0;32mlatC: 52.106595870375926 lonC: 20.62329748273692 altitude: 7574.311672340543[0m
+Grodzisk Mazowiecki, gmina Grodzisk Mazowiecki, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-827, Poland
+Point set in Descending
+Speed: 180.60427072388146   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:38
+
+
+Waiting for next data pack... 
+
+Real time difference: 200s   Real time: 9573 min   ctime = 9573.250000000024 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.106595870375926, lon_c=20.62329748273692, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.62329748273692
+Lat_c: 52.106595870375926
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":7574.0,"GAlt":7574.0,"AltT":0,"Call":"null","Lat":52.106595870375926,"Long":20.62329748273692,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":180.60427072388146,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.250000000024
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 872669.4569795636    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 50236.98618892295   descent_distance: 68046.98367998435   time_elapsed: 497
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574395.0000000014 time_elapsed: 497 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 50236.98618892295 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.7382691116064839[0m
+[0;32mlatC: 52.1097535680833 lonC: 20.64170005244614 altitude: 7177.4743533659075[0m
+Grodzisk Mazowiecki, gmina Grodzisk Mazowiecki, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-827, Poland
+Point set in Descending
+Speed: 174.69235535740643   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:43
+
+
+Waiting for next data pack... 
+
+Real time difference: 205s   Real time: 9573 min   ctime = 9573.333333333358 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.1097535680833, lon_c=20.64170005244614, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.64170005244614
+Lat_c: 52.1097535680833
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":7177.0,"GAlt":7177.0,"AltT":0,"Call":"null","Lat":52.1097535680833,"Long":20.64170005244614,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":174.69235535740643,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.333333333358
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 873969.1945203238    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 51252.87526994295   descent_distance: 68046.98367998435   time_elapsed: 502
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574400.0000000014 time_elapsed: 502 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 51252.87526994295 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.75319834176601[0m
+[0;32mlatC: 52.11294319397781 lonC: 20.660288694649896 altitude: 6776.624523582633[0m
+Grodzisk Mazowiecki, gmina Grodzisk Mazowiecki, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-827, Poland
+Point set in Descending
+Speed: 168.720663293596   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:48
+
+
+Waiting for next data pack... 
+
+Real time difference: 210s   Real time: 9573 min   ctime = 9573.416666666692 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.11294319397781, lon_c=20.660288694649896, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.660288694649896
+Lat_c: 52.11294319397781
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":6776.0,"GAlt":6776.0,"AltT":0,"Call":"null","Lat":52.11294319397781,"Long":20.660288694649896,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":168.720663293596,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.416666666692
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 875281.970840659    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 52278.93341083303   descent_distance: 68046.98367998435   time_elapsed: 507
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574405.0000000015 time_elapsed: 507 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 52278.93341083303 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.7682770136688747[0m
+[0;32mlatC: 52.116164748059454 lonC: 20.67906340934818 altitude: 6371.762182990715[0m
+Milanówek, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-822, Poland
+Point set in Descending
+Speed: 162.68919453245013   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:53
+
+
+Waiting for next data pack... 
+
+Real time difference: 216s   Real time: 9573 min   ctime = 9573.500000000025 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.116164748059454, lon_c=20.67906340934818, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.67906340934818
+Lat_c: 52.116164748059454
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":6371.0,"GAlt":6371.0,"AltT":0,"Call":"null","Lat":52.116164748059454,"Long":20.67906340934818,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":162.68919453245013,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.500000000025
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 876607.7827976387    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 53315.16061159317   descent_distance: 68046.98367998435   time_elapsed: 512
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574410.0000000015 time_elapsed: 512 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 53315.16061159317 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.783505127315078[0m
+[0;32mlatC: 52.11941823032823 lonC: 20.698024196541 altitude: 5962.887331590155[0m
+Milanówek, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-822, Poland
+Point set in Descending
+Speed: 156.59794907396878   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:30:59
+
+
+Waiting for next data pack... 
+
+Real time difference: 221s   Real time: 9573 min   ctime = 9573.58333333336 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.11941823032823, lon_c=20.698024196541, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.698024196541
+Lat_c: 52.11941823032823
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":5962.0,"GAlt":5962.0,"AltT":0,"Call":"null","Lat":52.11941823032823,"Long":20.698024196541,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":156.59794907396878,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.58333333336
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 877946.6272153921    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 54361.55687222339   descent_distance: 68046.98367998435   time_elapsed: 517
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574415.0000000015 time_elapsed: 517 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 54361.55687222339 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.7988826827046199[0m
+[0;32mlatC: 52.12270364078414 lonC: 20.71717105622835 altitude: 5549.999969380955[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Descending
+Speed: 150.44692691815203   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:04
+
+
+Waiting for next data pack... 
+
+Real time difference: 226s   Real time: 9573 min   ctime = 9573.666666666693 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12270364078414, lon_c=20.71717105622835, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.71717105622835
+Lat_c: 52.12270364078414
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":5549.0,"GAlt":5549.0,"AltT":0,"Call":"null","Lat":52.12270364078414,"Long":20.71717105622835,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":150.44692691815203,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.666666666693
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 879298.5008850616    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 55418.12219272368   descent_distance: 68046.98367998435   time_elapsed: 522
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574420.0000000016 time_elapsed: 522 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 55418.12219272368 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.8144096798375006[0m
+[0;32mlatC: 52.126020979427174 lonC: 20.736503988410234 altitude: 5133.1000963631095[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Descending
+Speed: 144.23612806499978   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:09
+
+
+Waiting for next data pack... 
+
+Real time difference: 231s   Real time: 9573 min   ctime = 9573.750000000027 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.126020979427174, lon_c=20.736503988410234, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.736503988410234
+Lat_c: 52.126020979427174
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":5133.0,"GAlt":5133.0,"AltT":0,"Call":"null","Lat":52.126020979427174,"Long":20.736503988410234,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":144.23612806499978,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.750000000027
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 880663.40056476    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 56484.856573094024   descent_distance: 68046.98367998435   time_elapsed: 527
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574425.0000000016 time_elapsed: 527 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 56484.856573094024 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.8300861187137195[0m
+[0;32mlatC: 52.129370246257345 lonC: 20.756022993086646 altitude: 4712.187712536631[0m
+Otrębusy, gmina Brwinów, Pruszków County, Masovian Voivodeship, 05-805, Poland
+Point set in Descending
+Speed: 137.96555251451218   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:14
+
+
+Waiting for next data pack... 
+
+Real time difference: 236s   Real time: 9573 min   ctime = 9573.833333333361 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.129370246257345, lon_c=20.756022993086646, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.756022993086646
+Lat_c: 52.129370246257345
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":4712.0,"GAlt":4712.0,"AltT":0,"Call":"null","Lat":52.129370246257345,"Long":20.756022993086646,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":137.96555251451218,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.833333333361
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 882041.3229795232    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 57561.760013334446   descent_distance: 68046.98367998435   time_elapsed: 532
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574430.0000000016 time_elapsed: 532 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 57561.760013334446 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.8459119993332772[0m
+[0;32mlatC: 52.13275144127465 lonC: 20.775728070257593 altitude: 4287.262817901507[0m
+Kanie, gmina Brwinów, Pruszków County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 131.6352002666891   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:19
+
+
+Waiting for next data pack... 
+
+Real time difference: 241s   Real time: 9574 min   ctime = 9573.916666666695 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.13275144127465, lon_c=20.775728070257593, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.775728070257593
+Lat_c: 52.13275144127465
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":4287.0,"GAlt":4287.0,"AltT":0,"Call":"null","Lat":52.13275144127465,"Long":20.775728070257593,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":131.6352002666891,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9573.916666666695
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 883432.2648212671    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 58648.83251344494   descent_distance: 68046.98367998435   time_elapsed: 537
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574435.0000000017 time_elapsed: 537 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 58648.83251344494 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.8618873216961735[0m
+[0;32mlatC: 52.13616456447909 lonC: 20.795619219923072 altitude: 3858.32541245774[0m
+Nowa Wieś, gmina Michałowice, Pruszków County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 125.24507132153059   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:24
+
+
+Waiting for next data pack... 
+
+Real time difference: 246s   Real time: 9574 min   ctime = 9574.00000000003 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.13616456447909, lon_c=20.795619219923072, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.795619219923072
+Lat_c: 52.13616456447909
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":3858.0,"GAlt":3858.0,"AltT":0,"Call":"null","Lat":52.13616456447909,"Long":20.795619219923072,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":125.24507132153059,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.00000000003
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 884836.2227487386    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 59746.07407342551   descent_distance: 68046.98367998435   time_elapsed: 542
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574440.0000000017 time_elapsed: 542 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 59746.07407342551 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.8780120858024085[0m
+[0;32mlatC: 52.139609615870654 lonC: 20.815696442083084 altitude: 3425.3754962053313[0m
+Komorów, gmina Michałowice, Pruszków County, Masovian Voivodeship, 05-806, Poland
+Point set in Descending
+Speed: 118.79516567903659   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:29
+
+
+Waiting for next data pack... 
+
+Real time difference: 251s   Real time: 9574 min   ctime = 9574.083333333363 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.139609615870654, lon_c=20.815696442083084, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.815696442083084
+Lat_c: 52.139609615870654
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":3425.0,"GAlt":3425.0,"AltT":0,"Call":"null","Lat":52.139609615870654,"Long":20.815696442083084,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":118.79516567903659,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.083333333363
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 886253.1933874706    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 60853.48469327614   descent_distance: 68046.98367998435   time_elapsed: 547
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574445.0000000017 time_elapsed: 547 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 60853.48469327614 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.894286291651982[0m
+[0;32mlatC: 52.143086595449354 lonC: 20.835959736737625 altitude: 2988.4130691442824[0m
+Pęcice Małe, gmina Michałowice, Pruszków County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 112.28548333920719   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:34
+
+
+Waiting for next data pack... 
+
+Real time difference: 256s   Real time: 9574 min   ctime = 9574.166666666697 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.143086595449354, lon_c=20.835959736737625, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.835959736737625
+Lat_c: 52.143086595449354
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":3000.0,"GAlt":3000.0,"AltT":0,"Call":"null","Lat":52.143086595449354,"Long":20.835959736737625,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":112.28548333920719,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.166666666697
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 887683.1733297345    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 61971.06437299685   descent_distance: 68046.98367998435   time_elapsed: 552
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574450.0000000019 time_elapsed: 552 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 61971.06437299685 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.9107099392448942[0m
+[0;32mlatC: 52.14659550321519 lonC: 20.8564091038867 altitude: 2547.4381312745913[0m
+Pęcice, gmina Michałowice, Pruszków County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 105.71602430204233   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:39
+
+
+Waiting for next data pack... 
+
+Real time difference: 261s   Real time: 9574 min   ctime = 9574.250000000031 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.14659550321519, lon_c=20.8564091038867, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.8564091038867
+Lat_c: 52.14659550321519
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":3000.0,"GAlt":3000.0,"AltT":0,"Call":"null","Lat":52.14659550321519,"Long":20.8564091038867,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":105.71602430204233,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.250000000031
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 889126.1591344926    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 63098.813112587624   descent_distance: 68046.98367998435   time_elapsed: 557
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574455.0000000019 time_elapsed: 557 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 63098.813112587624 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.9272830285811449[0m
+[0;32mlatC: 52.15013633916816 lonC: 20.877044543530307 altitude: 2102.4506825962603[0m
+Wypędy, gmina Raszyn, Pruszków County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 99.08678856754206   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:44
+
+
+Waiting for next data pack... 
+
+Real time difference: 267s   Real time: 9574 min   ctime = 9574.333333333365 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.15013633916816, lon_c=20.877044543530307, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.877044543530307
+Lat_c: 52.15013633916816
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":3000.0,"GAlt":3000.0,"AltT":0,"Call":"null","Lat":52.15013633916816,"Long":20.877044543530307,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":99.08678856754206,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.333333333365
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 890582.1473273507    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 64236.73091204847   descent_distance: 68046.98367998435   time_elapsed: 562
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574460.0000000019 time_elapsed: 562 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 64236.73091204847 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.9440055596607342[0m
+[0;32mlatC: 52.15370910330825 lonC: 20.897866055668448 altitude: 1653.450723109287[0m
+Puchały, gmina Raszyn, Pruszków County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 92.39777613570632   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:50
+
+
+Waiting for next data pack... 
+
+Real time difference: 272s   Real time: 9574 min   ctime = 9574.416666666699 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.15370910330825, lon_c=20.897866055668448, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.897866055668448
+Lat_c: 52.15370910330825
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":3000.0,"GAlt":3000.0,"AltT":0,"Call":"null","Lat":52.15370910330825,"Long":20.897866055668448,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":92.39777613570632,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.416666666699
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 892051.1344005087    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 65384.817771379385   descent_distance: 68046.98367998435   time_elapsed: 567
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574465.000000002 time_elapsed: 567 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 65384.817771379385 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.9608775324836621[0m
+[0;32mlatC: 52.15731379563548 lonC: 20.91887364030112 altitude: 1200.4382528136714[0m
+Raszyn, gmina Raszyn, Pruszków County, Masovian Voivodeship, Poland
+Point set in Descending
+Speed: 85.64898700653514   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:31:55
+
+
+Waiting for next data pack... 
+
+Real time difference: 277s   Real time: 9574 min   ctime = 9574.500000000033 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.15731379563548, lon_c=20.91887364030112, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.91887364030112
+Lat_c: 52.15731379563548
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":3000.0,"GAlt":3000.0,"AltT":0,"Call":"null","Lat":52.15731379563548,"Long":20.91887364030112,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":85.64898700653514,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.500000000033
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 893533.1168127117    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 66543.07369058036   descent_distance: 68046.98367998435   time_elapsed: 572
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574470.000000002 time_elapsed: 572 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 66543.07369058036 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.9778989470499285[0m
+[0;32mlatC: 52.160950416149845 lonC: 20.94006729742832 altitude: 743.4132717094192[0m
+Warsaw, Masovian Voivodeship, 00-901, Poland
+Point set in Descending
+Speed: 78.84042118002859   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:00
+
+
+Waiting for next data pack... 
+
+Real time difference: 282s   Real time: 9574 min   ctime = 9574.583333333367 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.160950416149845, lon_c=20.94006729742832, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.94006729742832
+Lat_c: 52.160950416149845
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":3000.0,"GAlt":3000.0,"AltT":0,"Call":"null","Lat":52.160950416149845,"Long":20.94006729742832,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":78.84042118002859,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.583333333367
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 895028.0909892021    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 67711.49866965142   descent_distance: 68046.98367998435   time_elapsed: 577
+[0;31mDescending case here[0m
+[0;33mcurrent_time: 574475.000000002 time_elapsed: 577 descent_distance: 88046.98367998435[0m
+[0;32mcurrent_distance: 67711.49866965142 descent_distance: 68046.98367998435 acceleration: 0.40676239480280435 percentage: 0.9950698033595338[0m
+[0;32mlatC: 52.164618964851336 lonC: 20.961447027050056 altitude: 282.3757797965184[0m
+Warsaw, Masovian Voivodeship, 00-901, Poland
+Point set in Descending
+Speed: 71.9720786561865   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:05
+
+
+Waiting for next data pack... 
+
+Real time difference: 287s   Real time: 9574 min   ctime = 9574.6666666667 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.164618964851336, lon_c=20.961447027050056, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.961447027050056
+Lat_c: 52.164618964851336
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":3000.0,"GAlt":3000.0,"AltT":0,"Call":"null","Lat":52.164618964851336,"Long":20.961447027050056,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":71.9720786561865,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.6666666667
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 896536.0533216686    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 68890.09270859255   descent_distance: 68046.98367998435   time_elapsed: 582
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574480.0000000021 time_elapsed: 4 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.117490985485574 lonC: 20.686792514204573 altitude: 2978.393333316048[0m
+Milanówek, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-822, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:10
+
+
+Waiting for next data pack... 
+
+Real time difference: 292s   Real time: 9574 min   ctime = 9574.750000000035 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.117490985485574, lon_c=20.686792514204573, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.686792514204573
+Lat_c: 52.117490985485574
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2978.0,"GAlt":2978.0,"AltT":0,"Call":"null","Lat":52.117490985485574,"Long":20.686792514204573,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.750000000035
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 877153.5573951628    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 70078.85580740374   descent_distance: 68046.98367998435   time_elapsed: 587
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574485.0000000021 time_elapsed: 9 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.11792789789379 lonC: 20.68933877157123 altitude: 2951.384999961108[0m
+Milanówek, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-822, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:15
+
+
+Waiting for next data pack... 
+
+Real time difference: 297s   Real time: 9574 min   ctime = 9574.833333333369 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.11792789789379, lon_c=20.68933877157123, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.68933877157123
+Lat_c: 52.11792789789379
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2951.0,"GAlt":2951.0,"AltT":0,"Call":"null","Lat":52.11792789789379,"Long":20.68933877157123,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.833333333369
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 877333.3521136757    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 71277.78796608502   descent_distance: 68046.98367998435   time_elapsed: 592
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574490.0000000021 time_elapsed: 14 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.11836481030202 lonC: 20.69188502893789 altitude: 2924.376666606168[0m
+Milanówek, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-822, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:20
+
+
+Waiting for next data pack... 
+
+Real time difference: 303s   Real time: 9575 min   ctime = 9574.916666666702 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.11836481030202, lon_c=20.69188502893789, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.69188502893789
+Lat_c: 52.11836481030202
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2924.0,"GAlt":2924.0,"AltT":0,"Call":"null","Lat":52.11836481030202,"Long":20.69188502893789,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9574.916666666702
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 877513.1448854867    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 72486.88918463634   descent_distance: 68046.98367998435   time_elapsed: 597
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574495.0000000021 time_elapsed: 19 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.11880172271024 lonC: 20.694431286304546 altitude: 2897.368333251228[0m
+Milanówek, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-822, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:26
+
+
+Waiting for next data pack... 
+
+Real time difference: 308s   Real time: 9575 min   ctime = 9575.000000000036 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.11880172271024, lon_c=20.694431286304546, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.694431286304546
+Lat_c: 52.11880172271024
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2897.0,"GAlt":2897.0,"AltT":0,"Call":"null","Lat":52.11880172271024,"Long":20.694431286304546,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.000000000036
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 877692.9357105204    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 73706.15946305776   descent_distance: 68046.98367998435   time_elapsed: 602
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574500.0000000022 time_elapsed: 24 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.11923863511846 lonC: 20.696977543671203 altitude: 2870.359999896288[0m
+Milanówek, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-822, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:31
+
+
+Waiting for next data pack... 
+
+Real time difference: 313s   Real time: 9575 min   ctime = 9575.08333333337 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.11923863511846, lon_c=20.696977543671203, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.696977543671203
+Lat_c: 52.11923863511846
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2870.0,"GAlt":2870.0,"AltT":0,"Call":"null","Lat":52.11923863511846,"Long":20.696977543671203,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.08333333337
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 877872.7245887023    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 74935.59880134923   descent_distance: 68046.98367998435   time_elapsed: 607
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574505.0000000022 time_elapsed: 29 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.119675547526676 lonC: 20.69952380103786 altitude: 2843.351666541348[0m
+Milanówek, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-822, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:36
+
+
+Waiting for next data pack... 
+
+Real time difference: 318s   Real time: 9575 min   ctime = 9575.166666666704 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.119675547526676, lon_c=20.69952380103786, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.69952380103786
+Lat_c: 52.119675547526676
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2843.0,"GAlt":2843.0,"AltT":0,"Call":"null","Lat":52.119675547526676,"Long":20.69952380103786,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.166666666704
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 878052.5115199578    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 76175.20719951077   descent_distance: 68046.98367998435   time_elapsed: 612
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574510.0000000022 time_elapsed: 34 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.120112459934894 lonC: 20.702070058404516 altitude: 2816.343333186408[0m
+Owczarnia, gmina Brwinów, Pruszków County, Masovian Voivodeship, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:41
+
+
+Waiting for next data pack... 
+
+Real time difference: 323s   Real time: 9575 min   ctime = 9575.250000000038 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.120112459934894, lon_c=20.702070058404516, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.702070058404516
+Lat_c: 52.120112459934894
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2816.0,"GAlt":2816.0,"AltT":0,"Call":"null","Lat":52.120112459934894,"Long":20.702070058404516,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.250000000038
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 878232.2965042118    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 77424.98465754239   descent_distance: 68046.98367998435   time_elapsed: 617
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574515.0000000023 time_elapsed: 39 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12054937234311 lonC: 20.704616315771172 altitude: 2789.334999831468[0m
+Owczarnia, gmina Brwinów, Pruszków County, Masovian Voivodeship, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:46
+
+
+Waiting for next data pack... 
+
+Real time difference: 328s   Real time: 9575 min   ctime = 9575.333333333372 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12054937234311, lon_c=20.704616315771172, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.704616315771172
+Lat_c: 52.12054937234311
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2789.0,"GAlt":2789.0,"AltT":0,"Call":"null","Lat":52.12054937234311,"Long":20.704616315771172,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.333333333372
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 878412.0795413896    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 78684.93117544409   descent_distance: 68046.98367998435   time_elapsed: 622
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574520.0000000023 time_elapsed: 44 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12098628475133 lonC: 20.707162573137833 altitude: 2762.326666476528[0m
+Owczarnia, gmina Brwinów, Pruszków County, Masovian Voivodeship, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:51
+
+
+Waiting for next data pack... 
+
+Real time difference: 333s   Real time: 9575 min   ctime = 9575.416666666706 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12098628475133, lon_c=20.707162573137833, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.707162573137833
+Lat_c: 52.12098628475133
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2762.0,"GAlt":2762.0,"AltT":0,"Call":"null","Lat":52.12098628475133,"Long":20.707162573137833,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.416666666706
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 878591.8606314166    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 79955.04675321584   descent_distance: 68046.98367998435   time_elapsed: 627
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574525.0000000023 time_elapsed: 49 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12142319715955 lonC: 20.70970883050449 altitude: 2735.318333121588[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:32:56
+
+
+Waiting for next data pack... 
+
+Real time difference: 338s   Real time: 9575 min   ctime = 9575.50000000004 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12142319715955, lon_c=20.70970883050449, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.70970883050449
+Lat_c: 52.12142319715955
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2735.0,"GAlt":2735.0,"AltT":0,"Call":"null","Lat":52.12142319715955,"Long":20.70970883050449,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.50000000004
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 878771.6397742179    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 81235.33139085767   descent_distance: 68046.98367998435   time_elapsed: 632
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574530.0000000024 time_elapsed: 54 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12186010956778 lonC: 20.712255087871146 altitude: 2708.309999766648[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:01
+
+
+Waiting for next data pack... 
+
+Real time difference: 343s   Real time: 9575 min   ctime = 9575.583333333374 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12186010956778, lon_c=20.712255087871146, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.712255087871146
+Lat_c: 52.12186010956778
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2708.0,"GAlt":2708.0,"AltT":0,"Call":"null","Lat":52.12186010956778,"Long":20.712255087871146,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.583333333374
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 878951.4169697188    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 82525.78508836955   descent_distance: 68046.98367998435   time_elapsed: 637
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574535.0000000024 time_elapsed: 59 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.122297021975996 lonC: 20.714801345237802 altitude: 2681.301666411708[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:06
+
+
+Waiting for next data pack... 
+
+Real time difference: 348s   Real time: 9575 min   ctime = 9575.666666666708 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.122297021975996, lon_c=20.714801345237802, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.714801345237802
+Lat_c: 52.122297021975996
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2681.0,"GAlt":2681.0,"AltT":0,"Call":"null","Lat":52.122297021975996,"Long":20.714801345237802,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.666666666708
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 879131.1922178436    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 83826.40784575153   descent_distance: 68046.98367998435   time_elapsed: 642
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574540.0000000024 time_elapsed: 64 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.122733934384215 lonC: 20.71734760260446 altitude: 2654.293333056768[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:11
+
+
+Waiting for next data pack... 
+
+Real time difference: 353s   Real time: 9575 min   ctime = 9575.750000000042 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.122733934384215, lon_c=20.71734760260446, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.71734760260446
+Lat_c: 52.122733934384215
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2654.0,"GAlt":2654.0,"AltT":0,"Call":"null","Lat":52.122733934384215,"Long":20.71734760260446,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.750000000042
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 879310.9655185188    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 85137.19966300357   descent_distance: 68046.98367998435   time_elapsed: 647
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574545.0000000026 time_elapsed: 69 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12317084679243 lonC: 20.719893859971116 altitude: 2627.284999701828[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:16
+
+
+Waiting for next data pack... 
+
+Real time difference: 358s   Real time: 9575 min   ctime = 9575.833333333376 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12317084679243, lon_c=20.719893859971116, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.719893859971116
+Lat_c: 52.12317084679243
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2627.0,"GAlt":2627.0,"AltT":0,"Call":"null","Lat":52.12317084679243,"Long":20.719893859971116,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.833333333376
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 879490.7368716688    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 86458.16054012567   descent_distance: 68046.98367998435   time_elapsed: 652
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574550.0000000026 time_elapsed: 74 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12360775920065 lonC: 20.722440117337772 altitude: 2600.276666346888[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:21
+
+
+Waiting for next data pack... 
+
+Real time difference: 363s   Real time: 9576 min   ctime = 9575.91666666671 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12360775920065, lon_c=20.722440117337772, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.722440117337772
+Lat_c: 52.12360775920065
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2600.0,"GAlt":2600.0,"AltT":0,"Call":"null","Lat":52.12360775920065,"Long":20.722440117337772,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9575.91666666671
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 879670.506277219    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 87789.29047711786   descent_distance: 68046.98367998435   time_elapsed: 657
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574555.0000000026 time_elapsed: 79 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12404467160887 lonC: 20.724986374704432 altitude: 2573.268332991948[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:26
+
+
+Waiting for next data pack... 
+
+Real time difference: 368s   Real time: 9576 min   ctime = 9576.000000000044 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12404467160887, lon_c=20.724986374704432, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.724986374704432
+Lat_c: 52.12404467160887
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2573.0,"GAlt":2573.0,"AltT":0,"Call":"null","Lat":52.12404467160887,"Long":20.724986374704432,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9576.000000000044
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 879850.2737350952    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 89130.58947398009   descent_distance: 68046.98367998435   time_elapsed: 662
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574560.0000000026 time_elapsed: 84 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12448158401709 lonC: 20.72753263207109 altitude: 2546.259999637008[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:31
+
+
+Waiting for next data pack... 
+
+Real time difference: 374s   Real time: 9576 min   ctime = 9576.083333333378 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12448158401709, lon_c=20.72753263207109, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.72753263207109
+Lat_c: 52.12448158401709
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2546.0,"GAlt":2546.0,"AltT":0,"Call":"null","Lat":52.12448158401709,"Long":20.72753263207109,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9576.083333333378
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 880030.0392452214    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 90482.05753071241   descent_distance: 68046.98367998435   time_elapsed: 667
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574565.0000000027 time_elapsed: 89 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12491849642531 lonC: 20.730078889437745 altitude: 2519.251666282068[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:37
+
+
+Waiting for next data pack... 
+
+Real time difference: 379s   Real time: 9576 min   ctime = 9576.166666666712 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12491849642531, lon_c=20.730078889437745, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.730078889437745
+Lat_c: 52.12491849642531
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2519.0,"GAlt":2519.0,"AltT":0,"Call":"null","Lat":52.12491849642531,"Long":20.730078889437745,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9576.166666666712
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 880209.8028075233    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 91843.69464731481   descent_distance: 68046.98367998435   time_elapsed: 672
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574570.0000000027 time_elapsed: 94 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12535540883353 lonC: 20.732625146804402 altitude: 2492.243332927128[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:42
+
+
+Waiting for next data pack... 
+
+Real time difference: 384s   Real time: 9576 min   ctime = 9576.250000000045 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.12535540883353, lon_c=20.732625146804402, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.732625146804402
+Lat_c: 52.12535540883353
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2492.0,"GAlt":2492.0,"AltT":0,"Call":"null","Lat":52.12535540883353,"Long":20.732625146804402,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9576.250000000045
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 880389.5644219264    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 93215.50082378725   descent_distance: 68046.98367998435   time_elapsed: 677
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574575.0000000027 time_elapsed: 99 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.125792321241754 lonC: 20.73517140417106 altitude: 2465.234999572188[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:47
+
+
+Waiting for next data pack... 
+
+Real time difference: 389s   Real time: 9576 min   ctime = 9576.33333333338 min
+
+FPModel{dep_time=9500, arr_time=9590, lon1=8.5584699, lon2=20.9675857, lat1=50.0363916, lat2=52.1656723, icao24='TEST_AIRPLANE', lat_c=52.125792321241754, lon_c=20.73517140417106, unix_time=0, true_track=80.26343423523794, dep_apt='null', arr_apt='null'}
+
+Percentage: 0.7777777777777778
+Lon_c: 20.73517140417106
+Lat_c: 52.125792321241754
+{"src":1,"feeds":[{"id":1,"name":"From 3DPS","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85,
+"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"TEST_AIRPLANE","Reg":"null","Alt":2465.0,"GAlt":2465.0,"AltT":0,"Call":"null","Lat":52.125792321241754,"Long":20.73517140417106,"PosTime":0,"Mlat":false,"Tisb":false,"Spd":70.0,"Trak":80.26343423523794,"TrkH":false,"Type":"null","Mdl":"null","Man":"XXX","From":"null","To":"null","OpIcao":"XXX","Op":"null"}],
+"totalAc":99,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
+
+TEST_AIRPLANE   dep(m):9500   arr(m):9590   TOC_time(s):571200   TOD_time(s):574640   ctime(m):9576.33333333338
+lat1: 50.0363916 lon1: 8.5584699 lat2: 52.1656723 lon2: 20.9675857
+TOClat: 50.62985711923999 TOClon: 12.017094378940781 TODlat: 51.95202257657637 TODlon: 19.722468436408683
+travelled_distance: 880569.324088356    total_distance: 896969.0028187413    TOC_distance: 254175.03146856488    TOD_distance: 808922.0191387569
+current distance: 94597.47606012979   descent_distance: 68046.98367998435   time_elapsed: 682
+[0;31mLanding case here[0m
+[0;32mlandingLat: 52.117141455559 landingLon: 20.684755508311248 landingtime: 555.3841402530082[0m
+[0;32mtime_until_landing: 578.4276428248745 landing_point_time: 574476.4276428248[0m
+[0;33mcurrent_time: 574580.0000000028 time_elapsed: 104 landing_distance: 20000[0m
+latDif = 0.048530844440996646   lonDif = 0.28283019168875256
+[0;32mlatC: 52.12622923364997 lonC: 20.737717661537715 altitude: 2438.226666217248[0m
+Podkowa Leśna, Grodzisk Mazowiecki County, Masovian Voivodeship, 05-807, Poland
+Point set in Landing
+Speed: 70.0   Track: 80.26343423523794
+
+
+Number of aircraft: 1   09/02/2022 11:33:52
+
+
+Waiting for next data pack... 
+

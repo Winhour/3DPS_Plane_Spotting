@@ -1,0 +1,2257 @@
+{
+  "model_overrides": [],
+  "airline_groups": [
+    {
+      "name": "Lufthansa",
+      "codes": [
+        "DLH",
+        "CLH",
+        "LH",
+		"BER"
+      ]
+    },
+	{
+      "name": "Alitalia",
+      "codes": [
+        "ITY",
+        "ITA"
+      ]
+    }
+  ],
+  "aircraft_types": [
+    {
+      "type": "A124",
+      "regex": "(?i)(?=.*Antonov)(?=.*AN(-? ?)124)",
+      "tags": {
+        "manufacturer": "Antonov",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A140",
+      "regex": "(?i)(?=.*Antonov)(?=.*AN(-? ?)140)",
+      "tags": {
+        "manufacturer": "Antonov",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A225",
+      "regex": "(?i)(?=.*Antonov)(?=.*An(-? ?)225)",
+      "tags": {
+        "manufacturer": "Antonov",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A306",
+      "regex": "(?i)(?=.*Airbus)(?=.*A300(-? ?)600)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A30B",
+      "regex": "(?i)(?=.*Airbus)(?=.*A300)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A310",
+      "regex": "(?i)(?=.*Airbus)(?=.*A310)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A318",
+      "regex": "(?i)(?=.*Airbus)(?=.*A318)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A319",
+      "regex": "(?i)(?=.*Airbus)(?=.*A319)(?!=.*neo)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A320",
+      "regex": "(?i)(?=.*Airbus)(?=.*A320)(?!=.*neo)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A321",
+      "regex": "(?i)(?=.*Airbus)(?=.*A321)(?!=.*neo)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A19N",
+      "regex": "(?i)(?=.*Airbus)(?=.*A319)(?=.*neo)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A20N",
+      "regex": "(?i)(?=.*Airbus)(?=.*A320)(?=.*neo)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A21N",
+      "regex": "(?i)(?=.*Airbus)(?=.*A321)(?=.*neo)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A332",
+      "regex": "(?i)(?=.*Airbus)(?=.*A330(-? ?)200)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A333",
+      "regex": "(?i)(?=.*airbus)(?=.*A330(-? ?)300)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A338",
+      "regex": "(?i)(?=.*Airbus)(?=.*A330(-? ?)800)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A339",
+      "regex": "(?i)(?=.*Airbus)(?=.*A330(-? ?)900)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A340",
+      "regex": "(?i)(?=.*Airbus)(?=.*A340)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A342",
+      "regex": "(?i)(?=.*Airbus)(?=.*A340(-? ?)200)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A343",
+      "regex": "(?i)(?=.*Airbus)(?=.*A340(-? ?)300)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A345",
+      "regex": "(?i)(?=.*Airbus)(?=.*A340(-? ?)500)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A346",
+      "regex": "(?i)(?=.*Airbus)(?=.*A340(-? ?)600)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A350",
+      "regex": "(?i)(?=.*Airbus)(?=.*A350)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A358",
+      "regex": "(?i)(?=.*Airbus)(?=.*A350(-? ?)800)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A359",
+      "regex": "(?i)(?=.*airbus)(?=.*a350(-? ?)900)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A35K",
+      "regex": "(?i)(?=.*Airbus)(?=.*A350(-? ?)1000)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A388",
+      "regex": "(?i)(?=.*Airbus)(?=.*A380(-? ?)800)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A3ST",
+      "regex": "(?i)(?=.*Airbus)(?=.*A300(-? ?)600ST)",
+      "tags": {
+        "manufacturer": "Airbus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "A748",
+      "regex": "(?i)(?=.*Hawker Siddeley)(?=.*HS 748)",
+      "tags": {
+        "manufacturer": "Hawker Siddeley",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AN12",
+      "regex": "(?i)(?=.*Antonov)(?=.*AN(-? ?)12)",
+      "tags": {
+        "manufacturer": "Antonov",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AN24",
+      "regex": "(?i)(?=.*Antonov)(?=.*AN(-? ?)24)",
+      "tags": {
+        "manufacturer": "Antonov",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AN26",
+      "regex": "(?i)(?=.*Antonov)(?=.*AN(-? ?)26)",
+      "tags": {
+        "manufacturer": "Antonov",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AN28",
+      "regex": "(?i)(?=.*Antonov)(?=.*AN(-? ?)28)",
+      "tags": {
+        "manufacturer": "Antonov",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AN30",
+      "regex": "(?i)(?=.*Antonov)(?=.*AN(-? ?)30)",
+      "tags": {
+        "manufacturer": "Antonov",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AN32",
+      "regex": "(?i)(?=.*Antonov)(?=.*AN(-? ?)32)",
+      "tags": {
+        "manufacturer": "Antonov",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AN72",
+      "regex": "(?i)(?=.*Antonov)(?=.*AN(-? ?)72)",
+      "tags": {
+        "manufacturer": "Antonov",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AS32",
+      "regex": "(?i)(?=.*Eurocopter)(?=.*AS332)",
+      "tags": {
+        "manufacturer": "Eurocopter",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AT43",
+      "regex": "(?i)(?=.*Aerospatiale/Alenia)(?=.*ATR 42(-? ?)300)",
+      "tags": {
+        "manufacturer": "Aerospatiale/Alenia",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AT45",
+      "regex": "(?i)(?=.*Aerospatiale/Alenia)(?=.*ATR 42(-? ?)500)",
+      "tags": {
+        "manufacturer": "Aerospatiale/Alenia",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AT46",
+      "regex": "(?i)(?=.*Aerospatiale/Alenia)(?=.*ATR 42(-? ?)600)",
+      "tags": {
+        "manufacturer": "Aerospatiale/Alenia",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AT72",
+      "regex": "(?i)(?=.*Aerospatiale/Alenia)(?=.*ATR 72)",
+      "tags": {
+        "manufacturer": "Aerospatiale/Alenia",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AT73",
+      "regex": "(?i)(?=.*Aerospatiale/Alenia)(?=.*ATR 72(-? ?)200)",
+      "tags": {
+        "manufacturer": "Aerospatiale/Alenia",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AT75",
+      "regex": "(?i)(?=.*Aerospatiale/Alenia)(?=.*ATR 72(-? ?)500)",
+      "tags": {
+        "manufacturer": "Aerospatiale/Alenia",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "AT76",
+      "regex": "(?i)(?=.*Aerospatiale/Alenia)(?=.*ATR 72(-? ?)600)",
+      "tags": {
+        "manufacturer": "Aerospatiale/Alenia",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B105",
+      "regex": "(?i)(?=.*Eurocopter (MBB))(?=.*Bo.105)",
+      "tags": {
+        "manufacturer": "Eurocopter (MBB)",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B190",
+      "regex": "(?i)(?=.*Beechcraft)(?=.*1900)",
+      "tags": {
+        "manufacturer": "Beechcraft",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+	{
+      "type": "BE40",
+      "regex": "(?i)(?=.*Beechcraft)(?=.*400)",
+      "tags": {
+        "manufacturer": "Beechcraft",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B212",
+      "regex": "(?i)(?=.*Bell)(?=.*212)",
+      "tags": {
+        "manufacturer": "Bell",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B412",
+      "regex": "(?i)(?=.*Bell)(?=.*412)",
+      "tags": {
+        "manufacturer": "Bell",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B429",
+      "regex": "(?i)(?=.*Bell)(?=.*429)",
+      "tags": {
+        "manufacturer": "Bell",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B461",
+      "regex": "(?i)(?=.*BAe)(?=.*146(-? ?)100)",
+      "tags": {
+        "manufacturer": "BAe",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B462",
+      "regex": "(?i)(?=.*BAe)(?=.*146(-? ?)200)",
+      "tags": {
+        "manufacturer": "BAe",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B463",
+      "regex": "(?i)(?=.*BAe)(?=.*146(-? ?)300)",
+      "tags": {
+        "manufacturer": "BAe",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B703",
+      "regex": "(?i)(?=.*Boeing)(?=.*707)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B712",
+      "regex": "(?i)(?=.*Boeing)(?=.*717)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B720",
+      "regex": "(?i)(?=.*Boeing)(?=.*720B)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B721",
+      "regex": "(?i)(?=.*Boeing)(?=.*727(-? ?)100)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B722",
+      "regex": "(?i)(?=.*Boeing)(?=.*727(-? ?)200)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B731",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)100)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B732",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)200)(?!=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+	{
+      "type": "B73F",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)200)(?=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B733",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)300(?!WL))(?!=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B73Y",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)300(?!WL))(?=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B73C",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)300WL)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B734",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)400)(?!=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B73P",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)400)(?=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B735",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)500(?!WL))",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B73E",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)500WL)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B736",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)600)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B737",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)700(?!WL))",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B73W",
+      "regex": "(?i)(?=.*Boeing)(?=.*(737(-? ?)700WL|BBJ1))",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B738",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)800(?!WL))(?!=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B73H",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)800WL)(?!=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B73U",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)800(?!WL))(?=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B73K",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)800WL)(?=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B739",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)900(?!WL))",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B73J",
+      "regex": "(?i)(?=.*Boeing)(?=.*737(-? ?)900WL)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B741",
+      "regex": "(?i)(?=.*Boeing)(?=.*747(-? ?)100)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B742",
+      "regex": "(?i)(?=.*Boeing)(?=.*747(-? ?)200)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B743",
+      "regex": "(?i)(?=.*Boeing)(?=.*747(-? ?)300)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B744",
+      "regex": "(?i)(?=.*Boeing)(?=.*747(-? ?)400)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B748",
+      "regex": "(?i)(?=.*boeing)(?=.*747(-? ?)8)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B74R",
+      "regex": "(?i)(?=.*Boeing)(?=.*747SR)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B74S",
+      "regex": "(?i)(?=.*Boeing)(?=.*747SP)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B752",
+      "regex": "(?i)(?=.*Boeing)(?=.*757(-? ?)200)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B753",
+      "regex": "(?i)(?=.*Boeing)(?=.*757(-? ?)300)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B762",
+      "regex": "(?i)(?=.*Boeing)(?=.*767(-? ?)200)(?!=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B76X",
+      "regex": "(?i)(?=.*Boeing)(?=.*767(-? ?)200)(?=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B763",
+      "regex": "(?i)(?=.*boeing)(?=.*767(-? ?)300)(?!=.*WL)(?!=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B76W",
+      "regex": "(?i)(?=.*boeing)(?=.*767(-? ?)300)(?=.*WL)(?!=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B76Y",
+      "regex": "(?i)(?=.*boeing)(?=.*767(-? ?)300)(?!=.*WL)(?=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B76V",
+      "regex": "(?i)(?=.*boeing)(?=.*767(-? ?)300)(?=.*WL)(?=.*SF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B764",
+      "regex": "(?i)(?=.*Boeing)(?=.*767(-? ?)400)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B772",
+      "regex": "(?i)(?=.*boeing)(?=.*777(-? ?)200)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B77L",
+      "regex": "(?i)(?=.*boeing)(?=.*777(-? ?)300lr)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B773",
+      "regex": "(?i)(?=.*Boeing)(?=.*777(-? ?)300)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B77W",
+      "regex": "(?i)(?=.*boeing)(?=.*777(-? ?)300er)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B783",
+      "regex": "(?i)(?=.*Boeing)(?=.*787(-? ?)3)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B788",
+      "regex": "(?i)(?=.*boeing)(?=.*787(-? ?)8)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B789",
+      "regex": "(?i)(?=.*boeing)(?=.*787(-? ?)9)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B78X",
+      "regex": "(?i)(?=.*Boeing)(?=.*787(-? ?)10)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 20,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "BCS1",
+      "regex": "(?i)(?=.*Bombardier)(?=.*CS100)",
+      "tags": {
+        "manufacturer": "Bombardier",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "BCS3",
+      "regex": "(?i)(?=.*Bombardier)(?=.*CS300)",
+      "tags": {
+        "manufacturer": "Bombardier",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "BELF",
+      "regex": "(?i)(?=.*Shorts)(?=.*SC(-? ?)5)",
+      "tags": {
+        "manufacturer": "Shorts",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "BLCF",
+      "regex": "(?i)(?=.*Boeing)(?=.*747)(?=.*LCF)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "BN2P",
+      "regex": "(?i)(?=.*Britten-Norman)(?=.*BN(-? ?)2)",
+      "tags": {
+        "manufacturer": "Britten-Norman",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "C130",
+      "regex": "(?i)(?=.*Lockheed)(?=.*L(-? ?)182)",
+      "tags": {
+        "manufacturer": "Lockheed",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "C162",
+      "regex": "(?i)(?=.*Cessna)(?=.*162)",
+      "tags": {
+        "manufacturer": "Cessna",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "C172",
+      "regex": "(?i)(?=.*Cessna)(?=.*172)",
+      "tags": {
+        "manufacturer": "Cessna",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "C77R",
+      "regex": "(?i)(?=.*Cessna)(?=.*177)",
+      "tags": {
+        "manufacturer": "Cessna",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "C182",
+      "regex": "(?i)(?=.*Cessna)(?=.*182)",
+      "tags": {
+        "manufacturer": "Cessna",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "C208",
+      "regex": "(?i)(?=.*Cessna)(?=.*208)",
+      "tags": {
+        "manufacturer": "Cessna",
+        "size": 10,
+        "engine": "prop"
+      }
+    },
+    {
+      "type": "C210",
+      "regex": "(?i)(?=.*Cessna)(?=.*210)",
+      "tags": {
+        "manufacturer": "Cessna",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "C212",
+      "regex": "(?i)(?=.*CASA /)(?=.*IPTN 212)",
+      "tags": {
+        "manufacturer": "CASA /",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "C25A",
+      "regex": "(?i)(?=.*Cessna Citation)(?=.*CJ2)",
+      "tags": {
+        "manufacturer": "Cessna Citation",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "C25B",
+      "regex": "(?i)(?=.*Cessna Citation)(?=.*CJ3)",
+      "tags": {
+        "manufacturer": "Cessna Citation",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "C25C",
+      "regex": "(?i)(?=.*cj4)",
+      "tags": {
+        "manufacturer": "Cessna Citation",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "C46",
+      "regex": "(?i)(?=.*Curtiss)(?=.*C(-? ?)46)",
+      "tags": {
+        "manufacturer": "Curtiss",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "CL2T",
+      "regex": "(?i)(?=.*Bombardier)(?=.*415)",
+      "tags": {
+        "manufacturer": "Bombardier",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "CL44",
+      "regex": "(?i)(?=.*Canadair)(?=.*CL(-? ?)44)",
+      "tags": {
+        "manufacturer": "Canadair",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "CN35",
+      "regex": "(?i)(?=.*CASA/IPTN)(?=.*CN(-? ?)235)",
+      "tags": {
+        "manufacturer": "CASA/IPTN",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "CONI",
+      "regex": "(?i)(?=.*Lockheed)(?=.*L(-? ?)1049)",
+      "tags": {
+        "manufacturer": "Lockheed",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "COUC",
+      "regex": "(?i)(?=.*Helio)(?=.*H(-? ?)250)",
+      "tags": {
+        "manufacturer": "Helio",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "CRJ1",
+      "regex": "(?i)(?=.*(Canadair Regional|Bombardier))(?=.*crj(-? ?)100)",
+      "tags": {
+        "manufacturer": "Canadair Regional",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "CRJ2",
+      "regex": "(?i)(?=.*(Canadair Regional|Bombardier))(?=.*crj(-? ?)200)",
+      "tags": {
+        "manufacturer": "Canadair Regional",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "CRJ7",
+      "regex": "(?i)(?=.*Bombardier)(?=.*crj(-? ?)(700|550|7))",
+      "tags": {
+        "manufacturer": "Canadair Regional",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "CRJ9",
+      "regex": "(?i)(?=.*Bombardier)(?=.*crj(-? ?)9(00)?)",
+      "tags": {
+        "manufacturer": "Canadair Regional",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "CRJX",
+      "regex": "(?i)(?=.*Bombardier)(?=.*crj(-? ?)1000)",
+      "tags": {
+        "manufacturer": "Canadair Regional",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "CVLP",
+      "regex": "(?i)(?=.*Convair)(?=.*CV(-? ?)240)",
+      "tags": {
+        "manufacturer": "Convair",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "CVLT",
+      "regex": "(?i)(?=.*Convair)(?=.*CV(-? ?)580)",
+      "tags": {
+        "manufacturer": "Convair",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "D228",
+      "regex": "(?i)(?=.*Dornier)(?=.*228)",
+      "tags": {
+        "manufacturer": "Dornier",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "D328",
+      "regex": "(?i)(?=.*Dornier)(?=.*328)(?!=.*JET)",
+      "tags": {
+        "manufacturer": "Dornier",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC10",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)10)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC3",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)3)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC6",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)6)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC85",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)8(-? ?)50)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC86",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)8(-? ?)62)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC87",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)8(-? ?)72)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC9",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)9)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC91",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)9(-? ?)10)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC92",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)9(-? ?)20)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC93",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)9(-? ?)30)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC94",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)9(-? ?)40)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DC95",
+      "regex": "(?i)(?=.*Douglas)(?=.*DC(-? ?)9(-? ?)50)",
+      "tags": {
+        "manufacturer": "Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DH2T",
+      "regex": "(?i)(?=.*(De Havilland|Bombardier))(?=.*DHC(-? ?)2)",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DH8A",
+      "regex": "(?i)(?=.*(De Havilland|Bombardier))(?=.*DHC(-? ?)8(-? ?)100)",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DH8B",
+      "regex": "(?i)(?=.*(De Havilland|Bombardier))(?=.*DHC(-? ?)8(-? ?)200)",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DH8C",
+      "regex": "(?i)(?=.*(De Havilland|Bombardier))(?=.*DHC(-? ?)8(-? ?)300)",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DH8D",
+      "regex": "(?i)(?=.*(De Havilland|Bombardier))(?=.*(DHC(-? ?)8(-? ?)400)|(Dash(-? ?)8))",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DHC3",
+      "regex": "(?i)(?=.*(De Havilland|Bombardier))(?=.*DHC(-? ?)3)",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DHC4",
+      "regex": "(?i)(?=.*(De Havilland|Bombardier))(?=.*DHC(-? ?)4)",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DHC6",
+      "regex": "(?i)(?=.*(De Havilland|Bombardier))(?=.*DHC(-? ?)6)",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DHC7",
+      "regex": "(?i)(?=.*(De Havilland|Bombardier))(?=.*DHC(-? ?)7)",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "DOVE",
+      "regex": "(?i)(?=.*(De Havilland|Bombardier))(?=.*DH.104)",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "E110",
+      "regex": "(?i)(?=.*Embraer)(?=.*EMB 110)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "E120",
+      "regex": "(?i)(?=.*Embraer)(?=.*EMB 120)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "E135",
+      "regex": "(?i)(?=.*Embraer)(?=.*Legacy 600)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "E145",
+      "regex": "(?i)(?=.*Embraer)(?=.*RJ145)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "E170",
+      "regex": "(?i)(?=.*Embraer)(?=.*170)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "E175",
+      "regex": "(?i)(?=.*Embraer)(?=.*175)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "E545",
+      "regex": "(?i)(?=.*Embraer)(?=.*Legacy 450)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "E190",
+      "regex": "(?i)(?=.*Embraer)(?=.*emb(-? ?)190)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+	{
+      "type": "E195",
+      "regex": "(?i)(?=.*Embraer)(?=.*emb(-? ?)195)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "E50P",
+      "regex": "(?i)(?=.*Embraer)(?=.*Phenom 100)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "E55P",
+      "regex": "(?i)(?=.*Embraer)(?=.*Phenom 300)",
+      "tags": {
+        "manufacturer": "Embraer",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+    {
+      "type": "EC25",
+      "regex": "(?i)(?=.*Eurocopter)(?=.*EC225)",
+      "tags": {
+        "manufacturer": "Eurocopter",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "EC45",
+      "regex": "(?i)(?=.*Eurocopter)(?=.*EC145)",
+      "tags": {
+        "manufacturer": "Eurocopter",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "EXPL",
+      "regex": "(?i)(?=.*MD Helicopters)(?=.*MD900)",
+      "tags": {
+        "manufacturer": "MD Helicopters",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "F100",
+      "regex": "(?i)(?=.*Fokker)(?=.*100)",
+      "tags": {
+        "manufacturer": "Fokker",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "F27",
+      "regex": "(?i)(?=.*Fokker)(?=.*F27)",
+      "tags": {
+        "manufacturer": "Fokker",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "F28",
+      "regex": "(?i)(?=.*Fokker)(?=.*F28)",
+      "tags": {
+        "manufacturer": "Fokker",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "F2TH",
+      "regex": "(?i)(?=.*Dassault)(?=.*Falcon 2000)",
+      "tags": {
+        "manufacturer": "Dassault",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "F50",
+      "regex": "(?i)(?=.*Fokker)(?=.*50)",
+      "tags": {
+        "manufacturer": "Fokker",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "F70",
+      "regex": "(?i)(?=.*Fokker)(?=.*70)",
+      "tags": {
+        "manufacturer": "Fokker",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "G159",
+      "regex": "(?i)(?=.*Gulfstream Aerospace)(?=.*G(-? ?)159)",
+      "tags": {
+        "manufacturer": "Gulfstream Aerospace",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "G21",
+      "regex": "(?i)(?=.*Grumman)(?=.*G(-? ?)21)",
+      "tags": {
+        "manufacturer": "Grumman",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "G73T",
+      "regex": "(?i)(?=.*Grumman)(?=.*G(-? ?)73)",
+      "tags": {
+        "manufacturer": "Grumman",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "GLF6",
+      "regex": "(?i)(?=.*Gulfstream)(?=.*G650)",
+      "tags": {
+        "manufacturer": "Gulfstream",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "HERN",
+      "regex": "(?i)(?=.*De Havilland)(?=.*DH.114)",
+      "tags": {
+        "manufacturer": "De Havilland",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "H25B",
+      "regex": "(?i)(?=.*British)(?=.*Aerospace 125)",
+      "tags": {
+        "manufacturer": "British",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "H25C",
+      "regex": "(?i)(?=.*British)(?=.*Aerospace 125(-? ?)1000)",
+      "tags": {
+        "manufacturer": "British",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "I114",
+      "regex": "(?i)(?=.*Ilyushin)(?=.*IL114)",
+      "tags": {
+        "manufacturer": "Ilyushin",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "IL18",
+      "regex": "(?i)(?=.*Ilyushin)(?=.*IL18)",
+      "tags": {
+        "manufacturer": "Ilyushin",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "IL62",
+      "regex": "(?i)(?=.*Ilyushin)(?=.*IL62)",
+      "tags": {
+        "manufacturer": "Ilyushin",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "IL76",
+      "regex": "(?i)(?=.*Ilyushin)(?=.*IL76)",
+      "tags": {
+        "manufacturer": "Ilyushin",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "IL86",
+      "regex": "(?i)(?=.*Ilyushin)(?=.*IL86)",
+      "tags": {
+        "manufacturer": "Ilyushin",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "IL96",
+      "regex": "(?i)(?=.*Ilyushin)(?=.*IL96)",
+      "tags": {
+        "manufacturer": "Ilyushin",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "J328",
+      "regex": "(?i)(?=.*Dornier)(?=.*328)(?=.*JET)",
+      "tags": {
+        "manufacturer": "Dornier",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "JS31",
+      "regex": "(?i)(?=.*British Aerospace)(?=.*Jetstream 31)",
+      "tags": {
+        "manufacturer": "British Aerospace",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "JS32",
+      "regex": "(?i)(?=.*British Aerospace)(?=.*Jetstream 32)",
+      "tags": {
+        "manufacturer": "British Aerospace",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "JS41",
+      "regex": "(?i)(?=.*British Aerospace)(?=.*Jetstream 41)",
+      "tags": {
+        "manufacturer": "British Aerospace",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "JU52",
+      "regex": "(?i)(?=.*Junkers)(?=.*Ju52/3M)",
+      "tags": {
+        "manufacturer": "Junkers",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "L101",
+      "regex": "(?i)(?=.*Lockheed)(?=.*L(-? ?)1011)",
+      "tags": {
+        "manufacturer": "Lockheed",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "L188",
+      "regex": "(?i)(?=.*Lockheed)(?=.*L(-? ?)188)",
+      "tags": {
+        "manufacturer": "Lockheed",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "L410",
+      "regex": "(?i)(?=.*LET)(?=.*410)",
+      "tags": {
+        "manufacturer": "LET",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "LOAD",
+      "regex": "(?i)(?=.*Ayres)(?=.*LM200)",
+      "tags": {
+        "manufacturer": "Ayres",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "MD11",
+      "regex": "(?i)(?=.*McDonnell Douglas)(?=.*MD(-? ?)11)",
+      "tags": {
+        "manufacturer": "McDonnell Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "MD81",
+      "regex": "(?i)(?=.*McDonnell Douglas)(?=.*MD(-? ?)81)",
+      "tags": {
+        "manufacturer": "McDonnell Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "MD82",
+      "regex": "(?i)(?=.*McDonnell Douglas)(?=.*MD(-? ?)82)",
+      "tags": {
+        "manufacturer": "McDonnell Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "MD83",
+      "regex": "(?i)(?=.*McDonnell Douglas)(?=.*MD(-? ?)83)",
+      "tags": {
+        "manufacturer": "McDonnell Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "MD87",
+      "regex": "(?i)(?=.*McDonnell Douglas)(?=.*MD(-? ?)87)",
+      "tags": {
+        "manufacturer": "McDonnell Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "MD88",
+      "regex": "(?i)(?=.*McDonnell Douglas)(?=.*MD(-? ?)88)",
+      "tags": {
+        "manufacturer": "McDonnell Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "MD90",
+      "regex": "(?i)(?=.*McDonnell Douglas)(?=.*MD(-? ?)90)",
+      "tags": {
+        "manufacturer": "McDonnell Douglas",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "MI8",
+      "regex": "(?i)(?=.*MIL)(?=.*Mi(-? ?)8)",
+      "tags": {
+        "manufacturer": "MIL",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "MU2",
+      "regex": "(?i)(?=.*Mitsubishi)(?=.*Mu(-? ?)2)",
+      "tags": {
+        "manufacturer": "Mitsubishi",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "N262",
+      "regex": "(?i)(?=.*Aerospatiale)(?=.*(Nord) 262)",
+      "tags": {
+        "manufacturer": "Aerospatiale",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "NOMA",
+      "regex": "(?i)(?=.*Government Aircraft Factories)(?=.*N22B)",
+      "tags": {
+        "manufacturer": "Government Aircraft Factories",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "P68",
+      "regex": "(?i)(?=.*Partenavia)(?=.*P.68)",
+      "tags": {
+        "manufacturer": "Partenavia",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "PA31",
+      "regex": "(?i)(?=.*Piper)(?=.*PA(-? ?)31)",
+      "tags": {
+        "manufacturer": "Piper",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "PA46",
+      "regex": "(?i)(?=.*Piper)(?=.*PA(-? ?)46)",
+      "tags": {
+        "manufacturer": "Piper",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "PC12",
+      "regex": "(?i)(?=.*Pilatus)(?=.*PC(-? ?)12)",
+      "tags": {
+        "manufacturer": "Pilatus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "PC6T",
+      "regex": "(?i)(?=.*Pilatus)(?=.*PC(-? ?)6)",
+      "tags": {
+        "manufacturer": "Pilatus",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "RJ1H",
+      "regex": "(?i)(?=.*Avro)(?=.*RJ100)",
+      "tags": {
+        "manufacturer": "Avro",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "R200",
+      "regex": "(?i)(?=.*Robin)(?=.*HR200/R2000)",
+      "tags": {
+        "manufacturer": "Robin",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "RJ70",
+      "regex": "(?i)(?=.*Avro)(?=.*RJ70)",
+      "tags": {
+        "manufacturer": "Avro",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "RJ85",
+      "regex": "(?i)(?=.*Avro)(?=.*RJ85)",
+      "tags": {
+        "manufacturer": "Avro",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "RX1H",
+      "regex": "(?i)(?=.*Avro)(?=.*RJX100)",
+      "tags": {
+        "manufacturer": "Avro",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "RX85",
+      "regex": "(?i)(?=.*Avro)(?=.*RJX85)",
+      "tags": {
+        "manufacturer": "Avro",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "S210",
+      "regex": "(?i)(?=.*Aerospatiale (Sud Aviation))(?=.*Se.210)",
+      "tags": {
+        "manufacturer": "Aerospatiale (Sud Aviation)",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "S58T",
+      "regex": "(?i)(?=.*Sikorsky)(?=.*S(-? ?)58T)",
+      "tags": {
+        "manufacturer": "Sikorsky",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "S601",
+      "regex": "(?i)(?=.*Aerospatiale)(?=.*SN.601)",
+      "tags": {
+        "manufacturer": "Aerospatiale",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "S61",
+      "regex": "(?i)(?=.*Sikorsky)(?=.*S(-? ?)61)",
+      "tags": {
+        "manufacturer": "Sikorsky",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "S65C",
+      "regex": "(?i)(?=.*Eurocopter (Aerospatiale))(?=.*SA365C)",
+      "tags": {
+        "manufacturer": "Eurocopter (Aerospatiale)",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "S76",
+      "regex": "(?i)(?=.*Sikorsky)(?=.*S(-? ?)76)",
+      "tags": {
+        "manufacturer": "Sikorsky",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "S92",
+      "regex": "(?i)(?=.*Sikorsky)(?=.*S(-? ?)92)",
+      "tags": {
+        "manufacturer": "Sikorsky",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "SB20",
+      "regex": "(?i)(?=.*Saab)(?=.*2000)",
+      "tags": {
+        "manufacturer": "Saab",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "SC7",
+      "regex": "(?i)(?=.*Shorts)(?=.*SC(-? ?)7)",
+      "tags": {
+        "manufacturer": "Shorts",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "SF34",
+      "regex": "(?i)(?=.*Saab)(?=.*340)",
+      "tags": {
+        "manufacturer": "Saab",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "SH33",
+      "regex": "(?i)(?=.*Shorts)(?=.*SD.330)",
+      "tags": {
+        "manufacturer": "Shorts",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "SH36",
+      "regex": "(?i)(?=.*Shorts)(?=.*SD.360)",
+      "tags": {
+        "manufacturer": "Shorts",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "SU95",
+      "regex": "(?i)(?=.*Sukhoi)(?=.*Superjet 100)",
+      "tags": {
+        "manufacturer": "Sukhoi",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "T134",
+      "regex": "(?i)(?=.*Tupolev)(?=.*Tu(-? ?)134)",
+      "tags": {
+        "manufacturer": "Tupolev",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "T144",
+      "regex": "(?i)(?=.*Tupolev)(?=.*Tu(-? ?)144)",
+      "tags": {
+        "manufacturer": "Tupolev",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "T154",
+      "regex": "(?i)(?=.*Tupolev)(?=.*Tu(-? ?)154)",
+      "tags": {
+        "manufacturer": "Tupolev",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "T204",
+      "regex": "(?i)(?=.*Tupolev)(?=.*Tu(-? ?)204)",
+      "tags": {
+        "manufacturer": "Tupolev",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "TB20",
+      "regex": "(?i)(?=.*Socata)(?=.*TB(-? ?)20)",
+      "tags": {
+        "manufacturer": "Socata",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "TRIS",
+      "regex": "(?i)(?=.*Pilatus Britten-Norman)(?=.*BN(-? ?)2A)",
+      "tags": {
+        "manufacturer": "Pilatus Britten-Norman",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "WW24",
+      "regex": "(?i)(?=.*Israel Aircraft)(?=.*Industries 1124)",
+      "tags": {
+        "manufacturer": "Israel Aircraft",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "Y12",
+      "regex": "(?i)(?=.*Harbin Yunshuji)(?=.*Y12)",
+      "tags": {
+        "manufacturer": "Harbin Yunshuji",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "YK40",
+      "regex": "(?i)(?=.*Yakovlev)(?=.*Yak(-? ?)40)",
+      "tags": {
+        "manufacturer": "Yakovlev",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "YK42",
+      "regex": "(?i)(?=.*Yakovlev)(?=.*Yak(-? ?)42)",
+      "tags": {
+        "manufacturer": "Yakovlev",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "YS11",
+      "regex": "(?i)(?=.*NAMC)(?=.*YS(-? ?)11)",
+      "tags": {
+        "manufacturer": "NAMC",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B38M",
+      "regex": "(?i)(?=.*boeing)(?=.*737 MAX (8|200))",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+    {
+      "type": "B39M",
+      "regex": "(?i)(?=.*boeing)(?=.*737 MAX 9)",
+      "tags": {
+        "manufacturer": "Boeing",
+        "size": 10,
+        "engine": "jet"
+      }
+    },
+	{
+      "type": "LJ45",
+      "regex": "(?i)(?=.*Bombardier)(?=.*learjet(-? ?)45)",
+      "tags": {
+        "manufacturer": "Bombardier",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+	{
+      "type": "LJ35",
+      "regex": "(?i)(?=.*Bombardier)(?=.*learjet(-? ?)(35|36))",
+      "tags": {
+        "manufacturer": "Bombardier",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+	{
+      "type": "LJ31",
+      "regex": "(?i)(?=.*Bombardier)(?=.*learjet(-? ?)31)",
+      "tags": {
+        "manufacturer": "Bombardier",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    },
+	{
+      "type": "GLF5",
+      "regex": "(?i)(?=.*Gulfstream)(?=.*G(-? ?)550)",
+      "tags": {
+        "manufacturer": "Gulfstream",
+        "size": 10,
+        "engine": "regional jet"
+      }
+    }
+  ],
+  "path": "C:\\Users\\JJK\\AppData\\Local\\Packages\\Microsoft.FlightSimulator_8wekyb3d8bbwe\\LocalCache\\Packages\\Community",
+  "include_IVAO_models": false
+}

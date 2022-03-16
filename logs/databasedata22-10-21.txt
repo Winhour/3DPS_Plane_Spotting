@@ -1,0 +1,1221 @@
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: YL-CCT	model: SeaMax M-22	typecode: SMAX	serialnumber: 12	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: Spain}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: F-HYZY	model: 172R Skyhawk	typecode: C172	serialnumber: 17280419	owner: Private}
+Database data: {icao24: 45e459	registration: F-HZAA	model: G34/24 Hot Air Balloon	typecode: BALL	serialnumber: 1465	owner: Private}
+Database data: {icao24: 45e459	registration: F-HZAF	model: DR.400 180 Regent	typecode: DR40	serialnumber: 2534	owner: Private}
+Database data: {icao24: 45e459	registration: F-HZBB	model: BB 60Z Hot Air Balloon	typecode: BALL	serialnumber: 919	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: F-HZEV	model: Jodel D.140R Abeille	typecode: D140	serialnumber: 519	owner: Private}
+Database data: {icao24: 45e459	registration: F-HZIC	model: Diamond Star DA40D	typecode: DA40	serialnumber: D4.351	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: Flight Design CTLS	typecode: FDCT	serialnumber: null	owner: Aeroclub Jean Mermoz}
+Database data: {icao24: 45e459	registration: F-HZTH	model: R44 Raven II	typecode: R44	serialnumber: 13015	owner: Private}
+Database data: {icao24: 45e459	registration: F-HZZZ	model: BB 20XR Hot Air Balloon	typecode: BALL	serialnumber: 883	owner: Private}
+Database data: {icao24: 45e459	registration: D-HSKG	model: R44 Raven II	typecode: R44	serialnumber: 12467	owner: Private}
+Database data: {icao24: 45e459	registration: D-HKSM	model: A.109 S Grand	typecode: A109	serialnumber: 22101	owner: Private}
+Database data: {icao24: 45e459	registration: D-HSKY	model: Bell 407	typecode: B407	serialnumber: 53109	owner: Private}
+Database data: {icao24: 45e459	registration: D-HSLD	model: AB.204 B	typecode: UH1	serialnumber: 3031	owner: Private}
+Database data: {icao24: 45e459	registration: D-HSMA	model: BK.117 B-2	typecode: BK17	serialnumber: 7073	owner: Adac Luftrettung Gmbh}
+Database data: {icao24: 45e459	registration: D-HSOF	model: Aerospatiale Squirrel AS.350 B	typecode: AS50	serialnumber: 1174	owner: Private}
+Database data: {icao24: 45e459	registration: D-HSTA	model: 206B Jet Ranger III	typecode: B06	serialnumber: 2567	owner: Private}
+Database data: {icao24: 45e459	registration: D-HSUS	model: R44 Raven	typecode: R44	serialnumber: 105	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTCH	model: R22 Beta	typecode: R22	serialnumber: 2328	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTDM	model: Bo.105 C	typecode: B105	serialnumber: S-140	owner: The Flying Bulls Gmbh}
+Database data: {icao24: 45e459	registration: D-HTEN	model: 222 UT	typecode: B222	serialnumber: 47549	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTHA	model: Bo.105 CBS-5	typecode: B105	serialnumber: S-858	owner: German Police}
+Database data: {icao24: 45e459	registration: D-HTHB	model: Bo.105 CBS-5	typecode: B105	serialnumber: S-866	owner: German Police}
+Database data: {icao24: 45e459	registration: D-HTHC	model: MBB-BK 117 C-2 (EC145)	typecode: EC45	serialnumber: 9117	owner: German Police}
+Database data: {icao24: 45e459	registration: D-HTMA	model: EC135 P2+	typecode: EC35	serialnumber: 786	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTMB	model: EC135 P1	typecode: EC35	serialnumber: 60	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTMC	model: EC135 P2	typecode: EC35	serialnumber: 96	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTMD	model: EC135 P2+	typecode: EC35	serialnumber: 439	owner: Htm Jet Service Gmbh}
+Database data: {icao24: 45e459	registration: D-HTME	model: 369 E	typecode: H500	serialnumber: 0479E	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTMF	model: EC135 T3	typecode: EC35	serialnumber: 1161	owner: Htm Travel Munich}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-HTOM	model: 206B Jet Ranger III	typecode: B06	serialnumber: 2434	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTON	model: EC225 LP	typecode: EC25	serialnumber: 2957	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTOR	model: 269 C	typecode: H269	serialnumber: 98-0727	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTOY	model: Cabri G2	typecode: G2CA	serialnumber: 1019	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTVU	model: R22 Beta	typecode: R22	serialnumber: 1937	owner: Private}
+Database data: {icao24: 45e459	registration: D-HTWO	model: EC135 P2	typecode: EC35	serialnumber: 343	owner: German Police}
+Database data: {icao24: 45e459	registration: D-HUAH	model: R44 Astro	typecode: R44	serialnumber: 279	owner: Private}
+Database data: {icao24: 45e459	registration: D-HUBI	model: Robinson R44 Astro	typecode: R44	serialnumber: 85	owner: Private}
+Database data: {icao24: 45e459	registration: D-HULI	model: R22 Beta	typecode: R22	serialnumber: 1879	owner: Private}
+Database data: {icao24: 45e459	registration: D-HULK	model: S-76 A	typecode: S76	serialnumber: 760282	owner: Private}
+Database data: {icao24: 45e459	registration: D-HUTE	model: 369 E	typecode: H500	serialnumber: 0203E	owner: Hahn Helicopter Gmbh}
+Database data: {icao24: 45e459	registration: D-HUTH	model: EC135 P2+	typecode: EC35	serialnumber: 1000	owner: Adac Luftrettung Gmbh}
+Database data: {icao24: 45e459	registration: D-HUTT	model: R44 Raven	typecode: R44	serialnumber: 1462	owner: Private}
+Database data: {icao24: 45e459	registration: D-HYAC	model: MBB-BK 117 D-2 (H145)	typecode: EC45	serialnumber: 20018	owner: Adac Luftrettung Gmbh}
+Database data: {icao24: 45e459	registration: D-HYAE	model: Airbus Helicopters MBB-BK 117 D-2 (H145)	typecode: EC45	serialnumber: 20035	owner: Adac Luftrettung Gmbh}
+Database data: {icao24: 45e459	registration: D-HYAF	model: MBB-BK 117 D-2 (H145)	typecode: EC45	serialnumber: 20043	owner: Adac Luftrettung Gmbh}
+Database data: {icao24: 45e459	registration: D-HYAG	model: Airbus Helicopters MBB-BK 117 D-2 (H145)	typecode: EC45	serialnumber: 20054	owner: Adac Luftrettung Gmbh}
+Database data: {icao24: 45e459	registration: D-HYAH	model: MBB-BK 117 D-2 (H145)	typecode: EC45	serialnumber: 20079	owner: Adac Luftrettung Gmbh}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-HYNO	model: R22 Beta	typecode: R22	serialnumber: 1707	owner: Private}
+Database data: {icao24: 45e459	registration: D-HYYY	model: EC135 P2+	typecode: EC35	serialnumber: 1030	owner: Deutsche Rettungsflugwacht}
+Database data: {icao24: 45e459	registration: D-HZSA	model: EC135 T2+	typecode: EC35	serialnumber: 508	owner: Bmi – Bundesministerium Des Innern}
+Database data: {icao24: 45e459	registration: D-HZSB	model: EC135 T2+	typecode: EC35	serialnumber: 542	owner: Bmi – Bundesministerium Des Innern}
+Database data: {icao24: 45e459	registration: D-HZSI	model: EC135 T2+	typecode: EC35	serialnumber: 594	owner: Bmi – Bundesministerium Des Innern}
+Database data: {icao24: 45e459	registration: D-HZSJ	model: EC135 T2+	typecode: EC35	serialnumber: 603	owner: Bmi – Bundesministerium Des Innern}
+Database data: {icao24: 45e459	registration: D-HZSK	model: EC135 T2+	typecode: EC35	serialnumber: 617	owner: Bmi – Bundesministerium Des Innern}
+Database data: {icao24: 45e459	registration: D-HZSL	model: EC135 T2+	typecode: EC35	serialnumber: 619	owner: Bmi – Bundesministerium Des Innern}
+Database data: {icao24: 45e459	registration: D-HZSM	model: EC135 T2+	typecode: EC35	serialnumber: 621	owner: Bmi – Bundesministerium Des Innern}
+Database data: {icao24: 45e459	registration: D-HZSN	model: EC135 T2+	typecode: EC35	serialnumber: 629	owner: Bmi – Bundesministerium Des Innern}
+Database data: {icao24: 45e459	registration: D-HZSO	model: EC135 T2+	typecode: EC35	serialnumber: 644	owner: Bmi – Bundesministerium Des Innern}
+Database data: {icao24: 45e459	registration: D-HZSP	model: EC135 T2+	typecode: EC35	serialnumber: 648	owner: Bmi – Bundesministerium Des Innern}
+Database data: {icao24: 45e459	registration: D-HZYA	model: Bo.105 M	typecode: B105	serialnumber: 5013	owner: Private}
+Database data: {icao24: 45e459	registration: D-HZYB	model: Bo.105 M	typecode: B105	serialnumber: 5115	owner: Private}
+Database data: {icao24: 45e459	registration: D-HZYD	model: Bo.105 M	typecode: B105	serialnumber: 5005	owner: Private}
+Database data: {icao24: 45e459	registration: D-HZYE	model: Bo.105 M	typecode: B105	serialnumber: 5054	owner: Private}
+Database data: {icao24: 45e459	registration: D-HZYF	model: Bo.105 M	typecode: B105	serialnumber: 5079	owner: Private}
+Database data: {icao24: 45e459	registration: D-HZYT	model: Bo.105 M	typecode: B105	serialnumber: 5060	owner: Private}
+Database data: {icao24: 45e459	registration: D-HZYU	model: Bo.105 M	typecode: B105	serialnumber: 5037	owner: Private}
+Database data: {icao24: 45e459	registration: D-HZZZ	model: R22 Beta	typecode: R22	serialnumber: 2040	owner: Private}
+Database data: {icao24: 45e459	registration: D-IAAA	model: Aerostar PA-60 602P	typecode: AEST	serialnumber: 62P-0924-8165048	owner: Private}
+Database data: {icao24: 45e459	registration: D-IAAB	model: Phenom 100	typecode: E50P	serialnumber: 50000180	owner: Arcus Executive Aviation}
+Database data: {icao24: 45e459	registration: D-IAAP	model: T310R Turbo	typecode: C310	serialnumber: 310R-1348	owner: Private}
+Database data: {icao24: 45e459	registration: D-IAAR	model: Phenom 100	typecode: E50P	serialnumber: 50000127	owner: Arcus Executive Aviation}
+Database data: {icao24: 45e459	registration: D-IAAY	model: Phenom 100	typecode: E50P	serialnumber: 50000243	owner: Arcus Executive Aviation}
+Database data: {icao24: 45e459	registration: D-IABB	model: Twin Commander 680FL	typecode: AC68	serialnumber: 680FL-1633-119	owner: Private}
+Database data: {icao24: 45e459	registration: D-IABC	model: Rockwell Turbo Commander 680T/V	typecode: AC68	serialnumber: 1684-65	owner: Air Tempelhof}
+Database data: {icao24: 45e459	registration: D-IABD	model: Twin Commander 680FL	typecode: AC68	serialnumber: 680FL-1741-143	owner: Private}
+Database data: {icao24: 45e459	registration: D-IABE	model: Piper PA-42 Cheyenne III	typecode: PAY3	serialnumber: 42-8001037	owner: Finow Air Service}
+Database data: {icao24: 45e459	registration: D-IABF	model: Queen Air 65-B80	typecode: BE80	serialnumber: LD-410	owner: Private}
+Database data: {icao24: 45e459	registration: D-IABG	model: Citation I	typecode: C501	serialnumber: 501-0207	owner: Adel Farjani}
+Database data: {icao24: 45e459	registration: D-IACE	model: 310Q	typecode: C310	serialnumber: 310Q-0812	owner: Private}
+Database data: {icao24: 45e459	registration: D-IAHG	model: Citation CJ1	typecode: C525	serialnumber: 525-0126	owner: Spree Flug Luftfahrt Gmbh}
+Database data: {icao24: 45e459	registration: D-IAIB	model: Citation CJ1+	typecode: C525	serialnumber: 525-0615	owner: Aib Assest Gmbh}
+Database data: {icao24: 45e459	registration: D-IAII	model: P-180 Avanti II	typecode: P180	serialnumber: 1231	owner: Corporate}
+Database data: {icao24: 45e459	registration: D-IAIN	model: Cessna 340A	typecode: C340	serialnumber: 340A0921	owner: Private}
+Database data: {icao24: 45e459	registration: D-IAKN	model: Citation CJ2+	typecode: C25A	serialnumber: 525A0367	owner: Starwings Gmbh}
+Database data: {icao24: 45e459	registration: D-IAMA	model: PA-23 Aztec 250E	typecode: PA27	serialnumber: 27-7305204	owner: Private}
+Database data: {icao24: 45e459	registration: D-IAMI	model: King Air B200	typecode: BE20	serialnumber: BB-1874	owner: Corporate}
+Database data: {icao24: 45e459	registration: D-IAMR	model: 414A Chancellor	typecode: C414	serialnumber: 414A-0492	owner: Private}
+Database data: {icao24: 45e459	registration: D-IARP	model: 340	typecode: C340	serialnumber: 340-0326	owner: Private}
+Database data: {icao24: 45e459	registration: D-IATS	model: 425 Conquest I	typecode: C425	serialnumber: 425-0035	owner: Aircraft24 Gmbh}
+Database data: {icao24: 45e459	registration: D-IAWB	model: PA-42-720 Cheyenne IIIA	typecode: PAY3	serialnumber: 42-5501054	owner: Aerowest Flugcharter Gmbh}
+Database data: {icao24: 45e459	registration: D-IAWU	model: Cessna Citation CJ1	typecode: C525	serialnumber: 525-0435	owner: Sylt Air}
+Database data: {icao24: 45e459	registration: D-IDSM	model: King Air 200GT	typecode: BE20	serialnumber: BY-269	owner: Corporate}
+Database data: {icao24: 45e459	registration: D-IDTH	model: 421C Golden Eagle	typecode: C421	serialnumber: 421C1062	owner: Private}
+Database data: {icao24: 45e459	registration: D-IDWC	model: Citation CJ2+	typecode: C25A	serialnumber: 525A0447	owner: Dw Consulting Gmbh & Co Kg}
+Database data: {icao24: 45e459	registration: D-IECI	model: Citation I	typecode: C500	serialnumber: 500-0081	owner: Corporate}
+Database data: {icao24: 45e459	registration: D-IEGA	model: null	typecode: C25A	serialnumber: null	owner: Digajet}
+Database data: {icao24: 45e459	registration: D-IEHE	model: Twin Bonanza D50	typecode: BE50	serialnumber: DH-141	owner: Private}
+Database data: {icao24: 45e459	registration: D-IEMC	model: 414A Chancellor	typecode: C414	serialnumber: 414A-0282	owner: Private}
+Database data: {icao24: 45e459	registration: D-IEMG	model: Citation Mustang	typecode: C510	serialnumber: 510-0274	owner: Emfly Gmbh}
+Database data: {icao24: 45e459	registration: D-IERH	model: Aerostar PA-60 602P	typecode: AEST	serialnumber: 60-8365016	owner: Private}
+Database data: {icao24: 45e459	registration: D-IEWR	model: PA-23 Aztec 250D	typecode: PA27	serialnumber: 27-4451	owner: Private}
+Database data: {icao24: 45e459	registration: D-IFGN	model: Piper PA-31T Cheyenne II	typecode: PAY2	serialnumber: 31T-8120052	owner: Maschinenfabrik Guido Gmbh}
+Database data: {icao24: 45e459	registration: D-IFHD	model: CitationJet M2	typecode: C25M	serialnumber: 525-0885	owner: E-aviation}
+Database data: {icao24: 45e459	registration: D-IFKU	model: Islander BN-2B-20	typecode: BN2P	serialnumber: 2290	owner: Fln}
+Database data: {icao24: 45e459	registration: D-IFRT	model: King Air C90A	typecode: BE9L	serialnumber: LJ-1284	owner: Corporate}
+Database data: {icao24: 45e459	registration: D-IFSA	model: DH.104 Dove Srs.7XC	typecode: DOVE	serialnumber: 4531	owner: Holgen Braun}
+Database data: {icao24: 45e459	registration: D-IFSB	model: 421B Golden Eagle	typecode: C421	serialnumber: 421B0561	owner: Private}
+Database data: {icao24: 45e459	registration: D-IFTI	model: Islander BN-2B-20	typecode: BN2P	serialnumber: 2299	owner: Fln}
+Database data: {icao24: 45e459	registration: D-IFUT	model: Islander BN-2T	typecode: BN2T	serialnumber: 2300	owner: Fln}
+Database data: {icao24: 45e459	registration: D-IGCS	model: Hawker Beechcraft Corp King Air C90GT	typecode: BE9L	serialnumber: LJ-2009	owner: Corporate}
+Database data: {icao24: 45e459	registration: D-IGST	model: Premier I	typecode: PRM1	serialnumber: RB-152	owner: Peak Air Gmbh}
+Database data: {icao24: 45e459	registration: D-IJLJ	model: Citation CJ1+	typecode: C525	serialnumber: 525-0644	owner: Corporate}
+Database data: {icao24: 45e459	registration: D-IJOA	model: Citation CJ2	typecode: C25A	serialnumber: 525A0034	owner: Ohlair Charter Flug}
+Database data: {icao24: 45e459	registration: D-IKFG	model: DH.89 Dragon Rapide Srs.A	typecode: DH89	serialnumber: 6853	owner: Private}
+Database data: {icao24: 45e459	registration: D-IKHS	model: Aerostar PA-601P	typecode: AEST	serialnumber: 61P-0542-231	owner: Private}
+Database data: {icao24: 45e459	registration: D-IKOE	model: Citation Mustang	typecode: C510	serialnumber: 510-0082	owner: Reederei Kopping}
+Database data: {icao24: 45e459	registration: D-IKOV	model: T310R Turbo	typecode: C310	serialnumber: 310R-0276	owner: Private}
+Database data: {icao24: 45e459	registration: D-ILAC	model: Eclipse Aviation EA500	typecode: EA50	serialnumber: 177	owner: Liebherr Aerospace Gmbh}
+Database data: {icao24: 45e459	registration: D-ILAM	model: Citation CJ2	typecode: C25A	serialnumber: 525A0070	owner: Liebherr Aerospace Gmbh}
+Database data: {icao24: 45e459	registration: D-ILAP	model: Embraer Phenom 100	typecode: E50P	serialnumber: 50000288	owner: Liebherr Aerospace Gmbh}
+Database data: {icao24: 45e459	registration: D-ILAT	model: EA550	typecode: EA55	serialnumber: 550-0269	owner: Liebherr Aerospace Gmbh}
+Database data: {icao24: 45e459	registration: D-ILAV	model: EA550	typecode: EA55	serialnumber: 550-1004	owner: Liebherr Aerospace Gmbh}
+Database data: {icao24: 45e459	registration: D-ILCA	model: PA-31 Navajo C	typecode: PA31	serialnumber: 31-7912035	owner: Private}
+Database data: {icao24: 45e459	registration: D-ILKY	model: Baron B55	typecode: BE55	serialnumber: TC-1048	owner: Private}
+Database data: {icao24: 45e459	registration: D-ILLE	model: Queen Air 65-80	typecode: BE80	serialnumber: LD-5	owner: Private}
+Database data: {icao24: 45e459	registration: D-ILSA	model: PA-23 Aztec 250E	typecode: PA27	serialnumber: 27-7305215	owner: Private}
+Database data: {icao24: 45e459	registration: D-ILTW	model: Queen Air 65-B80	typecode: BE80	serialnumber: LD-96	owner: Private}
+Database data: {icao24: 45e459	registration: D-ILWA	model: 340A	typecode: C340	serialnumber: 340A0502	owner: Private}
+Database data: {icao24: 45e459	registration: D-IMEI	model: Duke A60	typecode: BE60	serialnumber: P-145	owner: Private}
+Database data: {icao24: 45e459	registration: D-IMKL	model: 340A	typecode: C340	serialnumber: 340A1279	owner: Private}
+Database data: {icao24: 45e459	registration: D-IMME	model: Citation II	typecode: C551	serialnumber: 551-0400	owner: Commander Flugdienst Gmbh}
+Database data: {icao24: 45e459	registration: D-IMOB	model: Do 28 G-92 Skyservant	typecode: D28T	serialnumber: 4199	owner: Private}
+Database data: {icao24: 45e459	registration: D-IMOR	model: Embraer Phenom 100	typecode: E50P	serialnumber: 50000281	owner: Starwings Gmbh}
+Database data: {icao24: 45e459	registration: D-IMPC	model: Cessna Citation CJ1+	typecode: C525	serialnumber: 525-0639	owner: Schroeder Industrieofen Gmbh}
+Database data: {icao24: 45e459	registration: D-IMPG	model: C90GTi	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-IMWM	model: Cessna 340	typecode: C340	serialnumber: 340-0095	owner: Private}
+Database data: {icao24: 45e459	registration: D-IPOD	model: Citation CJ1	typecode: C525	serialnumber: 525-0193	owner: Proair Aviation Gmbh}
+Database data: {icao24: 45e459	registration: D-IPPY	model: null	typecode: P180	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-IPVD	model: Citation CJ2	typecode: C25A	serialnumber: 525A0218	owner: Transavia Flugbetriebs Gmbh}
+Database data: {icao24: 45e459	registration: D-IPWA	model: 421B Golden Eagle	typecode: C421	serialnumber: 421B0632	owner: Private}
+Database data: {icao24: 45e459	registration: D-IRAY	model: DA62	typecode: DA62	serialnumber: 62.047	owner: Private}
+Database data: {icao24: 45e459	registration: D-IRBS	model: P-180 Avanti II	typecode: P180	serialnumber: 1221	owner: Reiner Brach Aviation Gmbh}
+Database data: {icao24: 45e459	registration: D-IRCB	model: Baron B55	typecode: BE55	serialnumber: TC-1513	owner: Private}
+Database data: {icao24: 45e459	registration: D-IRIZ	model: Citation Mustang	typecode: C510	serialnumber: 510-0410	owner: Euro-tour}
+Database data: {icao24: 45e459	registration: D-IRKE	model: Citation CJ1	typecode: C525	serialnumber: 525-0123	owner: German Private Jet Group Ag}
+Database data: {icao24: 45e459	registration: D-IRSB	model: Citation CJ1	typecode: C525	serialnumber: 525-0476	owner: Sfd Stuttgarter Flugdienst}
+Database data: {icao24: 45e459	registration: D-IRUN	model: Cessna Citation Mustang	typecode: C510	serialnumber: 510-0424	owner: Luxaviation Germany}
+Database data: {icao24: 45e459	registration: D-IRUP	model: Citation II	typecode: C551	serialnumber: 551-0572	owner: R & P Flugcharter Gmbh}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-IRWR	model: Citation CJ1	typecode: C525	serialnumber: 525-0118	owner: Peak Air Gmbh}
+Database data: {icao24: 45e459	registration: D-ISCA	model: Cessna T303 Crusader	typecode: C303	serialnumber: T303-00175	owner: Private}
+Database data: {icao24: 45e459	registration: D-ISCO	model: Cessna Citation CJ2	typecode: C25A	serialnumber: 525A0151	owner: Windrose Air Jetcharter Gmbh}
+Database data: {icao24: 45e459	registration: D-ISCV	model: Citation CJ2+	typecode: C25A	serialnumber: 525A0429	owner: Christine Volkmann}
+Database data: {icao24: 45e459	registration: D-ISEA	model: Claudius Dornier CD-2 Seater	typecode: ZZZZ	serialnumber: 1002	owner: Private}
+Database data: {icao24: 45e459	registration: D-ISGW	model: Cessna Citation CJ1	typecode: C525	serialnumber: 525-0070	owner: German Private Jet Group Ag}
+Database data: {icao24: 45e459	registration: D-ISRM	model: Citation Mustang	typecode: C510	serialnumber: 510-0035	owner: Inovex Charter Gmbh}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-ISXT	model: Cessna Citation Mustang	typecode: C510	serialnumber: 510-0446	owner: Sixt Autovermietung Gmbh}
+Database data: {icao24: 45e459	registration: D-ITAN	model: Citation CJ1	typecode: C525	serialnumber: 525-0399	owner: E-aviation}
+Database data: {icao24: 45e459	registration: D-IVPD	model: Cessna Citation CJ1	typecode: C525	serialnumber: 525-0181	owner: Salzburg Jet Aviation}
+Database data: {icao24: 45e459	registration: D-IWAS	model: T303 Crusader	typecode: C303	serialnumber: T303-00111	owner: Private}
+Database data: {icao24: 45e459	registration: D-IWAW	model: King Air B200	typecode: BE20	serialnumber: BB-526	owner: Weser Airborne Sensing Gmbh}
+Database data: {icao24: 45e459	registration: D-IWID	model: King Air C90B	typecode: BE9L	serialnumber: LJ-1450	owner: Widerker Aircraft Gmbh}
+Database data: {icao24: 45e459	registration: D-IWIR	model: Citation CJ2	typecode: C25A	serialnumber: 525A0102	owner: Ohlair Charter Flug}
+Database data: {icao24: 45e459	registration: D-IXAA	model: Hawker Beechcraft Corp King Air C90GTI	typecode: BE9L	serialnumber: LJ-1908	owner: Peak Air Gmbh}
+Database data: {icao24: 45e459	registration: D-IXKJ	model: Piper Aerostar PA-601P	typecode: AEST	serialnumber: 61P-0607-7963272	owner: Private}
+Database data: {icao24: 45e459	registration: D-IXXX	model: Cessna Citation CJ1	typecode: C525	serialnumber: 525-0393	owner: Proair Aviation Gmbh}
+Database data: {icao24: 45e459	registration: D-IYYY	model: 402C	typecode: C402	serialnumber: 402C0461	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBOB	model: H 36 Dimona	typecode: DIMO	serialnumber: 3620	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBOH	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29627	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBOR	model: DG-500MB	typecode: DG50	serialnumber: 5E241MB18	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBOS	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29640	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KBOV	model: ASW 24 E	typecode: AS24	serialnumber: 24825	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBOX	model: IS-28M 2/GR	typecode: IS28	serialnumber: 79	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBOY	model: Piccolo B	typecode: GLID	serialnumber: 66	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBPG	model: Arcus M	typecode: ARCP	serialnumber: 101/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBPK	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36391	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBPM	model: ASW 28 18E	typecode: AS28	serialnumber: 28711	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBPP	model: Ventus 2c M	typecode: VENT	serialnumber: 141/	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KBRG	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KBRC	model: ASH 31 Mi	typecode: AS31	serialnumber: 31078	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBRD	model: Discus bT	typecode: DISC	serialnumber: 103/445	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBRE	model: S10	typecode: S10S	serialnumber: 10-3	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBRG	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KBRI	model: DG-1000T	typecode: DG1T	serialnumber: 10-90T26	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KBSA	model: DG-800B	typecode: DG80	serialnumber: 8-205B127	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBSK	model: SF-25C Turbo Falke	typecode: SF25	serialnumber: null	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBSL	model: Ventus 2c M	typecode: VENT	serialnumber: 103/215	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBSM	model: SF-25B Falke	typecode: SF25	serialnumber: 46105	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBSR	model: ASH 26 E	typecode: AS26	serialnumber: 26114	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBTB	model: Nimbus 4D M	typecode: NIMB	serialnumber: 26/37	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBTP	model: ASH 25 EB28	typecode: AS25	serialnumber: 25255	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBTR	model: DG-500M	typecode: DG50	serialnumber: 5E6M4	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBTS	model: Discus bM	typecode: GLID	serialnumber: 5/456	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBTT	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36357	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBXY	model: Duo Discus xT	typecode: DUOD	serialnumber: 137/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KBYT	model: G 109	typecode: G109	serialnumber: 6025	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCAA	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44620	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCAB	model: SF-25B Falke	typecode: SF25	serialnumber: 4820	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCAJ	model: SF-25B Falke	typecode: SF25	serialnumber: 46207	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCAK	model: Ventus 2c M	typecode: VENT	serialnumber: 63/125	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCAM	model: Discus bT	typecode: DISC	serialnumber: 157/558	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCAO	model: SF-25D Falke	typecode: SF25	serialnumber: 46149D	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCAQ	model: SF-25D Falke	typecode: SF25	serialnumber: 46151D	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCAR	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36396	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCBA	model: ASH 26 E	typecode: AS26	serialnumber: 26238	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCBB	model: PIK-20 E	typecode: PK20	serialnumber: 20268	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCBC	model: Ventus cM	typecode: VENT	serialnumber: 27/460	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCBO	model: ASW 24 E	typecode: AS24	serialnumber: 24824	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCBP	model: Discus 2 T	typecode: DISC	serialnumber: 37/204	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCBR	model: Ventus 2c M	typecode: VENT	serialnumber: 101/211	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCBS	model: DG-800B	typecode: DG80	serialnumber: 8-264B172	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCBW	model: Arcus M	typecode: ARCP	serialnumber: 51/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCCH	model: ASH 26 E	typecode: AS26	serialnumber: 26060	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCCL	model: ASH 31 Mi	typecode: AS31	serialnumber: 31041	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCCN	model: ASH 26 E	typecode: AS26	serialnumber: 26144	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCCW	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.688	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCDB	model: ASW 28 18E	typecode: AS28	serialnumber: 28719	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCHS	model: Ventus 2c T	typecode: VENT	serialnumber: 40/131	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCHT	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36341	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KCIB	model: RF-5	typecode: RF5	serialnumber: 5105	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCII	model: RF-5B Sperber	typecode: RF5	serialnumber: 51008	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCIJ	model: RF-5B Sperber	typecode: RF5	serialnumber: 51011	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCIK	model: RF-5B Sperber	typecode: RF5	serialnumber: 51003	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCIL	model: Piccolo B	typecode: GLID	serialnumber: 104	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCIN	model: RF-5B Sperber	typecode: RF5	serialnumber: 51015	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCJB	model: Ventus 2c xM	typecode: VENT	serialnumber: 267/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCJT	model: Ventus 2c M	typecode: VENT	serialnumber: 52/106	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCKM	model: ASW 20 CLT	typecode: GLID	serialnumber: 20727	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCKN	model: Discus 2c T	typecode: DISC	serialnumber: 66/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCKU	model: S6	typecode: S6	serialnumber: 6.T.09.008	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCKW	model: Ventus 2c xM	typecode: VENT	serialnumber: 169/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCLB	model: ASW 20 TOP	typecode: GLID	serialnumber: 20738	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCLD	model: SF-28A Tandem-Falke	typecode: SF28	serialnumber: 5774	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCLL	model: DG-808xB Competition	typecode: DG80	serialnumber: 8-385B284X46	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCLO	model: G 109B	typecode: G109	serialnumber: 6346	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCMB	model: Arcus M	typecode: ARCP	serialnumber: 84/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCMC	model: Ventus 2c xM	typecode: VENT	serialnumber: 184/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCMD	model: DG-808xB Competition	typecode: DG80	serialnumber: 8-338B237X6	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCMH	model: ASH 26 E	typecode: AS26	serialnumber: 26024	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCMI	model: Ventus 2c xM	typecode: VENT	serialnumber: 144/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCMR	model: Discus 2c T	typecode: DISC	serialnumber: 86/	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KCNO	model: Arcus T	typecode: ARCP	serialnumber: 16/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCRS	model: Ventus 2c xT	typecode: VENT	serialnumber: 216/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCRT	model: Janus CT	typecode: GLID	serialnumber: 14/273	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCSE	model: Duo Discus xLT	typecode: DUOD	serialnumber: 219/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCSF	model: SF-25B Falke	typecode: SF25	serialnumber: 4626	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCSG	model: ASW 24 E	typecode: AS24	serialnumber: 24835	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KCSM	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29618	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCSW	model: DG-800B	typecode: DG80	serialnumber: 8-226B140	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCSX	model: Ventus 2c M	typecode: VENT	serialnumber: 118/253	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCTA	model: H 36 Dimona	typecode: DIMO	serialnumber: 36103	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCTC	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29705	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCTO	model: DG-800B	typecode: DG80	serialnumber: 8-59B8	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCTP	model: ASH 25 EB28	typecode: AS25	serialnumber: 9	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCTT	model: Ventus cM	typecode: VENT	serialnumber: 53/500	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCUB	model: Ventus 2c xT	typecode: VENT	serialnumber: 193/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCUF	model: Discus bT	typecode: DISC	serialnumber: 54/372	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCUX	model: S6	typecode: S6	serialnumber: 6.T.09.009	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCVH	model: DG-800B	typecode: DG80	serialnumber: 8-333B232	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCVN	model: DG-808xB Competition	typecode: DG80	serialnumber: 8-355B254X19	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCWB	model: DG-400	typecode: DG40	serialnumber: 4-267	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCWD	model: ASH 26 E	typecode: AS26	serialnumber: 26108	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCWE	model: Discus bT	typecode: DISC	serialnumber: 48/364	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCWF	model: Arcus M	typecode: ARCP	serialnumber: 6/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KCWS	model: Discus bT	typecode: DISC	serialnumber: 63/387	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDBK	model: SF-25K Falke	typecode: SF25	serialnumber: 4901	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDBL	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44266	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDBM	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44271	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDBN	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44263	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDBO	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44269	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDBQ	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44273	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDBR	model: SF-25C Falke	typecode: SF25	serialnumber: 44277	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDBS	model: SF-25E Super Falke	typecode: SF25	serialnumber: 4347	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KDCB	model: LS9	typecode: GLID	serialnumber: 9007	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDCE	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44235	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDCG	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44389	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDCH	model: SF-25E Super Falke	typecode: SF25	serialnumber: 4337	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDCS	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44245	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDCT	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44240	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDDG	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44132	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDDK	model: Scheibe SF-25C Falke 1700	typecode: SF25	serialnumber: 44136	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDDM	model: 304 Shark MS	typecode: GLID	serialnumber: 023-MS	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDDP	model: Bergfalke IV M	typecode: GLID	serialnumber: 5901	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDDW	model: DG-600	typecode: DG60	serialnumber: 6-91M37	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDEB	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44144	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDEU	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44194	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDFE	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44211	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDFF	model: S10 VT	typecode: S10S	serialnumber: 11-029	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDFI	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44217	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDFJ	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44222	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDFK	model: ASH 26 E	typecode: AS26	serialnumber: 26018	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDFL	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 46118	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDFT	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44216	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDFU	model: SF-25C Falke	typecode: SF25	serialnumber: 44221	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDGB	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44280	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDGI	model: SF-25C Falke	typecode: SF25	serialnumber: 44289	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDGJ	model: B4-PC11	typecode: GLID	serialnumber: 82	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDGM	model: SF-35 Falke	typecode: GLID	serialnumber: 4701	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDGN	model: SF-25C Falke	typecode: SF25	serialnumber: 44293	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDGP	model: SF-25C Falke	typecode: SF25	serialnumber: 44295	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDHA	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.647	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDHB	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29644	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDHE	model: E1 Antares 20E	typecode: LAE1	serialnumber: null	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDHF	model: Discus bT	typecode: DISC	serialnumber: 58/380	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDHG	model: Ventus 2c xM	typecode: VENT	serialnumber: 168/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDHH	model: Ventus cM	typecode: VENT	serialnumber: 50/494	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDLH	model: Ventus 2c xM	typecode: VENT	serialnumber: 196/	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KDMB	model: ASH 31 Mi	typecode: AS31	serialnumber: 31075	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDMC	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29576	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDMD	model: DG-800B	typecode: DG80	serialnumber: 8-224B138	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDMM	model: E1 Antares 20E	typecode: LAE1	serialnumber: 6,20000000000000E+52	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDMO	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29658	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDMS	model: G 109	typecode: G109	serialnumber: 6059	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDOB	model: RF-9	typecode: RF9	serialnumber: 6	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDOL	model: ASH 31 Mi	typecode: AS31	serialnumber: 31044	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDOM	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36313	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDON	model: DG-400	typecode: DG40	serialnumber: 4-41	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDPB	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36348	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDPF	model: Ventus 2c xaj	typecode: VENT	serialnumber: 121/520	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDPR	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36340	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDPS	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36361	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDPV	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36364	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDRA	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36334	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDRD	model: S10 VT	typecode: S10S	serialnumber: 11-078	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDWN	model: G 109B	typecode: G109	serialnumber: 6221	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDWR	model: DG-400	typecode: DG40	serialnumber: 4-97	owner: Private}
+Database data: {icao24: 45e459	registration: D-KDXT	model: Duo Discus xT	typecode: DUOD	serialnumber: 154/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAA	model: RF-5	typecode: RF5	serialnumber: 5092	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAB	model: ASH 26 E	typecode: AS26	serialnumber: 26092	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAF	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 4225	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAH	model: RF-5	typecode: RF5	serialnumber: 5110	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAJ	model: DG-808xB Competition	typecode: DG80	serialnumber: 8-390B289X51	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAS	model: Ventus cT	typecode: VENT	serialnumber: 165/540	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAT	model: SF-25B Falke	typecode: SF25	serialnumber: 46253	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAV	model: RF-5B Sperber	typecode: RF5	serialnumber: 51039	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAW	model: RF-5B Sperber	typecode: RF5	serialnumber: 51040	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAY	model: RF-5B Sperber	typecode: RF5	serialnumber: 51042	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEAZ	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44578	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEEY	model: H 36 Dimona	typecode: DIMO	serialnumber: 3643	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEFC	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44153	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEFG	model: SF-25C Falke	typecode: SF25	serialnumber: 44157	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEFO	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44163	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEFS	model: SF-25C Falke	typecode: SF25	serialnumber: 44167	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEFT	model: SF-25C Falke	typecode: SF25	serialnumber: 44170	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEFW	model: SF-25C Falke	typecode: SF25	serialnumber: 44168	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEFX	model: SF-25C Falke	typecode: SF25	serialnumber: 44171	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEGF	model: ASH 26 E	typecode: AS26	serialnumber: 26046	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEGH	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.654	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEGL	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44525	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEGM	model: ASH 25 E	typecode: AS25	serialnumber: 25047	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEGU	model: RS.1 Hot Air Balloon	typecode: BALL	serialnumber: 1	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEGY	model: Discus 2c T	typecode: DISC	serialnumber: 118/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEHA	model: PIK-20 E	typecode: PK20	serialnumber: 20239	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEHB	model: ASH 25 Mi	typecode: AS25	serialnumber: 25235	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEHC	model: DG-400	typecode: DG40	serialnumber: 4-34	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEHD	model: 304 Shark MS	typecode: GLID	serialnumber: 015-MS	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEHK	model: E1 Antares	typecode: GLID	serialnumber: 2	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEHL	model: Discus 2c T	typecode: DISC	serialnumber: 76/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEHM	model: Piccolo	typecode: GLID	serialnumber: 4	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEHO	model: G 109	typecode: G109	serialnumber: 6022	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEIC	model: Duo Discus xT	typecode: DUOD	serialnumber: 134/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEIE	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 4494	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEIH	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 4488	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEII	model: Discus 2c T	typecode: DISC	serialnumber: 119/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEIJ	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 4490	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEIS	model: Carat A	typecode: GLID	serialnumber: CA009	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEIZ	model: ASW 24 E	typecode: AS24	serialnumber: 24850	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEJK	model: Nimbus 3D M	typecode: NIMB	serialnumber: 11/29	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEKB	model: Ventus cT	typecode: VENT	serialnumber: 97/350	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEKE	model: S10 VT	typecode: S10S	serialnumber: 11-009	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEKF	model: DG-400	typecode: DG40	serialnumber: 4-18	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEKM	model: G 109B	typecode: G109	serialnumber: 6427	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEKS	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44391	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEPA	model: ASH 25 E	typecode: AS25	serialnumber: 25031	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEPB	model: G 109B	typecode: G109	serialnumber: 6347	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEPM	model: Ventus 2c xT	typecode: VENT	serialnumber: 244/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEPO	model: H 36 Dimona	typecode: DIMO	serialnumber: 3689	owner: Augsburger Verein Für Segelflug}
+Database data: {icao24: 45e459	registration: D-KEPS	model: Discus bT	typecode: DISC	serialnumber: 23/316	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEPT	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.544	owner: Private}
+Database data: {icao24: 45e459	registration: D-KERG	model: DG-500M	typecode: DG50	serialnumber: 5E103M47	owner: Private}
+Database data: {icao24: 45e459	registration: D-KERH	model: FA-01 Smaragd	typecode: FA01	serialnumber: 01/05	owner: Private}
+Database data: {icao24: 45e459	registration: D-KERL	model: RF-4 D	typecode: RF4	serialnumber: 4046	owner: Private}
+Database data: {icao24: 45e459	registration: D-KERM	model: ASH 31 Mi	typecode: AS31	serialnumber: 31098	owner: Private}
+Database data: {icao24: 45e459	registration: D-KERO	model: DG-800B	typecode: DG80	serialnumber: 8-233B147	owner: Private}
+Database data: {icao24: 45e459	registration: D-KERW	model: ASH 26 E	typecode: AS26	serialnumber: 26078	owner: Private}
+Database data: {icao24: 45e459	registration: D-KERY	model: RF-5B Sperber	typecode: RF5	serialnumber: 51010	owner: Private}
+Database data: {icao24: 45e459	registration: D-KERZ	model: ASH 26 E	typecode: AS26	serialnumber: 26245	owner: Private}
+Database data: {icao24: 45e459	registration: D-KESA	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29582	owner: Private}
+Database data: {icao24: 45e459	registration: D-KESD	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.556	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KESF	model: ASK 21 Mi	typecode: GLID	serialnumber: 21880	owner: Private}
+Database data: {icao24: 45e459	registration: D-KESM	model: DG-1000T	typecode: DG1T	serialnumber: 10-82T21	owner: Private}
+Database data: {icao24: 45e459	registration: D-KESP	model: Ventus 2c M	typecode: VENT	serialnumber: 71/146	owner: Private}
+Database data: {icao24: 45e459	registration: D-KESS	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44110	owner: Club Mose}
+Database data: {icao24: 45e459	registration: D-KEST	model: DG-400	typecode: DG40	serialnumber: 4-20	owner: Private}
+Database data: {icao24: 45e459	registration: D-KESU	model: Ventus 2c M	typecode: VENT	serialnumber: 56/110	owner: Private}
+Database data: {icao24: 45e459	registration: D-KETE	model: 304 Shark MS	typecode: GLID	serialnumber: 032-MS	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KETL	model: G 102 Astir CS77/TOP	typecode: G102	serialnumber: 1662	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KETT	model: DG-800B	typecode: DG80	serialnumber: 8-203B125	owner: Private}
+Database data: {icao24: 45e459	registration: D-KETU	model: Discus 2c T	typecode: DISC	serialnumber: 12/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KETY	model: SF-25C Falke	typecode: SF25	serialnumber: 4227	owner: Private}
+Database data: {icao24: 45e459	registration: D-KETZ	model: G 109B	typecode: G109	serialnumber: 6361	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEUB	model: Ventus 2c xT	typecode: VENT	serialnumber: 153/	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KEUN	model: Taifun 17E	typecode: TFUN	serialnumber: 1063	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEUP	model: Nimbus 3D T	typecode: NIMB	serialnumber: 60	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEYX	model: Ventus bT	typecode: VENT	serialnumber: 30/199	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEYY	model: Ventus cM	typecode: VENT	serialnumber: 7/423	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEZL	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44485	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEZW	model: Diamond HK 36TC 100 Super Dimona	typecode: DIMO	serialnumber: 36.856	owner: Private}
+Database data: {icao24: 45e459	registration: D-KEZZ	model: Piccolo B	typecode: GLID	serialnumber: 67	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFAA	model: Ventus 2c M	typecode: VENT	serialnumber: 23/44	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFAB	model: Ventus 2c M	typecode: VENT	serialnumber: 80/167	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFAC	model: Ventus 2c M	typecode: VENT	serialnumber: 68/140	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFAD	model: Ventus cT	typecode: VENT	serialnumber: 152/487	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFAE	model: HB-23 2400 Hobbyliner	typecode: GLID	serialnumber: 23034	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFAM	model: Ventus 2c xT	typecode: VENT	serialnumber: 172/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFAN	model: DG-500M	typecode: DG50	serialnumber: 5E95M41	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFAR	model: G 109B	typecode: G109	serialnumber: 6211	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFAS	model: DG-800B	typecode: DG80	serialnumber: 8-288B194	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFAT	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44569	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFBE	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44210	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFBG	model: PIK-20 E	typecode: PK20	serialnumber: 20223	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFBI	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36525	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFBK	model: Taifun 17E-II	typecode: TFUN	serialnumber: 1118	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFBW	model: AMT-200S Super Ximango	typecode: RF10	serialnumber: 200-070	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFBZ	model: H 36 Dimona	typecode: DIMO	serialnumber: 3669	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFCB	model: DG-800B	typecode: DG80	serialnumber: 8-214B131	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFCK	model: SZD-45A Ogar	typecode: SZ45	serialnumber: B-649	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFCL	model: Duo Discus xT	typecode: DUOD	serialnumber: 131/480	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFCN	model: Discus 2c T	typecode: DISC	serialnumber: 116/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFCO	model: G 109	typecode: G109	serialnumber: 6120	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFCP	model: DG-400	typecode: DG40	serialnumber: 4-263	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFCR	model: DG-1000M	typecode: DG1T	serialnumber: 10-207M23	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFDG	model: DG-800B	typecode: DG80	serialnumber: 8-219B133	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFDH	model: DG-400	typecode: DG40	serialnumber: 4-49	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFDR	model: Discus 2c T	typecode: DISC	serialnumber: 70/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFDS	model: Duo Discus T	typecode: DUOD	serialnumber: 17/269	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFDT	model: Duo Discus xLT	typecode: DUOD	serialnumber: 224/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFEE	model: H 36 Dimona	typecode: DIMO	serialnumber: 36273	owner: Private}
+Database data: {icao24: 45e459	registration: D-KFEL	model: Scheibe SF-25C Falke 2000	typecode: SF25	serialnumber: 44495	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KFEN	model: DG-800B	typecode: DG80	serialnumber: 8-317B217	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHPT	model: ASH 26 E	typecode: AS26	serialnumber: 26110	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHPU	model: Ventus 2c M	typecode: VENT	serialnumber: 105/218	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHQH	model: HK 36TC 100 Super Dimona	typecode: DIMO	serialnumber: 36.814	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHRB	model: HK 36R Super Dimona	typecode: DIMO	serialnumber: 36376	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHRD	model: Arcus M	typecode: ARCP	serialnumber: 35/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHRL	model: ASH 25 Mi	typecode: AS25	serialnumber: 25214	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KHSC	model: Nimbus 2M	typecode: NIMB	serialnumber: 6	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHSF	model: Ventus cT	typecode: VENT	serialnumber: 125/399	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHSR	model: DG-600 18M	typecode: DG60	serialnumber: 6-108M49	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHSS	model: Nimbus 3 T	typecode: NIMB	serialnumber: 24/90	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHST	model: DG-800B	typecode: DG80	serialnumber: 8-318B218	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHSW	model: Mistral CM	typecode: GLID	serialnumber: MC071/85	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHSY	model: ASH 26 E	typecode: AS26	serialnumber: 26230	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KHUB	model: DG-800B	typecode: DG80	serialnumber: 8-162B86	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHVG	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29591	owner: Private}
+Database data: {icao24: 45e459	registration: D-KHVI	model: G 102 Astir CS77/TOP	typecode: G102	serialnumber: 1797	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAA	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44438	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAC	model: SF-25C Falke 2100	typecode: SF25	serialnumber: 44440	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAD	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44443	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAE	model: DG-1000T	typecode: DG1T	serialnumber: 10-196T54	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAF	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44445	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAG	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44442	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAH	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44456	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAI	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44467	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAJ	model: Ventus 2c T	typecode: VENT	serialnumber: 86/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAR	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44458	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAS	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44470	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAT	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44472	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAV	model: SF-25E Super Falke	typecode: SF25	serialnumber: 4334	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAW	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44473	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAY	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44482	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIAZ	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44474	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KIBN	model: PIK-20 E	typecode: PK20	serialnumber: 20251	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIBO	model: Janus BM	typecode: GLID	serialnumber: 1/56	owner: Private}
+Database data: {icao24: 45e459	registration: D-KICA	model: Ventus 2c M	typecode: VENT	serialnumber: 124/273	owner: Private}
+Database data: {icao24: 45e459	registration: D-KICB	model: DG-800B	typecode: DG80	serialnumber: 8-124B53	owner: Private}
+Database data: {icao24: 45e459	registration: D-KICC	model: Ventus 2c M	typecode: VENT	serialnumber: 79/162	owner: Private}
+Database data: {icao24: 45e459	registration: D-KICD	model: ASK 14	typecode: GLID	serialnumber: 14057	owner: Private}
+Database data: {icao24: 45e459	registration: D-KICE	model: ASK 14	typecode: GLID	serialnumber: 14058	owner: Private}
+Database data: {icao24: 45e459	registration: D-KICF	model: ASK 14	typecode: GLID	serialnumber: 14059	owner: Private}
+Database data: {icao24: 45e459	registration: D-KICM	model: Ventus cM	typecode: VENT	serialnumber: 55/504	owner: Private}
+Database data: {icao24: 45e459	registration: D-KICO	model: Taifun 17E-II	typecode: TFUN	serialnumber: 1121	owner: Private}
+Database data: {icao24: 45e459	registration: D-KICP	model: ASW 24 E	typecode: AS24	serialnumber: 24860	owner: Private}
+Database data: {icao24: 45e459	registration: D-KICR	model: Ventus 2c T	typecode: VENT	serialnumber: 80/245	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIDF	model: ASH 26 E	typecode: AS26	serialnumber: 26153	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIDG	model: DG-1000T	typecode: DG1T	serialnumber: 10-101T32	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIDH	model: ASH 26 E	typecode: AS26	serialnumber: 26031	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIDI	model: Kiwi	typecode: GLID	serialnumber: K-3011	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIDK	model: Discus bT	typecode: DISC	serialnumber: 264	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIDS	model: DG-400	typecode: DG40	serialnumber: 4-208	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIDT	model: Discus 2c T	typecode: DISC	serialnumber: 28/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIDX	model: Nimbus 4D M	typecode: NIMB	serialnumber: 54/74	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEA	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44648	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEB	model: Ventus cT	typecode: VENT	serialnumber: 112/381	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEI	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44674	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEJ	model: SF-25C Falke	typecode: SF25	serialnumber: 44687	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEK	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44638	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEL	model: Duo Discus T	typecode: DUOD	serialnumber: 57/344	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEM	model: Ventus bT	typecode: VENT	serialnumber: 29/198	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEN	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44653	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEO	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44671	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEP	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44668	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEQ	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44682	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIER	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44637	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEY	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44676	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIEZ	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44639	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIFA	model: PIK-20 E	typecode: PK20	serialnumber: 20247	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIFB	model: DG-400	typecode: DG40	serialnumber: 4-205	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIFC	model: Nimbus 3D M	typecode: NIMB	serialnumber: 3/16	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIFD	model: RF-5	typecode: RF5	serialnumber: 5045	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIFE	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44726	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIFF	model: SFS-31 Milan	typecode: GLID	serialnumber: 6604	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIJH	model: Ventus 2c M	typecode: VENT	serialnumber: 8/25	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KIJO	model: DG-600 18M	typecode: DG60	serialnumber: 6-97M43	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KIKA	model: ASW 20 TOP	typecode: GLID	serialnumber: 20395	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KIKE	model: RF-3	typecode: RF3	serialnumber: 42	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIKO	model: Grob G 109	typecode: G109	serialnumber: 6017	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIKR	model: Ventus cT	typecode: VENT	serialnumber: 132/410	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIKS	model: DG-800B	typecode: DG80	serialnumber: 8-169B93	owner: Private}
+Database data: {icao24: 45e459	registration: D-KILE	model: DG-600 18M	typecode: DG60	serialnumber: 6-90M36	owner: Private}
+Database data: {icao24: 45e459	registration: D-KILH	model: Ventus 2c M	typecode: VENT	serialnumber: 12/29	owner: Private}
+Database data: {icao24: 45e459	registration: D-KILI	model: Arcus M	typecode: ARCP	serialnumber: 109/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KILK	model: ASH 25 E	typecode: AS25	serialnumber: 25072	owner: Private}
+Database data: {icao24: 45e459	registration: D-KILL	model: 304 Shark MS	typecode: GLID	serialnumber: 025-MS	owner: Private}
+Database data: {icao24: 45e459	registration: D-KILS	model: LS9	typecode: GLID	serialnumber: 9000	owner: Private}
+Database data: {icao24: 45e459	registration: D-KILT	model: RF-4 D	typecode: RF4	serialnumber: 4027	owner: Private}
+Database data: {icao24: 45e459	registration: D-KILU	model: B-13	typecode: GLID	serialnumber: 1	owner: Private}
+Database data: {icao24: 45e459	registration: D-KILY	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29623	owner: Private}
+Database data: {icao24: 45e459	registration: D-KILZ	model: Ventus 2c M	typecode: VENT	serialnumber: 99/209	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIMA	model: Ventus bT	typecode: VENT	serialnumber: 39/229	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIMB	model: DG-400	typecode: DG40	serialnumber: 4-201	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIMJ	model: Discus bT	typecode: DISC	serialnumber: 27/321	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIML	model: SF-27 M-A	typecode: GLID	serialnumber: 6307	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIMM	model: ASK 21 Mi	typecode: GLID	serialnumber: 21840	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIMO	model: Duo Discus T	typecode: DUOD	serialnumber: 9/254	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIMP	model: RF-5	typecode: RF5	serialnumber: 5070	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIMR	model: DG-400	typecode: DG40	serialnumber: 4-231	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIMY	model: Arcus M	typecode: ARCP	serialnumber: 5/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KINA	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44464	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIND	model: RF-5	typecode: RF5	serialnumber: 5056	owner: Private}
+Database data: {icao24: 45e459	registration: D-KINE	model: G 109B	typecode: G109	serialnumber: 6423	owner: Private}
+Database data: {icao24: 45e459	registration: D-KING	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.691	owner: Private}
+Database data: {icao24: 45e459	registration: D-KINO	model: RF-3	typecode: RF3	serialnumber: 75	owner: Private}
+Database data: {icao24: 45e459	registration: D-KINT	model: SF-25C Falke	typecode: SF25	serialnumber: 44561	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOE	model: SF-25C Falke	typecode: SF25	serialnumber: 44498	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOF	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44493	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOG	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44504	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOH	model: ASW 20 TOP	typecode: GLID	serialnumber: 20038	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOI	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44516	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOJ	model: Nimbus 4 M	typecode: NIMB	serialnumber: 3/14	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOK	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44522	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOL	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44511	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOM	model: SF-25C Falke 2100	typecode: SF25	serialnumber: 44521	owner: Private}
+Database data: {icao24: 45e459	registration: D-KION	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44526	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOU	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44551	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOV	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44541	owner: Augsburger Verein Für Segelflug}
+Database data: {icao24: 45e459	registration: D-KIOW	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44537	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOX	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44507	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOY	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44596	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIOZ	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44544	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIPA	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44111	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIPC	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44113	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIPD	model: SF-25C Falke 1700	typecode: SF25	serialnumber: 44114	owner: Private}
+Database data: {icao24: 45e459	registration: D-KITE	model: RF-3	typecode: RF3	serialnumber: 65	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KITH	model: Discus bT	typecode: DISC	serialnumber: 44/358	owner: Private}
+Database data: {icao24: 45e459	registration: D-KITI	model: RF-3	typecode: RF3	serialnumber: 57	owner: Private}
+Database data: {icao24: 45e459	registration: D-KITK	model: ASH 25 EB29	typecode: AS25	serialnumber: 24	owner: Private}
+Database data: {icao24: 45e459	registration: D-KITL	model: Ventus cT	typecode: VENT	serialnumber: 86/331	owner: Private}
+Database data: {icao24: 45e459	registration: D-KITS	model: DG-800B	typecode: DG80	serialnumber: 8-51B5	owner: Private}
+Database data: {icao24: 45e459	registration: D-KITT	model: Ventus 2c M	typecode: VENT	serialnumber: 88/184	owner: Private}
+Database data: {icao24: 45e459	registration: D-KITY	model: ASK 16	typecode: AS16	serialnumber: 16028	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIUP	model: LS10	typecode: GLID	serialnumber: L10-022	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIVA	model: SF-25A Motorfalke	typecode: SF25	serialnumber: 4503	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIVE	model: ASK 16	typecode: AS16	serialnumber: 16013	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIVO	model: ASK 16 K16X	typecode: AS16	serialnumber: 2	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIVP	model: Ventus cM	typecode: VENT	serialnumber: 102/595	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIVU	model: Taifun 17E	typecode: TFUN	serialnumber: 1019	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIVW	model: ASW 24 E	typecode: AS24	serialnumber: 24803	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIWE	model: Ventus 2c xM	typecode: VENT	serialnumber: 269/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIWG	model: DG-600 18M	typecode: DG60	serialnumber: 6-94M40	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIWK	model: ASH 25 E	typecode: AS25	serialnumber: 25079	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIWM	model: Ventus cT	typecode: VENT	serialnumber: 154/497	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIWW	model: Arcus M	typecode: ARCP	serialnumber: 116/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIWY	model: Samburo AVo-68 V	typecode: AV68	serialnumber: 15	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIXL	model: Duo Discus xLT	typecode: DUOD	serialnumber: 231/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIYB	model: Discus 2c T	typecode: DISC	serialnumber: 62/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIYY	model: Ventus bT	typecode: VENT	serialnumber: 42/232	owner: Private}
+Database data: {icao24: 45e459	registration: D-KIYZ	model: ASH 26 E	typecode: AS26	serialnumber: 26201	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJDG	model: DG-1001M	typecode: DG1T	serialnumber: 10-133M1	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJFS	model: Discus bT	typecode: DISC	serialnumber: 20/307	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJGA	model: LAK-17 AT Turbo	typecode: LK17	serialnumber: 133	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJHH	model: Discus bT	typecode: DISC	serialnumber: 61/383	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJHK	model: Ventus bT	typecode: VENT	serialnumber: 5/124	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJHL	model: Discus 2 T	typecode: DISC	serialnumber: 1/64	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KJNN	model: RF-4 D	typecode: RF4	serialnumber: 4135	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJOH	model: ASH 26 E	typecode: AS26	serialnumber: 26008	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJOS	model: DG-800B	typecode: DG80	serialnumber: 8-165B89	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJOW	model: ASH 31 Mi	typecode: AS31	serialnumber: 31034	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJOY	model: Ventus 2c M	typecode: VENT	serialnumber: 16/34	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJPG	model: ASH 31 Mi	typecode: AS31	serialnumber: 31111	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJPH	model: DG-808C	typecode: DG80	serialnumber: 8-432B331X91	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJPL	model: E1 Antares	typecode: GLID	serialnumber: 900	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJQA	model: RF-5B Sperber	typecode: RF5	serialnumber: 51067	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJQT	model: H 36 Dimona	typecode: DIMO	serialnumber: 36265	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJRW	model: Discus bT	typecode: DISC	serialnumber: 60/382	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJRX	model: DG-400	typecode: DG40	serialnumber: 4-195	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJSA	model: DG-808xB Competition	typecode: DG80	serialnumber: 8-393B292X54	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJSI	model: Arcus T	typecode: ARCP	serialnumber: 54/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJSM	model: Discus 2 T	typecode: DISC	serialnumber: 21/157	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJWT	model: DG-800B	typecode: DG80	serialnumber: 8-74B15	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJYM	model: S10 VT	typecode: S10S	serialnumber: 11-125	owner: Private}
+Database data: {icao24: 45e459	registration: D-KJZZ	model: ASW 20 BL-J	typecode: GLID	serialnumber: 20695	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKAA	model: ASH 26 E	typecode: AS26	serialnumber: 26214	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKAB	model: LS8 t	typecode: GLID	serialnumber: 8509	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKAI	model: G 102 Astir CS77/TOP	typecode: G102	serialnumber: 1303	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKAJ	model: Ventus 2c M	typecode: VENT	serialnumber: 128/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKAN	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.722	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKAO	model: RF-4 D	typecode: RF4	serialnumber: 4025	owner: Augsburger Verein Für Segelflug}
+Database data: {icao24: 45e459	registration: D-KKAP	model: ASH 26 E	typecode: AS26	serialnumber: 26249	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKAR	model: Ventus 2c T	typecode: VENT	serialnumber: 100/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKBA	model: DG-400	typecode: DG40	serialnumber: 4-281	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKBB	model: Janus CT	typecode: GLID	serialnumber: 22/300	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKBE	model: DG-808xB Competition	typecode: DG80	serialnumber: 8-368B267X31	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKBR	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.853	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKBS	model: Ventus cM	typecode: VENT	serialnumber: 10/426	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKBX	model: Duo Discus xLT	typecode: DUOD	serialnumber: 244/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKCE	model: LS8 st	typecode: GLID	serialnumber: 8507	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKCH	model: Ventus cM	typecode: VENT	serialnumber: 71/536	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKCM	model: Nimbus 4D M	typecode: NIMB	serialnumber: 42/59	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KKIA	model: ASH 31 Mi	typecode: AS31	serialnumber: 31019	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKGN	model: Arcus T	typecode: ARCP	serialnumber: 31/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKGR	model: Ventus 2c T	typecode: VENT	serialnumber: 57/187	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKGS	model: Ventus cM	typecode: VENT	serialnumber: 78/551	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKGU	model: Duo Discus T	typecode: DUOD	serialnumber: 115/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKHE	model: Discus 2c T	typecode: DISC	serialnumber: 102/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKHF	model: G 103C Twin Astir IIISL	typecode: G103	serialnumber: 35010	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKHG	model: Discus bT	typecode: DISC	serialnumber: 98/440	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKHH	model: Duo Discus xLT	typecode: DUOD	serialnumber: 190/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKHK	model: ASH 31 Mi	typecode: AS31	serialnumber: 31018	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKHL	model: E1 Antares 23T	typecode: GLID	serialnumber: 70B01	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKHS	model: DG-800B	typecode: DG80	serialnumber: 8-328B227	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KKIA	model: ASH-31 Mi	typecode: null	serialnumber: 31019	owner: Privat}
+Database data: {icao24: 45e459	registration: D-KKII	model: Ventus 2c M	typecode: VENT	serialnumber: 2/16	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKIK	model: Ventus 2c T	typecode: VENT	serialnumber: 1/1	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKIL	model: Ventus cM	typecode: VENT	serialnumber: 75/544	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KKJP	model: ASW 22 BLE	typecode: AS22	serialnumber: 22042	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKJS	model: Ventus 2c M	typecode: VENT	serialnumber: 117/251	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKJT	model: Ventus 2c xT	typecode: VENT	serialnumber: 164/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKKG	model: PIK-20 E	typecode: PK20	serialnumber: 20220	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKKH	model: Discus 2c T	typecode: DISC	serialnumber: 69/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKKK	model: Nimbus 4D M	typecode: NIMB	serialnumber: 43/60	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKKL	model: ASW 22 BLE	typecode: AS22	serialnumber: 22076	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKKU	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KKKW	model: Ventus 2c T	typecode: VENT	serialnumber: 84/252	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKLA	model: E1 Antares 18T	typecode: GLID	serialnumber: 48T01	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKLB	model: ASH 26 E	typecode: AS26	serialnumber: 26093	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKLC	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29597	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKLD	model: Aerotechnik Vivat L-13SDM	typecode: L13S	serialnumber: 970615	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKLL	model: G 109B	typecode: G109	serialnumber: 6271	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKLS	model: Discus bT	typecode: DISC	serialnumber: 82/415	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKMA	model: H 36 Dimona	typecode: DIMO	serialnumber: 36222	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKMB	model: Ventus 2c xT	typecode: VENT	serialnumber: 211/	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KKRR	model: ASH 25 EB28	typecode: AS25	serialnumber: 17	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKSG	model: LS9	typecode: GLID	serialnumber: 9002	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKSH	model: ASK 21 Mi	typecode: GLID	serialnumber: 21838	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKSI	model: Discus 2c T	typecode: DISC	serialnumber: 46/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKSK	model: ASW 24 E	typecode: AS24	serialnumber: 24889	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKSL	model: DG-400	typecode: DG40	serialnumber: 4-288	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKSM	model: Duo Discus T	typecode: DUOD	serialnumber: 75/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKSX	model: LS8 t	typecode: GLID	serialnumber: 8416	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKTB	model: Ventus cM	typecode: VENT	serialnumber: 79/552	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKTK	model: RF-3	typecode: RF3	serialnumber: 68	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKTT	model: ASW 24 E	typecode: AS24	serialnumber: 24806	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKUA	model: ASW 22 BLE 50R	typecode: AS22	serialnumber: 22086	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKUB	model: DG-800B	typecode: DG80	serialnumber: 8-321B221	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKUJ	model: DG-400	typecode: DG40	serialnumber: 4-77	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKUR	model: ASH 26 E	typecode: AS26	serialnumber: 26217	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KKVL	model: Ventus 2c xT	typecode: VENT	serialnumber: 225/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKVO	model: Duo Discus T	typecode: DUOD	serialnumber: 122/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKWD	model: Ventus 2c T	typecode: VENT	serialnumber: 101/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KKWE	model: Ventus 2c M	typecode: VENT	serialnumber: 4/18	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLAH	model: Ventus cT	typecode: VENT	serialnumber: 106/369	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLAI	model: Diamond HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.567	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLAK	model: LAK-17 AT Turbo	typecode: LK17	serialnumber: 172	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLAL	model: Discus 2c T	typecode: DISC	serialnumber: 93/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLAM	model: RF-5	typecode: RF5	serialnumber: 5123	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLAN	model: DG-400	typecode: DG40	serialnumber: 4-234	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLAU	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44481	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLAX	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44428	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLAY	model: Janus CT	typecode: GLID	serialnumber: 15/276	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLBA	model: SF-25B Falke	typecode: SF25	serialnumber: 4621	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLBB	model: ASW 24 E	typecode: AS24	serialnumber: 24801	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLBO	model: Discus 2c T	typecode: DISC	serialnumber: 89/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLBP	model: ASH 25 M	typecode: AS25	serialnumber: 25186	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLBR	model: DG-600 18M	typecode: DG60	serialnumber: 6-104M38	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLBS	model: ASG 29 27-18E	typecode: AS29	serialnumber: 29625	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLCA	model: DG-800B	typecode: DG80	serialnumber: 8-200B122	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLCB	model: DG-800B	typecode: DG80	serialnumber: 8-291B196	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLCC	model: S10 VT	typecode: S10S	serialnumber: 11-072	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLCH	model: Discus bT	typecode: DISC	serialnumber: 84/418	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLCS	model: Arcus M	typecode: ARCP	serialnumber: 34/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLDG	model: DG-1000T	typecode: DG1T	serialnumber: 10-124T43	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLDH	model: Discus bT	typecode: DISC	serialnumber: 1/245	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLEB	model: Ventus cT	typecode: VENT	serialnumber: 177/581	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLEC	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44546	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLEE	model: RF-5	typecode: RF5	serialnumber: 5076	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLEF	model: HK 36TC Super Dimona	typecode: DIMO	serialnumber: 36.661	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLEM	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.657	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLEP	model: E1 Antares 20E	typecode: LAE1	serialnumber: 5,30000000000000E+46	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLER	model: RF-5	typecode: RF5	serialnumber: 5051	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLEU	model: DG-400	typecode: DG40	serialnumber: 4-180	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLEV	model: Duo Discus xT	typecode: DUOD	serialnumber: 168/	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLFU	model: ASH 25 EB29	typecode: AS25	serialnumber: 25	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLFV	model: Discus bM	typecode: GLID	serialnumber: 9/542	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLFW	model: H 36 Dimona	typecode: DIMO	serialnumber: 36249	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLGA	model: ASH 26 E	typecode: AS26	serialnumber: 26058	owner: Private}
+Database data: {icao24: 45e459	registration: D-KLGB	model: Discus 2 T	typecode: DISC	serialnumber: 12/123	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KNRV	model: Duo Discus T	typecode: DUOD	serialnumber: 32/305	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KNUE	model: Piccolo B	typecode: GLID	serialnumber: 62	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KNWF	model: H 36 Dimona	typecode: DIMO	serialnumber: 36247	owner: Private}
+Database data: {icao24: 45e459	registration: D-KNWS	model: Discus bT	typecode: DISC	serialnumber: 56/377	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 5X-XX	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe  	ltg-61}
+Database data: {icao24: 45e459	registration: D-KOGO	model: RF-5B Sperber	typecode: RF5	serialnumber: 51057	owner: Private}
+Database data: {icao24: 45e459	registration: D-KOGS	model: Samburo AVo-68 V	typecode: AV68	serialnumber: 27	owner: Private}
+Database data: {icao24: 45e459	registration: 8XXX	model: Sikorsky CH53G	typecode: H53	serialnumber: null	owner: Luftwaffe  	hsg-64}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KOLD	model: RF-5B Sperber	typecode: RF5	serialnumber: 51061	owner: Private}
+Database data: {icao24: 45e459	registration: 50+81	model: Transall C-160D	typecode: C160	serialnumber: 5081	owner: Luftwaffe  	ltg-63}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 8XXX	model: Sikorsky CH-53G	typecode: H53	serialnumber: 8xxx	owner: Luftwaffe  Hsg-64}
+Database data: {icao24: 45e459	registration: 4X+XX	model: Tornado ???	typecode: TOR	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 8X+XX	model: Sikorsky CH-53G	typecode: H53	serialnumber: null	owner: Luftwaffe  	hsg-64}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: XX+XX	model: unknown	typecode: null	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 4X+XX	model: Panavia Tornado ???	typecode: TOR	serialnumber: null	owner: German Air Force}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe  	ltg-61}
+Database data: {icao24: 45e459	registration: null	model: Tornado	typecode: TOR	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 5XXX	model: Transall C-160D	typecode: C160	serialnumber: null	owner: #luftwaffe #ltg-63}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 51+06	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe  	ltg-63}
+Database data: {icao24: 45e459	registration: 50+40	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 50+79	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe  	ltg-63}
+Database data: {icao24: 45e459	registration: 3X+XX	model: Eurofighter 2000	typecode: EUFI	serialnumber: null	owner: Luftwaffe  	taktlwg-73}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 30+47	model: Eurofighter 2000	typecode: EUFI	serialnumber: null	owner: Luftwaffe  	taktlwg-73}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 3X+XX	model: Eurofighter 2000	typecode: EUFI	serialnumber: null	owner: Luftwaffe  	taktlwg-73}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 30+49	model: Eurofighter 2000	typecode: EUFI	serialnumber: 3049	owner: Luftwaffe  	taktlwg-73}
+Database data: {icao24: 45e459	registration: 5X+XX	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe  	ltg-61}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KUFO	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44663	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: Transall C160D	typecode: C160	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 5XXX	model: Transall C-160D	typecode: C160	serialnumber: 5xxx	owner: Luftwaffe  	ltg-61}
+Database data: {icao24: 45e459	registration: null	model: Eurofighter Typhoon T	typecode: EUFI	serialnumber: null	owner: Luftwaffe Taktlwg-74}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 5X+XX	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe  Ltg-6x}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 5XXX	model: Transall C160D	typecode: C160	serialnumber: 5xxx	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 30+59	model: Eurofighter 2000	typecode: EUFI	serialnumber: null	owner: Luftwaffe  	taktlwg-73}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 3X+XX	model: Eurofighter 2000	typecode: EUFI	serialnumber: null	owner: Luftwaffe  	taktlwg-73}
+Database data: {icao24: 45e459	registration: null	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe  	ltg-63}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: D-KWER	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.578	owner: Private}
+Database data: {icao24: 45e459	registration: 30+92	model: Eurofighter 2000	typecode: EUFI	serialnumber: null	owner: Luftwaffe  	taktlwg-73}
+Database data: {icao24: 45e459	registration: 5XXX	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: 5XXX	model: Transall C-160D	typecode: C160	serialnumber: 5xxx	owner: Luftwaffe Ltg-63}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 30+93	model: Eurofighter 2000	typecode: EUFI	serialnumber: 3093	owner: Luftwaffe Taktlwg-74}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: XX+XX	model: unknown	typecode: null	serialnumber: null	owner: Luftwaffe}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 5X+XX	model: Transall C-160D	typecode: C160	serialnumber: null	owner: Luftwaffe  	ltg-61}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: M-ERRY	model: S-76 B	typecode: S76	serialnumber: 760356	owner: Trustair Ltd}
+Database data: {icao24: 45e459	registration: M-SAIR	model: Falcon 900 B	typecode: F900	serialnumber: 141	owner: Wa Developments}
+Database data: {icao24: 45e459	registration: M-SAXY	model: PC-XII 45	typecode: PC12	serialnumber: 508	owner: Saxon Logistics Ltd}
+Database data: {icao24: 45e459	registration: M-IDAS	model: A.109 E Power	typecode: A109	serialnumber: 11112	owner: Benvarden Ltd}
+Database data: {icao24: 45e459	registration: M-ACPT	model: British Aerospace 125 1000B	typecode: H25C	serialnumber: 259004	owner: Trinity Aviation Ltd}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: M-GOLF	model: FR182 Skylane RG	typecode: C82R	serialnumber: 46	owner: Private}
+Database data: {icao24: 45e459	registration: M-WMWM	model: Citation CJ2	typecode: C25A	serialnumber: 525A0113	owner: Flight Partner Ltd}
+Database data: {icao24: 45e459	registration: M-USCA	model: EADS SOCATA TBM 850	typecode: TBM8	serialnumber: 456	owner: N582c Ltd}
+Database data: {icao24: 45e459	registration: M-USHY	model: 441 Conquest II	typecode: C441	serialnumber: 441-0209	owner: Flying Dogs Ltd}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: M-IFLY	model: PC-XII 47E	typecode: PC12	serialnumber: 1022	owner: Nicholas John Vetch}
+Database data: {icao24: 45e459	registration: M-VITA	model: Gulfstream Aerospace G650	typecode: GLF6	serialnumber: 6099	owner: Matrix Aviation 650 Ii Ltd}
+Database data: {icao24: 45e459	registration: M-FZMH	model: Challenger 850	typecode: CL85	serialnumber: 8068	owner: Nexus Flight Operations}
+Database data: {icao24: 45e459	registration: M-PHML	model: AG-5B Tiger	typecode: AA5	serialnumber: 10141	owner: Private}
+Database data: {icao24: 45e459	registration: M-BONO	model: 172N Skyhawk	typecode: C172	serialnumber: 17270299	owner: Private}
+Database data: {icao24: 45e459	registration: M-ONAV	model: Hawker 900XP	typecode: H900	serialnumber: HA-0073	owner: Monavia}
+Database data: {icao24: 45e459	registration: M-PRVT	model: Cessna Citation X	typecode: C750	serialnumber: 750-0291	owner: Unifox Holdings Ltd}
+Database data: {icao24: 45e459	registration: M-ALRV	model: Dassault Falcon 2000LX	typecode: F2TH	serialnumber: 173	owner: Lodgings 2000lp}
+Database data: {icao24: 45e459	registration: M-ONEM	model: G550	typecode: G550	serialnumber: 5210	owner: Fly Exec}
+Database data: {icao24: 45e459	registration: M-IKEY	model: Dauphin AS.365 N3	typecode: AS65	serialnumber: 6713	owner: Whirligig Limited}
+Database data: {icao24: 45e459	registration: M-STAR	model: 727 2X8/W	typecode: B722	serialnumber: 22687	owner: Starling Aviation}
+Database data: {icao24: 45e459	registration: M-LVIA	model: Dauphin AS.365 N3	typecode: AS65	serialnumber: 6815	owner: Flambards Ltd}
+Database data: {icao24: 45e459	registration: M-COOL	model: Citation Mustang	typecode: C510	serialnumber: 510-0285	owner: E Keats}
+Database data: {icao24: 45e459	registration: M-VQBI	model: Global Express XRS	typecode: GLEX	serialnumber: 9213	owner: Global Jet Iom Ltd}
+Database data: {icao24: 45e459	registration: M-IRNE	model: 125 850XP	typecode: H25B	serialnumber: 258778	owner: Robert Norman Edmiston}
+Database data: {icao24: 45e459	registration: M-JSMN	model: Bombardier Global 5000	typecode: GL5T	serialnumber: 9216	owner: Dallah Al Baraka}
+Database data: {icao24: 45e459	registration: M-YSAI	model: Global 5000	typecode: GL5T	serialnumber: 9166	owner: Capital Aviation Pte Ltd}
+Database data: {icao24: 45e459	registration: M-UKHA	model: Raytheon Aircraft Company 125 800XP	typecode: H25B	serialnumber: 258625	owner: Jet Aviation Business Jets Ag}
+Database data: {icao24: 45e459	registration: M-AFAJ	model: Falcon 900EX EASy	typecode: F9EX	serialnumber: 200	owner: Dc Aviation}
+Database data: {icao24: 45e459	registration: M-EXPL	model: Twin Squirrel AS.355 N	typecode: AS55	serialnumber: 5667	owner: Select Plant Hire Company Ltd}
+Database data: {icao24: 45e459	registration: M-ISKY	model: Cessna Citation Bravo	typecode: C55B	serialnumber: 550-0870	owner: Mysky Llp}
+Database data: {icao24: 45e459	registration: M-CICO	model: Falcon 50EX	typecode: F5EX	serialnumber: 345	owner: Bz Air Ltd}
+Database data: {icao24: 45e459	registration: M-MARI	model: Challenger 605	typecode: CL65	serialnumber: 5826	owner: Rumit Aviation Limited}
+Database data: {icao24: 45e459	registration: M-BEST	model: Citation X	typecode: C750	serialnumber: 750-0277	owner: Lanara Ltd}
+Database data: {icao24: 45e459	registration: M-OLLE	model: Hawker Beechcraft Corp Hawker 750	typecode: H25B	serialnumber: HB-65	owner: Dunard Engineering Ltd}
+Database data: {icao24: 45e459	registration: M-OZZA	model: Challenger 300	typecode: CL30	serialnumber: 20014	owner: Casam International Ltd}
+Database data: {icao24: 45e459	registration: M-JNJL	model: Global Express	typecode: GLEX	serialnumber: 9046	owner: Air Fleet Operations Ltd}
+Database data: {icao24: 45e459	registration: M-SPOR	model: King Air B200	typecode: BE20	serialnumber: BB-1557	owner: Oisin Aviation (gp) Ltd}
+Database data: {icao24: 45e459	registration: M-HOTB	model: G550	typecode: G550	serialnumber: 5151	owner: 51 North Ltd}
+Database data: {icao24: 45e459	registration: M-YLEO	model: Pilatus PC-XII 47E	typecode: PC12	serialnumber: 1235	owner: Morwenna Air Limited}
+Database data: {icao24: 45e459	registration: M-ESGR	model: Embraer Legacy 600	typecode: E35L	serialnumber: 14501016	owner: Hermes Executive Aviation}
+Database data: {icao24: 45e459	registration: M-DADI	model: Falcon 900DX	typecode: F9DX	serialnumber: 622	owner: Jet Aviation Business Jets Ag}
+Database data: {icao24: 45e459	registration: M-HELI	model: EC155 B1	typecode: EC55	serialnumber: 6898	owner: Flambards Ltd}
+Database data: {icao24: 45e459	registration: M-GSKY	model: Bombardier Global Express XRS	typecode: GLEX	serialnumber: 9420	owner: International Jet Management Gmbh}
+Database data: {icao24: 45e459	registration: M-MNBB	model: Falcon 7X	typecode: FA7X	serialnumber: 91	owner: Japat Ag}
+Database data: {icao24: 45e459	registration: M-MNCC	model: Falcon 7X	typecode: FA7X	serialnumber: 156	owner: Japat Ag}
+Database data: {icao24: 45e459	registration: M-MOMO	model: G550	typecode: G550	serialnumber: 5292	owner: Mohamed Al Fayed}
+Database data: {icao24: 45e459	registration: M-MRBB	model: Learjet 45	typecode: LJ45	serialnumber: 45-211	owner: Boultbee Aviation}
+Database data: {icao24: 45e459	registration: M-MDDE	model: Bombardier Challenger 604	typecode: CL60	serialnumber: 5598	owner: Fielding Overseas Ltd}
+Database data: {icao24: 45e459	registration: M-GLEX	model: Global Express	typecode: GLEX	serialnumber: 9139	owner: Cpi Aviation Llc}
+Database data: {icao24: 45e459	registration: M-EAGL	model: Falcon 900EX EASy	typecode: F9EX	serialnumber: 237	owner: Dassault Aviation}
+Database data: {icao24: 45e459	registration: M-SFAM	model: DC-9 87	typecode: MD87	serialnumber: 53042	owner: Execujet Uk Ltd}
+Database data: {icao24: 45e459	registration: M-ANGA	model: Embraer Legacy 600	typecode: E35L	serialnumber: 14501086	owner: Max Air Ltd}
+Database data: {icao24: 45e459	registration: M-TSRI	model: King Air C90GT	typecode: BE9L	serialnumber: LJ-2033	owner: Timpson Ltd}
+Database data: {icao24: 45e459	registration: M-FASH	model: Falcon 900 B	typecode: F900	serialnumber: 173	owner: Al Hokair Aviation Ltd}
+Database data: {icao24: 45e459	registration: M-LENR	model: King Air 200GT	typecode: BE20	serialnumber: BY-135	owner: Bae Systems Marine Ltd}
+Database data: {icao24: 45e459	registration: M-NALE	model: Global 6000	typecode: GL6T	serialnumber: 9450	owner: Vip Jet}
+Database data: {icao24: 45e459	registration: M-APLE	model: Phenom 300	typecode: E55P	serialnumber: 50500087	owner: Poseidon Finance Ltd}
+Database data: {icao24: 45e459	registration: M-BTAR	model: Global Express XRS	typecode: GLEX	serialnumber: 9250	owner: Avwest P/l}
+Database data: {icao24: 45e459	registration: M-VITO	model: Raytheon Aircraft Company 125 800XP	typecode: H25B	serialnumber: 258512	owner: Beratex Group}
+Database data: {icao24: 45e459	registration: M-IWPS	model: Cessna Citation CJ2+	typecode: C25A	serialnumber: 525A0496	owner: Schneider Warenvertriebs Gmbh}
+Database data: {icao24: 45e459	registration: RA-67242	model: Bombardier Global Express XRS	typecode: GLEX	serialnumber: 9406	owner: Vip Jet}
+Database data: {icao24: 45e459	registration: M-HLAN	model: Challenger 850	typecode: CL85	serialnumber: 8104	owner: Tag Aviation Asia}
+Database data: {icao24: 45e459	registration: M-SEAS	model: Bombardier Global 5000	typecode: GL5T	serialnumber: 9461	owner: Executive Aircraft Services}
+Database data: {icao24: 45e459	registration: M-WATJ	model: King Air 200GT	typecode: BE20	serialnumber: BY-139	owner: Corporate}
+Database data: {icao24: 45e459	registration: M-LWSA	model: Global Express	typecode: GLEX	serialnumber: 9092	owner: Imperial Jet}
+Database data: {icao24: 45e459	registration: M-JGVJ	model: Global 5000	typecode: GL5T	serialnumber: 9623	owner: Execujet Europe Ag}
+Database data: {icao24: 45e459	registration: M-OLLY	model: Citation CJ1	typecode: C525	serialnumber: 525-0544	owner: Mbk Maschinenbau Gmbh}
+Database data: {icao24: 45e459	registration: M-LAAA	model: Global 6000	typecode: GL6T	serialnumber: 9443	owner: Alm Jet Ltd}
+Database data: {icao24: 45e459	registration: M-SASS	model: G200	typecode: G200	serialnumber: 233	owner: Interax Global Corp}
+Database data: {icao24: 45e459	registration: M-MDMH	model: Embraer Phenom 300	typecode: E55P	serialnumber: 50500116	owner: Herrenknecht Aviation Gmbh}
+Database data: {icao24: 45e459	registration: M-STCO	model: Falcon 2000LX	typecode: F2LX	serialnumber: 240	owner: Shaher Trading Company}
+Database data: {icao24: 45e459	registration: M-USBA	model: GV	typecode: GLF5	serialnumber: 680	owner: Shukra Ltd}
+Database data: {icao24: 45e459	registration: Z-WPN	model: A320 211	typecode: A320	serialnumber: 1973	owner: Air Zimbabwe}
+Database data: {icao24: 45e459	registration: M-MOON	model: Cessna Citation X	typecode: C750	serialnumber: 750-0242	owner: Bambara Holding}
+Database data: {icao24: 45e459	registration: M-KBBG	model: G450	typecode: G450	serialnumber: 4262	owner: Empire Aviation Group}
+Database data: {icao24: 45e459	registration: M-AQUA	model: Global 5000	typecode: GL5T	serialnumber: 9157	owner: Bayham Ltd}
+Database data: {icao24: 45e459	registration: M-CDZT	model: Raytheon Aircraft Company King Air B200	typecode: BE20	serialnumber: BB-1619	owner: Bae Systems Marine Ltd}
+Database data: {icao24: 45e459	registration: M-ENTA	model: Dassault Falcon 20 200	typecode: FA20	serialnumber: 511	owner: Riviera Investment & Services}
+Database data: {icao24: 45e459	registration: M-ALAY	model: G550	typecode: G550	serialnumber: 5391	owner: Jet Aviation Business Jets Ag}
+Database data: {icao24: 45e459	registration: M-ALEN	model: Legacy 650	typecode: E35L	serialnumber: 14501119	owner: Att Aviation Ltd}
+Database data: {icao24: 45e459	registration: M-AHAA	model: Global 6000	typecode: GL6T	serialnumber: 9525	owner: International Jet Management Gmbh}
+Database data: {icao24: 45e459	registration: M-PIRE	model: P-180 Avanti	typecode: P180	serialnumber: 1042	owner: Northside Aviation Ltd}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: M-UGIC	model: G550	typecode: G550	serialnumber: 5406	owner: Jet Aviation Business Jets Ag}
+Database data: {icao24: 45e459	registration: M-WFAM	model: Bombardier Challenger 605	typecode: CL60	serialnumber: 5914	owner: Multibird Overseas Limited}
+Database data: {icao24: 45e459	registration: M-LJGI	model: Falcon 7X	typecode: FA7X	serialnumber: 178	owner: Ven Air}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: M-CARA	model: Citation M2	typecode: C25M	serialnumber: 525-0859	owner: Anam Cara Aviation Ltd}
+Database data: {icao24: 45e459	registration: OO-YAB	model: Bergfalke II 55	typecode: GLID	serialnumber: 4	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YAE	model: K 8 B	typecode: GLID	serialnumber: 8885AB	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YAH	model: K 8 B	typecode: GLID	serialnumber: 8212	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YAP	model: ASK 13	typecode: GLID	serialnumber: 13474	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YBB	model: Leistung-Spatz 55	typecode: GLID	serialnumber: 726	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YBG	model: Duo Discus T	typecode: DUOD	serialnumber: 39/314	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YBI	model: Mistral C	typecode: GLID	serialnumber: MC024/79	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YBP	model: G 103 Twin Astir Trainer	typecode: GLID	serialnumber: 3144-T-15	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YBR	model: Ventus cT	typecode: VENT	serialnumber: 78/317	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YBW	model: LS1 c	typecode: GLID	serialnumber: 69	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YBX	model: G 103C Twin Astir III Acro	typecode: GLID	serialnumber: 34187	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YBY	model: G 103 Twin Astir II	typecode: GLID	serialnumber: 3592	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YDA	model: DG-300 Elan	typecode: GLID	serialnumber: 0,00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YDB	model: DG-300 Elan	typecode: GLID	serialnumber: 0,00000000000000000000000000000000000000000000000000000000000000000000003	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YDC	model: Ventus c	typecode: GLID	serialnumber: 404	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YDE	model: DG-300 Elan	typecode: GLID	serialnumber: 3E-329	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YDG	model: DG-300 Elan	typecode: GLID	serialnumber: 0,000000000000000000000000000000000000000000003	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YDH	model: DG-505 Elan Orion 17-20	typecode: DG50	serialnumber: 5E222X60	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YDI	model: DG-505 Elan Orion 17-20	typecode: DG50	serialnumber: 5E224X62	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YDP	model: K 8 B	typecode: GLID	serialnumber: 8346	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YDR	model: DG-300 Elan	typecode: GLID	serialnumber: 0,0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YDU	model: Duo Discus	typecode: GLID	serialnumber: 1	owner: Diest Aero Club}
+Database data: {icao24: 45e459	registration: OO-YDW	model: ASW 20 L	typecode: GLID	serialnumber: 20261	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: OO-YHD	model: A.21 S Calif	typecode: GLID	serialnumber: 208	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YHH	model: C101 D Pegase	typecode: GLID	serialnumber: 101D0511	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YJA	model: G 102 Astir CS Jeans	typecode: G102	serialnumber: 2195	owner: Diest Aero Club}
+Database data: {icao24: 45e459	registration: OO-YJB	model: G 102 Astir CS Jeans	typecode: G102	serialnumber: 2141	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YJC	model: G 102 Astir CS Jeans	typecode: G102	serialnumber: 2122	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YJD	model: G 102 Astir CS Jeans	typecode: G102	serialnumber: 2050	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YJE	model: G 102 Astir CS Jeans	typecode: G102	serialnumber: 2041	owner: Diest Aero Club}
+Database data: {icao24: 45e459	registration: OO-YJF	model: G 102 Astir CS Jeans	typecode: G102	serialnumber: 2104	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YJG	model: G 102 Astir CS Jeans	typecode: G102	serialnumber: 2002	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YJH	model: LS8 a	typecode: GLID	serialnumber: 8084	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YJR	model: PIK-20 D	typecode: PK20	serialnumber: 20543	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YKA	model: ASK 13	typecode: GLID	serialnumber: 13094	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YKB	model: ASK 21	typecode: GLID	serialnumber: 21392	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YKE	model: K 8 B	typecode: GLID	serialnumber: 8245/A	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YKH	model: LS4	typecode: GLID	serialnumber: 4466	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YKP	model: ASK 13	typecode: GLID	serialnumber: 13550	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YKR	model: ASK 13	typecode: GLID	serialnumber: 13021	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YLA	model: SZD-48-1 Jantar Standard 2	typecode: GLID	serialnumber: B-1000	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YLX	model: LS4	typecode: GLID	serialnumber: 4319	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YPX	model: PW-6 U	typecode: GLID	serialnumber: 78.02.03	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YQR	model: G 102 Astir CS	typecode: G102	serialnumber: 1407	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YRR	model: WA.28 F Espadon	typecode: GLID	serialnumber: 99	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YRV	model: K 8 B	typecode: GLID	serialnumber: Liz.182/60	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YSD	model: DG-200	typecode: GLID	serialnumber: 2-88	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YTA	model: G 103 Twin Astir	typecode: GLID	serialnumber: 3147	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YTB	model: G 103 Twin Astir	typecode: GLID	serialnumber: 3240	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YTC	model: G 103 Twin Astir	typecode: GLID	serialnumber: 3287	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YTE	model: G 103 Twin Astir	typecode: GLID	serialnumber: 3288	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YTF	model: G 103 Twin Astir II	typecode: GLID	serialnumber: 3616	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YTG	model: K 8 Motorised	typecode: GLID	serialnumber: 3	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YTH	model: G 103 Twin Astir II	typecode: GLID	serialnumber: 3617	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YTI	model: G 103A Twin Astir II	typecode: GLID	serialnumber: 34015	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YTP	model: G 103A Twin Astir II Acro Viking T.1	typecode: GLID	serialnumber: 33961-K-194	owner: Belgian Air Cadets}
+Database data: {icao24: 45e459	registration: OO-YTS	model: Ventus 2c x	typecode: GLID	serialnumber: 83/308	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YTW	model: G 103 Twin Astir II	typecode: GLID	serialnumber: 3763	owner: Diest Aero Club}
+Database data: {icao24: 45e459	registration: OO-YYP	model: LS4	typecode: GLID	serialnumber: 4119	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YZB	model: K 8 B	typecode: GLID	serialnumber: 8353	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YZP	model: G 102 Astir CS Jeans	typecode: G102	serialnumber: 2138	owner: Private}
+Database data: {icao24: 45e459	registration: OO-YZT	model: K 8 B	typecode: GLID	serialnumber: 8001	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZAE	model: K 7 Rhonadler	typecode: GLID	serialnumber: 7168	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZAF	model: K 7 Rhonadler	typecode: GLID	serialnumber: 7169	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZAP	model: K 8 B	typecode: GLID	serialnumber: 8629	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZAQ	model: K 8 B	typecode: GLID	serialnumber: 8630	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZAS	model: K 8 B	typecode: GLID	serialnumber: 8704	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZAT	model: K 8 B	typecode: GLID	serialnumber: 8705	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZAW	model: K 8 B	typecode: GLID	serialnumber: 8708	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZAX	model: K 8 B	typecode: GLID	serialnumber: 143/59	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZAY	model: K 7 Rhonadler	typecode: GLID	serialnumber: 700	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZBD	model: Ka 6 E Rhonsegler	typecode: GLID	serialnumber: 4086	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZBF	model: Ka 6 E Rhonsegler	typecode: GLID	serialnumber: 4066	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZBR	model: H201 B Standard Libelle	typecode: GLID	serialnumber: 7	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZBU	model: K 8 B	typecode: GLID	serialnumber: 8311	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZBW	model: Ka 6 CR Rhonsegler	typecode: GLID	serialnumber: 6331	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZBY	model: LS1 d	typecode: GLID	serialnumber: 93	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZCF	model: Ka 6 CR Rhonsegler	typecode: GLID	serialnumber: 1013	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZCP	model: Leistung-Spatz 55	typecode: GLID	serialnumber: 658/02	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZCR	model: A.60 Fauconnet	typecode: GLID	serialnumber: 113K	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZCS	model: L-13 Blanik	typecode: GLID	serialnumber: 26111	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZCW	model: Leistung-Spatz B-13	typecode: GLID	serialnumber: 600	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZDH	model: C.800 Epervier	typecode: GLID	serialnumber: 10314/354	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZDR	model: Ka 6 E Rhonsegler	typecode: GLID	serialnumber: 4316	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZDT	model: K 8 B	typecode: GLID	serialnumber: 8909	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZDW	model: A.60 Fauconnet	typecode: GLID	serialnumber: 102K	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZDX	model: Phoebus C	typecode: GLID	serialnumber: 782	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZHH	model: M-200 Foehn	typecode: GLID	serialnumber: 34	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZHQ	model: Nord 2000	typecode: GLID	serialnumber: 10393/63	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZHR	model: AV.36	typecode: GLID	serialnumber: 1	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZHV	model: Elfe S-4D 16	typecode: GLID	serialnumber: 409AB	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZHY	model: Nimbus 2	typecode: NIMB	serialnumber: 115	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZIE	model: Leistung-Spatz 55	typecode: GLID	serialnumber: 503B	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZIG	model: AV.36	typecode: GLID	serialnumber: 219	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZIV	model: ASW 20	typecode: GLID	serialnumber: 20304	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZJG	model: Phoebus C	typecode: GLID	serialnumber: 894	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZJP	model: Ka 6 CR Rhonsegler	typecode: GLID	serialnumber: 676	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZJV	model: Leistung-Spatz 55	typecode: GLID	serialnumber: 2	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZJW	model: Spatz B	typecode: GLID	serialnumber: SF-01	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZKB	model: K 8 B	typecode: GLID	serialnumber: 8822	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZKC	model: ASK 23	typecode: GLID	serialnumber: 23058	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZKF	model: K 8 B	typecode: GLID	serialnumber: 8449/SH	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZKI	model: Ka 4 Rhonlerche II	typecode: GLID	serialnumber: 1	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZKP	model: ASK 13	typecode: GLID	serialnumber: 13261	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZKS	model: ASK 13	typecode: GLID	serialnumber: 13239	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZKU	model: K 8 B	typecode: GLID	serialnumber: 8155	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZKV	model: G 103 Twin Astir II	typecode: GLID	serialnumber: 3644	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZKX	model: G 102 Astir CS	typecode: G102	serialnumber: 1426	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZKY	model: ASK 23 B	typecode: GLID	serialnumber: 23091	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZLH	model: SZD-36A Cobra 15	typecode: GLID	serialnumber: W-721	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZLI	model: LS4	typecode: GLID	serialnumber: 4001	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZLP	model: Olympia-Meise (108-70)	typecode: GLID	serialnumber: null	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZLU	model: Ka 4 Rhonlerche II	typecode: GLID	serialnumber: 90/55	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZLV	model: K 8 B	typecode: GLID	serialnumber: 8709	owner: Private}
+Database data: {icao24: 45e459	registration: OO-ZLW	model: K 7 Rhonadler	typecode: GLID	serialnumber: 7196	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XXH	model: Duo Discus T	typecode: DUOD	serialnumber: 65/356	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XXS	model: null	typecode: DISC	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: OY-XXT	model: ASW 28 18E	typecode: AS28	serialnumber: 28748	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XXV	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44680	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XYB	model: H 36 Dimona	typecode: DIMO	serialnumber: 36217	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XYF	model: LS6 e	typecode: GLID	serialnumber: 6258	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XYH	model: Ventus b/16.6	typecode: GLID	serialnumber: 228	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XYS	model: SF-25C Rotax Falke	typecode: SF25	serialnumber: 44696	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XYT	model: SF-25E Super Falke	typecode: SF25	serialnumber: 4316	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XYV	model: ASK 21	typecode: GLID	serialnumber: 21310	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZA	model: Ventus 2c T	typecode: VENT	serialnumber: 2/3	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZC	model: Ventus 2c T	typecode: VENT	serialnumber: 106/	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZG	model: SF-25C Falke 2000	typecode: SF25	serialnumber: 44509	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZH	model: Discus bT	typecode: DISC	serialnumber: 114/467	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZI	model: LS4	typecode: GLID	serialnumber: 4290	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZP	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36536	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZR	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.830	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZS	model: HK 36TTC 115 Super Dimona	typecode: DIMO	serialnumber: 36.808	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZU	model: S6	typecode: S6	serialnumber: 6.T.10.013	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZV	model: HK 36TC 100 Super Dimona	typecode: DIMO	serialnumber: 36.824	owner: Private}
+Database data: {icao24: 45e459	registration: OY-XZX	model: Ventus 2c T	typecode: VENT	serialnumber: 98/285	owner: Private}
+Database data: {icao24: 45e459	registration: OY-YAB	model: Avions de Transport Regional ATR 72 500	typecode: AT75	serialnumber: 588	owner: Mistral Air}
+Database data: {icao24: 45e459	registration: OY-YAE	model: Avions de Transport Regional ATR 72 500	typecode: AT75	serialnumber: 705	owner: Mistral Air}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: OY-YBH	model: Avions de Transport Regional ATR 72 500	typecode: AT75	serialnumber: 911	owner: Azul Linhas Aereas Brasileiras}
+Database data: {icao24: 45e459	registration: OY-YBI	model: Avions de Transport Regional ATR 72 500	typecode: AT75	serialnumber: 918	owner: Nordic Aviation Capital}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: OY-YCG	model: ATR 72-212A (600)	typecode: AT76	serialnumber: 1450	owner: Nordic Aviation Capital (nac)}
+Database data: {icao24: 45e459	registration: OH-376X	model: Ka 6 CR Rhonsegler	typecode: GLID	serialnumber: 6622	owner: Private}
+Database data: {icao24: 45e459	registration: OY-YYY	model: P210N Pressurized Centurion	typecode: P210	serialnumber: P21000438	owner: Private}
+Database data: {icao24: 45e459	registration: OY-ZAA	model: PA-32R 301T Saratoga II TC	typecode: P32R	serialnumber: 3257419	owner: Private}
+Database data: {icao24: 45e459	registration: OY-ZAP	model: 172S Skyhawk SP	typecode: C172	serialnumber: 172S10790	owner: Private}
+Database data: {icao24: 45e459	registration: OY-ZAX	model: Discus 2 a	typecode: GLID	serialnumber: 253	owner: Private}
+Database data: {icao24: 45e459	registration: OY-ZBB	model: PA-31 350 Navajo Chieftain	typecode: PA31	serialnumber: 31-7852119	owner: Private}
+Database data: {icao24: 45e459	registration: OK-YJF	model: Cmelak Z-37	typecode: Z37P	serialnumber: 08-01	owner: Private}
+Database data: {icao24: 45e459	registration: OK-YKD	model: Cmelak Z-37-2	typecode: Z37P	serialnumber: 07-19	owner: Private}
+Database data: {icao24: 45e459	registration: OK-YKG	model: Cmelak Z-37	typecode: Z37P	serialnumber: 08-23	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: OK-YZB	model: Spider Spider	typecode: ULAC	serialnumber: null	owner: Private}
+Database data: {icao24: 45e459	registration: OK-ZJC	model: Cmelak Z-37	typecode: Z37P	serialnumber: 09-10	owner: Private}
+Database data: {icao24: 45e459	registration: OK-ZJD	model: Cmelak Z-37	typecode: Z37P	serialnumber: 09-17	owner: Private}
+Database data: {icao24: 45e459	registration: OK-ZJF	model: Cmelak Z-37	typecode: Z37P	serialnumber: 10-01	owner: Private}
+Database data: {icao24: 45e459	registration: OK-ZJH	model: Cmelak Z-37	typecode: Z37P	serialnumber: 10-27	owner: Private}
+Database data: {icao24: 45e459	registration: OK-ZJP	model: Cmelak Z-37	typecode: Z37P	serialnumber: 09-12	owner: Private}
+Database data: {icao24: 45e459	registration: OK-ZJV	model: Cmelak Z-37	typecode: Z37P	serialnumber: 10-11	owner: Private}
+Database data: {icao24: 45e459	registration: OK-ZKB	model: Cmelak Z-37	typecode: Z37P	serialnumber: 09-02	owner: Private}
+Database data: {icao24: 45e459	registration: OK-ZKC	model: Cmelak Z-37	typecode: Z37P	serialnumber: 09-03	owner: Private}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: 724	model: KC-130B Hercules	typecode: C130	serialnumber: 3611	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 725	model: KC-130B Hercules	typecode: C130	serialnumber: 3620	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 730	model: C-130H Hercules	typecode: C130	serialnumber: 4842	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9101	model: PC-21	typecode: PC21	serialnumber: 109	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9102	model: PC-21	typecode: PC21	serialnumber: 110	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9103	model: PC-21	typecode: PC21	serialnumber: 111	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9104	model: PC-21	typecode: PC21	serialnumber: 112	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9105	model: PC-21	typecode: PC21	serialnumber: 113	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9106	model: PC-21	typecode: PC21	serialnumber: 114	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9108	model: PC-21	typecode: PC21	serialnumber: 116	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9109	model: PC-21	typecode: PC21	serialnumber: 117	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9116	model: PC-21	typecode: PC21	serialnumber: 124	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9117	model: PC-21	typecode: PC21	serialnumber: 125	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9118	model: PC-21	typecode: PC21	serialnumber: 126	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: 9119	model: PC-21	typecode: PC21	serialnumber: 127	owner: Republic Of Singapore Air Force}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: JA862A	model: King Air B350	typecode: B350	serialnumber: FL-188	owner: Japanese Coast Guard}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: JA863A	model: King Air B350	typecode: B350	serialnumber: FL-191	owner: Japanese Coast Guard}
+Database data: {icao24: 45e459	registration: JA863J	model: 787 9	typecode: B789	serialnumber: 38137	owner: Japan Airlines}
+Database data: {icao24: 45e459	registration: JA8642	model: 340 B	typecode: SF34	serialnumber: 365	owner: Japan Air Commuter}
+Database data: {icao24: 45e459	registration: JA8649	model: 340 B	typecode: SF34	serialnumber: 368	owner: Japan Air Commuter}
+Database data: {icao24: 45e459	registration: JA864J	model: 787 9	typecode: B789	serialnumber: 34858	owner: Japan Airlines}
+Database data: {icao24: 45e459	registration: JA8654	model: A320 211	typecode: A320	serialnumber: 507	owner: All Nippon Airways}
+Database data: {icao24: 45e459	registration: JA865J	model: 787 9	typecode: B789	serialnumber: 38138	owner: Japan Airlines}
+Database data: {icao24: 45e459	registration: JA8664	model: 767 381ERBCF	typecode: B763	serialnumber: 27339	owner: All Nippon Airways}
+Database data: {icao24: 45e459	registration: JA866J	model: 787 9	typecode: B789	serialnumber: 35423	owner: Japan Airlines}
+Database data: {icao24: 45e459	registration: JA86AN	model: 737NG 881/W	typecode: B738	serialnumber: 62641	owner: All Nippon Airways}
+Database data: {icao24: 45e459	registration: JA870A	model: King Air B350	typecode: B350	serialnumber: FL-297	owner: Japanese Coast Guard}
+Database data: {icao24: 45e459	registration: JA871A	model: 787 9	typecode: B789	serialnumber: 34534	owner: All Nippon Airways}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: JA871T	model: R44 Raven	typecode: R44	serialnumber: 1243	owner: Private}
+Database data: {icao24: 45e459	registration: JA875A	model: 787 9	typecode: B789	serialnumber: 34531	owner: All Nippon Airways}
+Database data: {icao24: 45e459	registration: JA876A	model: 787 9	typecode: B789	serialnumber: 34532	owner: All Nippon Airways}
+Database data: {icao24: 45e459	registration: JA877A	model: 787 9	typecode: B789	serialnumber: 43871	owner: All Nippon Airways}
+Database data: {icao24: 45e459	registration: JA878A	model: 787 8	typecode: B788	serialnumber: 34501	owner: All Nippon Airways}
+Database data: {icao24: 45e459	registration: JA879A	model: 787 9	typecode: B789	serialnumber: 43869	owner: All Nippon Airways}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}
+Database data: {icao24: 45e459	registration: null	model: null	typecode: null	serialnumber: null	owner: null}

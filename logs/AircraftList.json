@@ -1,0 +1,35 @@
+{"src":1,"feeds":[{"id":1,"name":"From Consolidator","polarPlot":false}],"srcFeed":1,"showSil":true,"showFlg":true,"showPic":true,"flgH":20,"flgW":85
+,"acList":[{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"6230","Reg":"A319","Alt":38025,"GAlt":38025,"AltT":0,"Call":"A319","Lat":52.0179,"Long":20.4209
+,"PosTime":1622482565000,"Mlat":false,"Tisb":false,"Spd":474,"Trak":262,"TrkH":false,"Type":"A319","Mdl":"A319 Stanisławów Pierwszy, gmina Nieporęt
+, Legionowo County, Masovian Voivodeship, Poland","Man":"A319","From":"","To":"","OpIcao":"A31","Op":"A31 F-EPLB5"}
+,{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"4403D6","Reg":"OE-HKT","Alt":0,"GAlt":0,"AltT":0,"Call":"IJM070","Lat":52.4492,"Long":20.6742,"PosTime":1622482563000
+,"Mlat":false,"Tisb":false,"Spd":1,"Trak":337,"TrkH":false,"Type":"G280","Mdl":"G280 Stanisławów Pierwszy, gmina Nieporęt, Legionowo County, Masovian Voivodeship
+, Poland","Man":"G280","From":"WMI","To":"","OpIcao":"IJM","Op":"IJM F-EPMO6"},{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"3DD37F","Reg":"D-HAIP"
+,"Alt":1100,"GAlt":1100,"AltT":0,"Call":"SPTMX","Lat":52.5514,"Long":20.8714,"PosTime":1622482566000,"Mlat":false,"Tisb":false,"Spd":103,"Trak":329
+,"TrkH":false,"Type":"R44","Mdl":"R44 Stanisławów Pierwszy, gmina Nieporęt, Legionowo County, Masovian Voivodeship, Poland","Man":"R44","From":"QEB"
+,"To":"","OpIcao":"SPT","Op":"SPT F-EPMO4"},{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"48C9E2","Reg":"SP-TPC","Alt":525,"GAlt":525,"AltT":0,"Call":"SPTPC"
+,"Lat":52.5619,"Long":20.8835,"PosTime":1622482566000,"Mlat":false,"Tisb":false,"Spd":79,"Trak":174,"TrkH":false,"Type":"AAT3","Mdl":"AAT3 Stanisławów Pierwszy
+, gmina Nieporęt, Legionowo County, Masovian Voivodeship, Poland","Man":"AAT3","From":"","To":"","OpIcao":"SPT","Op":"SPT F-EPMO6"},{"Id":666,"Rcvr":1,"HasSig":false
+,"Icao":"48ACA3","Reg":"SP-LFD","Alt":300,"GAlt":300,"AltT":0,"Call":"SPLFD","Lat":52.2714,"Long":20.8898,"PosTime":1622482564000,"Mlat":false,"Tisb":false,"Spd":66
+,"Trak":100,"TrkH":false,"Type":"P208","Mdl":"P208 Stanisławów Pierwszy, gmina Nieporęt, Legionowo County, Masovian Voivodeship, Poland","Man":"P208","From":""
+,"To":"","OpIcao":"SPL","Op":"SPL F-EPWA9"},{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"48C281","Reg":"SP-RWB","Alt":1625,"GAlt":1625,"AltT":0,"Call":"SPRWB"
+,"Lat":52.3283,"Long":20.8929,"PosTime":1622482499000,"Mlat":false,"Tisb":false,"Spd":104,"Trak":300,"TrkH":false,"Type":"AAT3","Mdl":"AAT3 Stanisławów Pierwszy
+, gmina Nieporęt, Legionowo County, Masovian Voivodeship, Poland","Man":"AAT3","From":"QEB","To":"","OpIcao":"SPR","Op":"SPR T-MLAT1"},{"Id":666,"Rcvr":1
+,"HasSig":false,"Icao":"DDA835","Reg":"D-3802","Alt":347,"GAlt":347,"AltT":0,"Call":"D3802","Lat":52.2715,"Long":20.9128,"PosTime":1622482526000,"Mlat":false
+,"Tisb":false,"Spd":2,"Trak":89,"TrkH":false,"Type":"GLID","Mdl":"GLID Stanisławów Pierwszy, gmina Nieporęt, Legionowo County, Masovian Voivodeship, Poland"
+,"Man":"GLID","From":"","To":"","OpIcao":"D38","Op":"D38 T-FLRM1"},{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"48B182","Reg":"SP-MMC","Alt":1700,"GAlt":1700
+,"AltT":0,"Call":"","Lat":52.3022,"Long":20.9389,"PosTime":1622482556000,"Mlat":false,"Tisb":false,"Spd":115,"Trak":294,"TrkH":false,"Type":"C172"
+,"Mdl":"C172 Stanisławów Pierwszy, gmina Nieporęt, Legionowo County, Masovian Voivodeship, Poland","Man":"C172","From":"","To":""},{"Id":666,"Rcvr":1
+,"HasSig":false,"Icao":"48E805","Reg":"TOWER","Alt":0,"GAlt":0,"AltT":0,"Call":"","Lat":52.1656,"Long":20.9452,"PosTime":1622482508000,"Mlat":false,"Tisb":false
+,"Spd":0,"Trak":161,"TrkH":false,"Type":"GRND","Mdl":"GRND Stanisławów Pierwszy, gmina Nieporęt, Legionowo County, Masovian Voivodeship, Poland","Man":"GRND"
+,"From":"","To":""},{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"48E807","Reg":"TOWER","Alt":0,"GAlt":0,"AltT":0,"Call":"","Lat":52.1756,"Long":20.9737
+,"PosTime":1622482501000,"Mlat":false,"Tisb":false,"Spd":0,"Trak":199,"TrkH":false,"Type":"GRND","Mdl":"GRND Stanisławów Pierwszy, gmina Nieporęt
+, Legionowo County, Masovian Voivodeship, Poland","Man":"GRND","From":"","To":""},{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"48E809","Reg":"GRND"
+,"Alt":0,"GAlt":0,"AltT":0,"Call":"","Lat":52.164,"Long":20.9835,"PosTime":1622482492000,"Mlat":false,"Tisb":false,"Spd":0,"Trak":0,"TrkH":false
+,"Type":"GRND","Mdl":"GRND Stanisławów Pierwszy, gmina Nieporęt, Legionowo County, Masovian Voivodeship, Poland","Man":"GRND","From":"","To":""}
+,{"Id":666,"Rcvr":1,"HasSig":false,"Icao":"1002A9CB","Reg":"TEST4A","Alt":383,"GAlt":383,"AltT":0,"Call":"TEST4A","Lat":52.1005,"Long":21.0014
+"PosTime":1622482560000,"Mlat":false,"Tisb":false,"Spd":2,"Trak":271,"TrkH":false,"Type":"DRON","Mdl":"DRON Stanisławów Pierwszy, gmina Nieporęt
+, Legionowo County, Masovian Voivodeship, Poland","Man":"DRON","From":"","To":"","OpIcao":"TES","Op":"TES T-FLRM1"},{"Id":666,"Rcvr":1,"HasSig":false
+,"Icao":"105923FC","Reg":"UAV4A","Alt":387,"GAlt":387,"AltT":0,"Call":"UAV4A","Lat":52.1006,"Long":21.0016,"PosTime":1622482555000,"Mlat":false,"Tisb":false
+,"Spd":0,"Trak":89,"TrkH":false,"Type":"DRON","Mdl":"DRON Stanisławów Pierwszy, gmina Nieporęt, Legionowo County, Masovian Voivodeship, Poland","Man":"DRON"
+,"From":"","To":"","OpIcao":"UAV","Op":"UAV T-FLRM1"}],"totalAc":13,"lastDv":"636571117734271581","shtTrlSec":60,"stm":1521574422738}
