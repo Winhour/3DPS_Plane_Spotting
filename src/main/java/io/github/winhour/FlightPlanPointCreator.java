@@ -14,6 +14,8 @@ import java.util.function.ToDoubleBiFunction;
 
 public class FlightPlanPointCreator {
 
+    //Simulating flight points
+
     //Average flight speed for commercial plane = 450 kts
 
 

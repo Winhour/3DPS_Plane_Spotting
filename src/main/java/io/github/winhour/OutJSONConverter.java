@@ -9,6 +9,8 @@ import java.util.List;
 
 public class OutJSONConverter {
 
+    //Creating JSON output
+
     public String convert(List<PlaneData> dataList, List <PlaneData> tmpList){
 
         /* Start of JSON */

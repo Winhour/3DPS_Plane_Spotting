@@ -15,6 +15,8 @@ import java.util.List;
 
 public class FPDatabaseFunctionality {
 
+    // Doing things on data from Flight Plan database
+
     private static String outString = "";
 
     /*********************************************************************************************************************************************/

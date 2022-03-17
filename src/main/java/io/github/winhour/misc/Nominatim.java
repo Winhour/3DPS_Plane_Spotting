@@ -13,6 +13,8 @@ import org.json.JSONObject;
 
 public class Nominatim {
 
+    // Using Nominatim for accurate geolocation
+
     private String jsonString;
 
     public void initialize(double lat, double lon){

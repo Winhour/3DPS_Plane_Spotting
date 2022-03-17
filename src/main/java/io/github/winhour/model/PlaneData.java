@@ -4,6 +4,8 @@ import java.text.DecimalFormat;
 
 public class PlaneData {
 
+    //Primary container for plane data
+
     private int packId;
     private String icao24;
     private String icao;

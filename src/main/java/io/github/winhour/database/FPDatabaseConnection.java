@@ -10,6 +10,8 @@ import java.util.Set;
 
 public class FPDatabaseConnection {
 
+    // Flight Plan database interaction
+
     /************************************************************************************************************************************************/
 
     private Connection connect() {

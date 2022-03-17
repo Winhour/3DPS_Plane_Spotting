@@ -4,6 +4,8 @@ import java.util.regex.Pattern;
 
 public class RegexComparer {
 
+    //Identifying planes based on extensive name from the database
+
     public String compare (String insertString){
 
         System.out.println("REGEX COMPARISON");
@@ -58,6 +60,12 @@ public class RegexComparer {
 
             if (insertString.toLowerCase().contains("A340-600".toLowerCase())) result = "A346";
 
+            if (insertString.toLowerCase().contains("A319".toLowerCase())) result = "A319";
+
+            if (insertString.toLowerCase().contains("A320".toLowerCase())) result = "A320";
+
+            if (insertString.toLowerCase().contains("A321".toLowerCase())) result = "A321";
+
         }
 
         if (insertString.toLowerCase().contains("Aerospatiale/Alenia".toLowerCase())){
@@ -74,10 +82,19 @@ public class RegexComparer {
 
             if (insertString.toLowerCase().contains("747-400".toLowerCase())) result = "B744";
 
+            if (insertString.toLowerCase().contains("777-200".toLowerCase())) result = "B772";
+
+            if (insertString.toLowerCase().contains("777-300".toLowerCase())) result = "B773";
+
+            if (insertString.toLowerCase().contains("737-800".toLowerCase())) result = "B38M";
+
+            if (insertString.toLowerCase().contains("737-900".toLowerCase())) result = "B39M";
+
         }
 
         if (insertString.toLowerCase().contains("Cessna".toLowerCase())){
-            
+
+            //if (insertString.toLowerCase().contains("747-200".toLowerCase())) result = "B742";
 
         }
 
@@ -86,6 +103,27 @@ public class RegexComparer {
 
 
         }
+
+        if (insertString.toLowerCase().contains("Embraer".toLowerCase())){
+
+            if (insertString.toLowerCase().contains("110".toLowerCase())) result = "E110";
+
+            if (insertString.toLowerCase().contains("120".toLowerCase())) result = "E120";
+
+            if (insertString.toLowerCase().contains("190".toLowerCase())) result = "E190";
+
+            if (insertString.toLowerCase().contains("170".toLowerCase())) result = "E170";
+
+            if (insertString.toLowerCase().contains("195".toLowerCase())) result = "E195";
+
+            if (insertString.toLowerCase().contains("175".toLowerCase())) result = "E175";
+
+
+
+
+
+        }
+
 
         if (insertString.toLowerCase().contains("Beechcraft".toLowerCase())){
 
@@ -117,6 +155,7 @@ public class RegexComparer {
 
             if (insertString.toLowerCase().contains("McDonnell Douglas".toLowerCase())){
 
+                if (insertString.toLowerCase().contains("MD-11".toLowerCase())) result = "MD11";
 
 
             }
@@ -124,11 +163,6 @@ public class RegexComparer {
 
         }
 
-        if (insertString.toLowerCase().contains("Embraer".toLowerCase())){
-
-
-
-        }
 
         if (insertString.toLowerCase().contains("Fokker".toLowerCase())){
 

@@ -2,6 +2,8 @@ package io.github.winhour.model;
 
 public class FPModel {
 
+    //Primary container for plane data (flight plan version)
+
     private int dep_time;
     private int arr_time;
     private double lon1;

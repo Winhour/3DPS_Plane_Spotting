@@ -21,6 +21,8 @@ import java.util.concurrent.TimeUnit;
 
 public class OmegaFunctionality extends BaseFunctionality{
 
+    // Functionality with the usage of FPModels from fpdatabase
+
     /*********************************************************************************************************************************************/
 
     private void printOutToJSONWithinRectangleFP(List<FPModel> fpList, int time_interval, double ctime, FlightPlanPointCreator fppc, List<FPModel> tmpFPList) {
