@@ -18,7 +18,6 @@ public class FlightPlanPointCreator {
 
     //Average flight speed for commercial plane = 450 kts
 
-
     Date dt = new Date();
 
     LocalDate today = LocalDate.now();
