@@ -18,6 +18,8 @@ public class MainClass {
     //private static int TIME_IN_BETWEEN = 10;
 
 
+    // --rectangle:52.16,55.971,20.96,37.41 --source TEST_OMEGA -c --dtime 9515 --atime 9645 -t 9607
+
     private static String outString = "";
 
 
@@ -112,7 +114,7 @@ public class MainClass {
                 /*
                 FPDatabaseFunctionality fpdf = new FPDatabaseFunctionality();
                 fpdf.FPDatabaseDoTheThing();
-                 */
+                */
 
 
 

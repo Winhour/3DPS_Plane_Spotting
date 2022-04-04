@@ -15,6 +15,8 @@ import java.util.zip.ZipInputStream;
 
 public class AIGFPExtractor {
 
+    // Extracting from .aigfp Files in /AIGFP/ folder
+
     private final static Long MILLS_IN_DAY = 86400000L;
 
     /************************************************************************************************************************************************/

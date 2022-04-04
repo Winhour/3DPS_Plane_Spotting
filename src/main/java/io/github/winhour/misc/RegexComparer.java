@@ -90,6 +90,12 @@ public class RegexComparer {
 
             if (insertString.toLowerCase().contains("737-900".toLowerCase())) result = "B39M";
 
+            if (insertString.toLowerCase().contains("787".toLowerCase())){
+
+                //todo
+
+            }
+
         }
 
         if (insertString.toLowerCase().contains("Cessna".toLowerCase())){

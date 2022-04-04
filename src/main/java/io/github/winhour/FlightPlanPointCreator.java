@@ -30,6 +30,8 @@ public class FlightPlanPointCreator {
 
     public void initialize() {
 
+        /* Initializing current date */
+
         ZoneId defaultZoneId = ZoneId.systemDefault();
 
         if (today.getDayOfWeek() == DayOfWeek.MONDAY) {
@@ -47,11 +49,13 @@ public class FlightPlanPointCreator {
 
     /************************************************************************************************************************************************/
 
-    public void calculateCurrentCoordinates(int dep_time, int arr_time, double lat1, double lon1, double lat2, double lon2, int ctime, String id, FPModel fpm, FPModel tmpfp){
+    public void calculateCurrentCoordinates(int dep_time, int arr_time, double lat1, double lon1, double lat2, double lon2, double ctime, String id, FPModel fpm, FPModel tmpfp){
+
+        /*Original version, used for initial points*/
 
         double latC = 0, lonC = 0;
 
-        int current_time = 0;
+        double current_time = 0;
 
         System.out.println();
 
@@ -105,7 +109,7 @@ public class FlightPlanPointCreator {
 
             double lonDif;
 
-            int timeDif = 0;
+            double timeDif = 0;
 
             double timePercentage = 0;
 
@@ -584,6 +588,23 @@ public class FlightPlanPointCreator {
 
     /************************************************************************************************************************************************/
 
+    private void calculatePointCaseDescentManoveuring(FPModel fpm, double current_time, double latTOD, double lonTOD, double TOD_distance) {
+
+        //method for calculating descent coordinates taking into consideration manouvering
+
+    }
+
+    /************************************************************************************************************************************************/
+
+    private void calculatePointCaseClimbManoveuring(FPModel fpm, double current_time, double latTOD, double lonTOD, double TOD_distance) {
+
+        //method for calculating climb coordinates taking into consideration manouvering
+
+    }
+
+
+    /************************************************************************************************************************************************/
+
     //https://gis.stackexchange.com/questions/5821/calculating-latitude-longitude-x-miles-from-point
 
     public void calculateNewPoint(double lat, double lon, int distance, double bearing){
@@ -597,7 +618,7 @@ public class FlightPlanPointCreator {
 
     public void calculateBasedOnPreviousPoint(){
 
-
+        //different soultion if necessary
 
     }
 

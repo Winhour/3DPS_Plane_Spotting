@@ -81,6 +81,7 @@ public class FPDatabaseConnection {
 
     /************************************************************************************************************************************************/
 
+
     public void getFileNames(List<String> fileNameList){
 
         String sql = "SELECT file_name" + " FROM Airlines";
@@ -335,7 +336,7 @@ public class FPDatabaseConnection {
 
     /************************************************************************************************************************************************/
 
-    public void getNecessaryAttributesFromTablesV4(int current_time, List<FPModel> fpList, double lat_in1, double lat_in2, double lon_in1, double lon_in2){
+    public void getNecessaryAttributesFromTablesV4(double current_time, List<FPModel> fpList, double lat_in1, double lat_in2, double lon_in1, double lon_in2){
 
         //ORDER BY RANDOM()
 
@@ -991,6 +992,41 @@ public class FPDatabaseConnection {
         }
 
     }
+
+    /************************************************************************************************************************************************/
+
+    public AirportModel getFromAirports(String icao){
+
+        AirportModel tmp = new AirportModel();
+
+        String sql = "SELECT * FROM airports WHERE icao = ?";
+
+        try (Connection conn = this.connect();
+
+             PreparedStatement pstmt  = conn.prepareStatement(sql)) {
+
+            pstmt.setString(1, icao);
+
+            ResultSet rs = pstmt.executeQuery();
+
+            while (rs.next()){
+
+                tmp.setLat(rs.getDouble("latitude_mid"));
+                tmp.setLon(rs.getDouble("longitude_mid"));
+                tmp.setIcao(icao);
+                tmp.setElevation(rs.getInt("elevation"));
+
+            }
+
+        } catch (SQLException throwables) {
+            throwables.printStackTrace();
+        }
+
+        return tmp;
+
+    }
+
+
 
     /************************************************************************************************************************************************/
 

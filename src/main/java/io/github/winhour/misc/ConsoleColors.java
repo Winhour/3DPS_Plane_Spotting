@@ -1,6 +1,9 @@
 package io.github.winhour.misc;
 
 public class ConsoleColors {
+
+    //Changing colors in the console
+
     // Reset
     public static final String RESET = "\033[0m";  // Text Reset
 

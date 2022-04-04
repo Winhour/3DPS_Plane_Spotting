@@ -3,10 +3,12 @@ package io.github.winhour.functionality;
 import io.github.winhour.FlightPlanPointCreator;
 import io.github.winhour.OutJSONConverter;
 import io.github.winhour.database.FPDatabaseConnection;
+import io.github.winhour.model.AirportModel;
 import io.github.winhour.model.FPModel;
 import io.github.winhour.model.Waypoint;
 
 import java.io.IOException;
+import java.lang.reflect.Array;
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
@@ -14,9 +16,7 @@ import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.ZoneId;
 import java.time.temporal.TemporalAdjusters;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
 import java.util.concurrent.TimeUnit;
 
 public class OmegaFunctionality extends BaseFunctionality{
@@ -25,7 +25,7 @@ public class OmegaFunctionality extends BaseFunctionality{
 
     /*********************************************************************************************************************************************/
 
-    private void printOutToJSONWithinRectangleFP(List<FPModel> fpList, int time_interval, double ctime, FlightPlanPointCreator fppc, List<FPModel> tmpFPList) {
+    private void printOutToJSONWithinRectangleFP(List<FPModel> fpList, int time_interval, double ctime, FlightPlanPointCreator fppc, List<FPModel> tmpFPList, int do_while_number) {
 
         /* Print out the PlaneData to JSON */
 
@@ -52,6 +52,12 @@ public class OmegaFunctionality extends BaseFunctionality{
                 i++;
             }
              */
+
+            double lat_start = f.getLat_c();
+            double lon_start = f.getLon_c();
+            double alt_start = f.getAlt();
+            double spd_start = f.getSpd();
+
             if (f.getIteration() == 1) {
                 fppc.calculateCurrentCoordinates(f.getDep_time(), f.getArr_time(), f.getLat1(), f.getLon1(), f.getLat2(), f.getLon2(), (int)ctime, f.getIcao24(), f, tmpFPList.get(i));
                 fppc.calculateCoordinatesForFlightBasedOnSpeed(f, ctime);
@@ -59,13 +65,14 @@ public class OmegaFunctionality extends BaseFunctionality{
             else if (f.getIteration() > 1) {
                 //fppc.calculateCurrentCoordinates(f.getDep_time(), f.getArr_time(), f.getLat1(), f.getLon1(), f.getLat2(), f.getLon2(), ctime, f.getIcao24(), f, tmpFPList.get(i));
                 fppc.calculateCoordinatesForFlightBasedOnSpeed(f, ctime);
+                f.setUnix_time(f.getUnix_time()+time_interval);
             } else {
                 System.out.println("Something went wrong with iteration in FPModel");
             }
             //System.out.println(f.getDep_time()*60 + "   " + f.getTimetoclimb() + "   " + f.getTOC_time() + "   " + f.getTimetodescend() + "   " + f.getTOD_time() + "   " +  f.getArr_time()*60);
-            if (ctime != 0){
-                ctime += time_interval;
-            }
+            //if (ctime != 0){
+                //ctime += (time_interval/60);
+            //}
             FPModel test = new FPModel();
             test.setLon_c(f.getLon_c());
             test.setLat_c(f.getLat_c());
@@ -73,14 +80,37 @@ public class OmegaFunctionality extends BaseFunctionality{
             test.setAlt(f.getAlt());
             tmpFPList.set(i, test);
             i++;
+
+            double lat_delta = f.getLat_c() - lat_start;
+            double lon_delta = f.getLon_c() - lon_start;
+            double alt_delta = f.getAlt() - alt_start;
+            double spd_delta = f.getSpd() - spd_start;
+
+            DecimalFormat df = new DecimalFormat("###.##########");
+
+            System.out.println("lon_delta = " + new BigDecimal(lon_delta) + " lat_delta = " +  new BigDecimal(lat_delta) + " alt_delta = " + alt_delta + " spd_delta = " + spd_delta);
+
+            double distance_from_last_point = distance(f.getLat_c(), lat_start, f.getLon_c(), lon_start, 0, 0);
+
+            double pointSpeed = distance_from_last_point/time_interval;
+            double pointSpeedKts = ((pointSpeed/0.277777778)/1.852);
+
+            System.out.println("Distance between points: " + distance_from_last_point + " m   Point speed (kts): " + pointSpeedKts + "\n");
+
+
+
         }
 
         System.out.println("\nNumber of aircraft: " + fpList.size() + "   " + formatter.format(date) +"\n");
 
-        try {
-            writetoFile(jsonOut, "AircraftList.json");
-        } catch (IOException e) {
-            e.printStackTrace();
+        if (do_while_number > 1) {
+
+            try {
+                writetoFile(jsonOut, "AircraftList.json");
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
         }
 
 
@@ -88,9 +118,9 @@ public class OmegaFunctionality extends BaseFunctionality{
 
     /************************************************************************************************************************************************/
 
-    private void doTheThingForOmega(int ctime, int time_interval, List<FPModel> fpList, FlightPlanPointCreator fppc, List<FPModel> tmpFPList) {
+    private void doTheThingForOmega(double ctime, int time_interval, List<FPModel> fpList, FlightPlanPointCreator fppc, List<FPModel> tmpFPList, int do_while_number) {
 
-        printOutToJSONWithinRectangleFP(fpList, time_interval, ctime, fppc, tmpFPList);
+        printOutToJSONWithinRectangleFP(fpList, time_interval, ctime, fppc, tmpFPList, do_while_number);
     }
 
     /*********************************************************************************************************************************************/
@@ -161,7 +191,7 @@ public class OmegaFunctionality extends BaseFunctionality{
         }
          */
 
-        printOutToJSONWithinRectangleFP(fpList, time_interval, ctime, fppc, new ArrayList<>());
+        printOutToJSONWithinRectangleFP(fpList, time_interval, ctime, fppc, new ArrayList<>(), 2);
     }
 
     /*********************************************************************************************************************************************/
@@ -233,12 +263,12 @@ public class OmegaFunctionality extends BaseFunctionality{
         }
          */
 
-        printOutToJSONWithinRectangleFP(fpList, time_interval, ctime, fppc, new ArrayList<>());
+        printOutToJSONWithinRectangleFP(fpList, time_interval, ctime, fppc, new ArrayList<>(),2);
     }
 
     /*********************************************************************************************************************************************/
 
-    public void doTheThingForOmegaRep(double lamin, double lamax, double lomin, double lomax, int ctime, int time_interval, List<Waypoint> waypointList) {
+    public void doTheThingForOmegaRep(double lamin, double lamax, double lomin, double lomax, double ctime, int time_interval, List<Waypoint> waypointList) {
 
         /* OMEGA repeatedly for testing */
 
@@ -266,7 +296,7 @@ public class OmegaFunctionality extends BaseFunctionality{
 
         }
 
-        int minutes = 0;
+        double minutes = 0;
 
         if (ctime != 0) {
 
@@ -298,9 +328,47 @@ public class OmegaFunctionality extends BaseFunctionality{
         }
          */
 
+        Set<String> aircraftIcaos = new HashSet<>();
+        List<AirportModel> amList = new ArrayList<>();
+
         System.out.println();
         for (FPModel f: fpList){
             System.out.println(f.toString());
+
+            //Temporary setting here
+
+            f.setType("B738");
+            f.setModel("Boeing 737-800");
+            f.setMan("Boeing");
+
+            //setting up aircrafts
+
+            aircraftIcaos.add(f.getDep_apt());
+            aircraftIcaos.add(f.getArr_apt());
+
+
+        }
+
+        //System.out.println(aircraftIcaos);
+
+        for (String ai : aircraftIcaos){
+
+            AirportModel tmp = fpdc.getFromAirports(ai);
+            amList.add(tmp);
+
+        }
+
+        for (AirportModel am: amList){
+
+
+            System.out.println(am.toString());
+
+            for (FPModel f: fpList){
+                if (f.getDep_apt().equals(am.getIcao())){
+                    am.add_to_fpmlist_departures(f);
+                }
+            }
+
         }
 
         for (FPModel f: fpList){
@@ -327,11 +395,42 @@ public class OmegaFunctionality extends BaseFunctionality{
         FlightPlanPointCreator fppc = new FlightPlanPointCreator();
         fppc.initialize();
 
+        int do_while_number = 0;
+
         do {
 
-            doTheThingForOmega(ctime,time_interval,fpList, fppc, tmpFPList);
+            //Save current time
 
-            waitXSec(time_interval);
+            Date date = new Date();
+
+            doTheThingForOmega(ctime,time_interval,fpList, fppc, tmpFPList, do_while_number);
+
+            if(do_while_number > 1) {
+
+                //Modify in order to consider real time
+
+                Date date2 = new Date();
+
+                int seconds = (int) TimeUnit.MILLISECONDS.toSeconds(date2.getTime() - date.getTime());
+
+                System.out.println("Real time seconds passed: " + seconds);
+
+                if(time_interval>=seconds) {
+
+                    waitXSec(time_interval - seconds);
+
+                } else {
+
+                    time_interval = seconds;
+
+                }
+
+                System.out.println("Time_interval: " + time_interval + "\n");
+
+            }
+
+            do_while_number++;
+            ctime += (double)time_interval/60;
 
         } while (true);
 
@@ -415,7 +514,7 @@ public class OmegaFunctionality extends BaseFunctionality{
             //fppc.calculateCoordinatesForFlightBasedOnSpeed(fpm, ctime);
 
             if (!fpList.get(0).isLanded()) {
-                printOutToJSONWithinRectangleFP(fpList, time_interval, ctime, fppc, tmpFPList);
+                printOutToJSONWithinRectangleFP(fpList, time_interval, ctime, fppc, tmpFPList, 2);
             } else {
 
                 try {
