@@ -1208,7 +1208,42 @@ public class FPDatabaseConnection {
         }
 
 
-}
+    }
+
+    /************************************************************************************************************************************************/
+
+    public void getRunwayEndsForAirportIcao(AirportModel airport){
+
+        String sql = "SELECT id, icao, latitude, longitude FROM runway_ends WHERE icao = ? ORDER BY id";
+
+        try (Connection conn = this.connect();
+
+             PreparedStatement pstmt  = conn.prepareStatement(sql);) {
+
+            pstmt.setString(1, airport.getIcao());
+
+            ResultSet rs = pstmt.executeQuery();
+
+            while (rs.next()) {
+
+                Runway_end rend = new Runway_end();
+
+                rend.setId(rs.getInt("id"));
+                rend.setLatitude(rs.getDouble("latitude"));
+                rend.setLongitude(rs.getDouble("longitude"));
+                rend.setIcao(rs.getString("icao"));
+
+                
+                airport.add_to_runway_ends(rend);
+
+            }
+
+
+        } catch (SQLException throwables) {
+            throwables.printStackTrace();
+        }
+
+    }
 
 
 
